@@ -1,0 +1,1232 @@
+Text Content:
+
+
+Tables:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+California	94-2404110
+(State or other jurisdiction of incorporation or organization)	(I.R.S. Employer Identification No.)
+1 Infinite LoopCupertino, California	95014
+(Address of principal executive offices)	(Zip Code)
+
+
+
+
+
+
+
+Common Stock, $0.00001 par value per share1.000%  Notes due 20221.375%  Notes due 2024 1.625%  Notes due 2026 2.000%  Notes due 2027 3.050%  Notes due 2029 3.600%  Notes due 2042	The NASDAQ Stock Market LLCNew York Stock Exchange LLCNew York Stock Exchange LLCNew York Stock Exchange LLCNew York Stock Exchange LLCNew York Stock Exchange LLCNew York Stock Exchange LLC
+(Title of class)	(Name of exchange on which registered)
+
+
+
+
+
+
+
+Large accelerated filer ☒	Accelerated filer	☐
+Non-accelerated filer   ☐	(Do not check if a smaller reporting company)	Smaller reporting company	☐
+
+
+
+
+
+
+
+Page
+Part I
+Item 1.	Business	1
+Item 1A.	Risk Factors	8
+Item 1B.	Unresolved Staff Comments	17
+Item 2.	Properties	17
+Item 3.	Legal Proceedings	17
+Item 4.	Mine Safety Disclosures	17
+Part II
+Item 5.	Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities	18
+Item 6.	Selected Financial Data	21
+Item 7.	Management’s Discussion and Analysis of Financial Condition and Results of Operations	22
+Item 7A.	Quantitative and Qualitative Disclosures About Market Risk	36
+Item 8.	Financial Statements and Supplementary Data	38
+Item 9.	Changes in and Disagreements With Accountants on Accounting and Financial Disclosure	72
+Item 9A.	Controls and Procedures	72
+Item 9B.	Other Information	72
+Part III
+Item 10.	Directors, Executive Officers and Corporate Governance	73
+Item 11.	Executive Compensation	73
+Item 12.	Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters	73
+Item 13.	Certain Relationships and Related Transactions and Director Independence	73
+Item 14.	Principal Accounting Fees and Services	73
+Part IV
+Item 15.	Exhibits, Financial Statement Schedules	74
+
+
+Item 1.	Business
+
+
+Item 1A.	Risk Factors
+
+
+Item 1B.	Unresolved Staff Comments
+
+
+Item 2.	Properties
+
+
+Item 3.	Legal Proceedings
+
+
+Item 4.	Mine Safety Disclosures
+
+
+Item 5.	Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+
+
+
+Fourth Quarter	Third Quarter	Second Quarter	First Quarter
+2016 price range per share	$116.18 - $91.50	$112.39 - $89.47	$109.43 - $92.39	$123.82 - $105.57
+2015 price range per share	$132.97 - $92.00	$134.54 - $123.10	$133.60 - $104.63	$119.75 - $95.18
+
+
+
+Periods	Total Number of Shares Purchased	Average Price Paid Per Share	Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs	Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs (1)
+June 26, 2016 to July 30, 2016:
+Open market and privately negotiated purchases	9,036	$	96.83	9,036
+
+July 31, 2016 to August 27, 2016:
+May 2016 ASR	12,269	(2)	12,269
+Open market and privately negotiated purchases	11,919	$	108.11	11,919
+
+August 28, 2016 to September 24, 2016:
+August 2016 ASR	22,468	(3)	(3)	22,468	(3)
+Open market and privately negotiated purchases	7,624	$	109.71	7,624
+Total	63,316	$	42,024
+
+
+(1)	In April 2016, the Company’s Board of Directors increased the Company's share repurchase program authorization from $140 billion to $175 billion of the Company’s common stock. As of September 24, 2016, $133 billion of the $175 billion had been utilized. The remaining $42 billion in the table represents the amount available to repurchase shares under the authorized repurchase program as of September 24, 2016. The Company’s share repurchase program does not obligate it to acquire any specific number of shares. Under the program, shares may be repurchased in privately negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act.
+
+
+(2)	In May 2016, the Company entered into an accelerated share repurchase arrangement ("ASR") to purchase up to $6.0 billion of the Company's common stock. In August 2016, the purchase period for this ASR ended and an additional 12.3 million shares were delivered and retired. In total, 60.5 million shares were delivered under this ASR at an average repurchase price of $99.25.
+
+
+(3)	In August 2016, the Company entered into a new ASR to purchase up to $3.0 billion of the Company’s common stock. In exchange for an up-front payment of $3.0 billion, the financial institution party to the arrangement committed to deliver shares to the Company during the ASR’s purchase period, which will end in or before November 2016. The total number of shares ultimately delivered, and therefore the average price paid per share, will be determined at the end of the applicable purchase period based on the volume weighted-average price of the Company’s common stock during that period.
+
+
+*	$100 invested on 9/23/11 in stock or index, including reinvestment of dividends. Data points are the last day of each fiscal year for the Company’s common stock and September 30th for indexes.
+
+
+
+September 2011	September 2012	September 2013	September 2014	September 2015	September 2016
+Apple Inc.	$	100	$	166	$	123	$	183	$	212	$	213
+S&P 500 Index	$	100	$	130	$	155	$	186	$	185	$	213
+S&P Information Technology Index	$	100	$	132	$	142	$	183	$	187	$	230
+Dow Jones U.S. Technology Supersector Index	$	100	$	130	$	137	$	178	$	177	$	217
+
+
+Item 6.	Selected Financial Data
+
+
+
+2016	2015	2014	2013	2012
+Net sales	$	215,639	$	233,715	$	182,795	$	170,910	$	156,508
+Net income	$	45,687	$	53,394	$	39,510	$	37,037	$	41,733
+
+Earnings per share:
+Basic	$	8.35	$	9.28	$	6.49	$	5.72	$	6.38
+Diluted	$	8.31	$	9.22	$	6.45	$	5.68	$	6.31
+
+Cash dividends declared per share	$	2.18	$	1.98	$	1.82	$	1.64	$	0.38
+
+Shares used in computing earnings per share:
+Basic	5,470,820	5,753,421	6,085,572	6,477,320	6,543,726
+Diluted	5,500,281	5,793,069	6,122,663	6,521,634	6,617,483
+
+Total cash, cash equivalents and marketable securities	$	237,585	$	205,666	$	155,239	$	146,761	$	121,251
+Total assets	$	321,686	$	290,345	$	231,839	$	207,000	$	176,064
+Commercial paper	$	8,105	$	8,499	$	6,308	$	—	$	—
+Total term debt (1)	$	78,927	$	55,829	$	28,987	$	16,960	$	—
+Other long-term obligations (2)	$	36,074	$	33,427	$	24,826	$	20,208	$	16,664
+Total liabilities	$	193,437	$	170,990	$	120,292	$	83,451	$	57,854
+Total shareholders’ equity	$	128,249	$	119,355	$	111,547	$	123,549	$	118,210
+
+
+(1)	Includes current and long-term portion of term debt.
+
+
+(2)	Other long-term obligations excludes non-current deferred revenue.
+
+
+Item 7.	Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+
+
+2016	Change	2015	Change	2014
+Net Sales by Operating Segment:
+Americas	$	86,613	(8	)%	$	93,864	17	%	$	80,095
+Europe	49,952	(1	)%	50,337	14	%	44,285
+Greater China	48,492	(17	)%	58,715	84	%	31,853
+Japan	16,928	8	%	15,706	3	%	15,314
+Rest of Asia Pacific	13,654	(10	)%	15,093	34	%	11,248
+Total net sales	$	215,639	(8	)%	$	233,715	28	%	$	182,795
+
+Net Sales by Product:
+iPhone (1)	$	136,700	(12	)%	$	155,041	52	%	$	101,991
+iPad (1)	20,628	(11	)%	23,227	(23	)%	30,283
+Mac (1)	22,831	(10	)%	25,471	6	%	24,079
+Services (2)	24,348	22	%	19,909	10	%	18,063
+Other Products (1)(3)	11,132	11	%	10,067	20	%	8,379
+Total net sales	$	215,639	(8	)%	$	233,715	28	%	$	182,795
+
+Unit Sales by Product:
+iPhone	211,884	(8	)%	231,218	37	%	169,219
+iPad	45,590	(17	)%	54,856	(19	)%	67,977
+Mac	18,484	(10	)%	20,587	9	%	18,906
+
+
+(1)	Includes deferrals and amortization of related software upgrade rights and non-software services.
+
+
+(2)	Includes revenue from Internet Services, AppleCare®, Apple Pay, licensing and other services.
+
+
+(3)	Includes sales of Apple TV, Apple Watch, Beats® products, iPod and Apple-branded and third-party accessories.
+
+
+
+2016	Change	2015	Change	2014
+Net sales	$	136,700	(12	)%	$	155,041	52	%	$	101,991
+Percentage of total net sales	63	%	66	%	56	%
+Unit sales	211,884	(8	)%	231,218	37	%	169,219
+
+
+
+2016	Change	2015	Change	2014
+Net sales	$	20,628	(11	)%	$	23,227	(23	)%	$	30,283
+Percentage of total net sales	10	%	10	%	17	%
+Unit sales	45,590	(17	)%	54,856	(19	)%	67,977
+
+
+
+2016	Change	2015	Change	2014
+Net sales	$	22,831	(10	)%	$	25,471	6	%	$	24,079
+Percentage of total net sales	11	%	11	%	13	%
+Unit sales	18,484	(10	)%	20,587	9	%	18,906
+
+
+
+2016	Change	2015	Change	2014
+Net sales	$	24,348	22	%	$	19,909	10	%	$	18,063
+Percentage of total net sales	11	%	9	%	10	%
+
+
+
+2016	Change	2015	Change	2014
+Net sales	$	86,613	(8	)%	$	93,864	17	%	$	80,095
+Percentage of total net sales	40	%	40	%	44	%
+
+
+
+2016	Change	2015	Change	2014
+Net sales	$	49,952	(1	)%	$	50,337	14	%	$	44,285
+Percentage of total net sales	23	%	22	%	24	%
+
+
+
+2016	Change	2015	Change	2014
+Net sales	$	48,492	(17	)%	$	58,715	84	%	$	31,853
+Percentage of total net sales	22	%	25	%	17	%
+
+
+
+2016	Change	2015	Change	2014
+Net sales	$	16,928	8	%	$	15,706	3	%	$	15,314
+Percentage of total net sales	8	%	7	%	8	%
+
+
+
+2016	Change	2015	Change	2014
+Net sales	$	13,654	(10	)%	$	15,093	34	%	$	11,248
+Percentage of total net sales	6	%	6	%	6	%
+
+
+
+2016	2015	2014
+Net sales	$	215,639	$	233,715	$	182,795
+Cost of sales	131,376	140,089	112,258
+Gross margin	$	84,263	$	93,626	$	70,537
+Gross margin percentage	39.1	%	40.1	%	38.6	%
+
+
+
+2016	Change	2015	Change	2014
+Research and development	$	10,045	25	%	$	8,067	34	%	$	6,041
+Percentage of total net sales	5	%	3	%	3	%
+Selling, general and administrative	$	14,194	(1	)%	$	14,329	19	%	$	11,993
+Percentage of total net sales	7	%	6	%	7	%
+Total operating expenses	$	24,239	8	%	$	22,396	24	%	$	18,034
+Percentage of total net sales	11	%	10	%	10	%
+
+
+
+2016	Change	2015	Change	2014
+Interest and dividend income	$	3,999	$	2,921	$	1,795
+Interest expense	(1,456	)	(733	)	(384	)
+Other expense, net	(1,195	)	(903	)	(431	)
+Total other income/(expense), net	$	1,348	5	%	$	1,285	31	%	$	980
+
+
+
+2016	2015	2014
+Provision for income taxes	15,685	$	19,121	$	13,973
+Effective tax rate	25.6	%	26.4	%	26.1	%
+
+
+
+2016	2015	2014
+Cash, cash equivalents and marketable securities	$	237,585	$	205,666	$	155,239
+Property, plant and equipment, net	$	27,010	$	22,471	$	20,624
+Commercial paper	$	8,105	$	8,499	$	6,308
+Total term debt	$	78,927	$	55,829	$	28,987
+Working capital	$	27,863	$	8,768	$	5,083
+Cash generated by operating activities	$	65,824	$	81,266	$	59,713
+Cash used in investing activities	$	(45,977	)	$	(56,274	)	$	(22,579	)
+Cash used in financing activities	$	(20,483	)	$	(17,716	)	$	(37,549	)
+
+
+
+2017	$	3,500
+2018	6,500
+2019	6,834
+2020	6,454
+2021	7,750
+Thereafter	47,346
+Total term debt	$	78,384
+
+
+
+Dividends andDividend Equivalents Paid	Accelerated ShareRepurchases	Open MarketShare Repurchases	Taxes Related to Settlement of Equity Awards	Total
+2016	$	12,150	$	12,000	$	17,000	$	1,570	$	42,720
+2015	11,561	6,000	30,026	1,499	49,086
+2014	11,126	21,000	24,000	1,158	57,284
+2013	10,564	13,950	9,000	1,082	34,596
+2012	2,488	—	—	56	2,544
+Total	$	47,889	$	52,950	$	80,026	$	5,365	$	186,230
+
+
+
+Payments Due in Less Than 1 Year	Payments Due in 1-3 Years	Payments Due in 4-5 Years	Payments Due in More Than 5 Years	Total
+Term debt	$	3,500	$	13,334	$	14,204	$	47,346	$	78,384
+Operating leases	929	1,834	1,725	3,139	7,627
+Manufacturing purchase obligations	24,695	939	1,830	1,127	28,591
+Other purchase obligations	3,503	1,732	653	732	6,620
+Total	$	32,627	$	17,839	$	18,412	$	52,344	$	121,222
+
+
+Item 7A.	Quantitative and Qualitative Disclosures About Market Risk
+
+
+Item 8.	Financial Statements and Supplementary Data
+
+
+
+Index to Consolidated Financial Statements	Page
+Consolidated Statements of Operations for the years ended September 24, 2016, September 26, 2015 and September 27, 2014	39
+Consolidated Statements of Comprehensive Income for the years ended September 24, 2016, September 26, 2015 and September 27, 2014	40
+Consolidated Balance Sheets as of September 24, 2016 and September 26, 2015	41
+Consolidated Statements of Shareholders’ Equity for the years ended September 24, 2016, September 26, 2015 and September 27, 2014	42
+Consolidated Statements of Cash Flows for the years ended September 24, 2016, September 26, 2015 and September 27, 2014	43
+Notes to Consolidated Financial Statements	44
+Selected Quarterly Financial Information (Unaudited)	69
+Reports of Ernst & Young LLP, Independent Registered Public Accounting Firm	70
+
+
+
+Years ended
+September 24, 2016	September 26, 2015	September 27, 2014
+Net sales	$	215,639	$	233,715	$	182,795
+Cost of sales	131,376	140,089	112,258
+Gross margin	84,263	93,626	70,537
+
+Operating expenses:
+Research and development	10,045	8,067	6,041
+Selling, general and administrative	14,194	14,329	11,993
+Total operating expenses	24,239	22,396	18,034
+
+Operating income	60,024	71,230	52,503
+Other income/(expense), net	1,348	1,285	980
+Income before provision for income taxes	61,372	72,515	53,483
+Provision for income taxes	15,685	19,121	13,973
+Net income	$	45,687	$	53,394	$	39,510
+
+Earnings per share:
+Basic	$	8.35	$	9.28	$	6.49
+Diluted	$	8.31	$	9.22	$	6.45
+
+Shares used in computing earnings per share:
+Basic	5,470,820	5,753,421	6,085,572
+Diluted	5,500,281	5,793,069	6,122,663
+
+Cash dividends declared per share	$	2.18	$	1.98	$	1.82
+
+
+
+Years ended
+September 24, 2016	September 26, 2015	September 27, 2014
+Net income	$	45,687	$	53,394	$	39,510
+Other comprehensive income/(loss):
+Change in foreign currency translation, net of tax effects of $8, $201 and $50, respectively	75	(411	)	(137	)
+
+Change in unrealized gains/losses on derivative instruments:
+Change in fair value of derivatives, net of tax benefit/(expense) of $(7), $(441) and $(297), respectively	7	2,905	1,390
+Adjustment for net (gains)/losses realized and included in net income, net of tax expense/(benefit) of $131, $630 and $(36), respectively	(741	)	(3,497	)	149
+Total change in unrealized gains/losses on derivative instruments, net of tax	(734	)	(592	)	1,539
+
+Change in unrealized gains/losses on marketable securities:
+Change in fair value of marketable securities, net of tax benefit/(expense) of $(863), $264 and $(153), respectively	1,582	(483	)	285
+Adjustment for net (gains)/losses realized and included in net income, net of tax expense/(benefit) of $(31), $(32) and $71, respectively	56	59	(134	)
+Total change in unrealized gains/losses on marketable securities, net of tax	1,638	(424	)	151
+
+Total other comprehensive income/(loss)	979	(1,427	)	1,553
+Total comprehensive income	$	46,666	$	51,967	$	41,063
+
+
+
+September 24, 2016	September 26, 2015
+ASSETS:
+Current assets:
+Cash and cash equivalents	$	20,484	$	21,120
+Short-term marketable securities	46,671	20,481
+Accounts receivable, less allowances of $53 and $63, respectively	15,754	16,849
+Inventories	2,132	2,349
+Vendor non-trade receivables	13,545	13,494
+Other current assets	8,283	15,085
+Total current assets	106,869	89,378
+
+Long-term marketable securities	170,430	164,065
+Property, plant and equipment, net	27,010	22,471
+Goodwill	5,414	5,116
+Acquired intangible assets, net	3,206	3,893
+Other non-current assets	8,757	5,422
+Total assets	$	321,686	$	290,345
+
+LIABILITIES AND SHAREHOLDERS’ EQUITY:
+Current liabilities:
+Accounts payable	$	37,294	$	35,490
+Accrued expenses	22,027	25,181
+Deferred revenue	8,080	8,940
+Commercial paper	8,105	8,499
+Current portion of long-term debt	3,500	2,500
+Total current liabilities	79,006	80,610
+
+Deferred revenue, non-current	2,930	3,624
+Long-term debt	75,427	53,329
+Other non-current liabilities	36,074	33,427
+Total liabilities	193,437	170,990
+
+Commitments and contingencies
+
+Shareholders’ equity:
+Common stock and additional paid-in capital, $0.00001 par value: 12,600,000 shares authorized; 5,336,166 and 5,578,753 shares issued and outstanding, respectively	31,251	27,416
+Retained earnings	96,364	92,284
+Accumulated other comprehensive income/(loss)	634	(345	)
+Total shareholders’ equity	128,249	119,355
+Total liabilities and shareholders’ equity	$	321,686	$	290,345
+
+
+
+Common Stock andAdditional Paid-In Capital	Retained Earnings	Accumulated OtherComprehensive Income/(Loss)	Total Shareholders’ Equity
+Shares	Amount
+Balances as of September 28, 2013	6,294,494	$	19,764	$	104,256	$	(471	)	$	123,549
+Net income	—	—	39,510	—	39,510
+Other comprehensive income/(loss)	—	—	—	1,553	1,553
+Dividends and dividend equivalents declared	—	—	(11,215	)	—	(11,215	)
+Repurchase of common stock	(488,677	)	—	(45,000	)	—	(45,000	)
+Share-based compensation	—	2,863	—	—	2,863
+Common stock issued, net of shares withheld for employee taxes	60,344	(49	)	(399	)	—	(448	)
+Tax benefit from equity awards, including transfer pricing adjustments	—	735	—	—	735
+Balances as of September 27, 2014	5,866,161	23,313	87,152	1,082	111,547
+Net income	—	—	53,394	—	53,394
+Other comprehensive income/(loss)	—	—	—	(1,427	)	(1,427	)
+Dividends and dividend equivalents declared	—	—	(11,627	)	—	(11,627	)
+Repurchase of common stock	(325,032	)	—	(36,026	)	—	(36,026	)
+Share-based compensation	—	3,586	—	—	3,586
+Common stock issued, net of shares withheld for employee taxes	37,624	(231	)	(609	)	—	(840	)
+Tax benefit from equity awards, including transfer pricing adjustments	—	748	—	—	748
+Balances as of September 26, 2015	5,578,753	27,416	92,284	(345	)	119,355
+Net income	—	—	45,687	—	45,687
+Other comprehensive income/(loss)	—	—	—	979	979
+Dividends and dividend equivalents declared	—	—	(12,188	)	—	(12,188	)
+Repurchase of common stock	(279,609	)	—	(29,000	)	—	(29,000	)
+Share-based compensation	—	4,262	—	—	4,262
+Common stock issued, net of shares withheld for employee taxes	37,022	(806	)	(419	)	—	(1,225	)
+Tax benefit from equity awards, including transfer pricing adjustments	—	379	—	—	379
+Balances as of September 24, 2016	5,336,166	$	31,251	$	96,364	$	634	$	128,249
+
+
+
+Years ended
+September 24, 2016	September 26, 2015	September 27, 2014
+Cash and cash equivalents, beginning of the year	$	21,120	$	13,844	$	14,259
+
+Operating activities:
+Net income	45,687	53,394	39,510
+Adjustments to reconcile net income to cash generated by operating activities:
+Depreciation and amortization	10,505	11,257	7,946
+Share-based compensation expense	4,210	3,586	2,863
+Deferred income tax expense	4,938	1,382	2,347
+Changes in operating assets and liabilities:
+Accounts receivable, net	1,095	611	(4,232	)
+Inventories	217	(238	)	(76	)
+Vendor non-trade receivables	(51	)	(3,735	)	(2,220	)
+Other current and non-current assets	1,090	(179	)	167
+Accounts payable	1,791	5,400	5,938
+Deferred revenue	(1,554	)	1,042	1,460
+Other current and non-current liabilities	(2,104	)	8,746	6,010
+Cash generated by operating activities	65,824	81,266	59,713
+
+Investing activities:
+Purchases of marketable securities	(142,428	)	(166,402	)	(217,128	)
+Proceeds from maturities of marketable securities	21,258	14,538	18,810
+Proceeds from sales of marketable securities	90,536	107,447	189,301
+Payments made in connection with business acquisitions, net	(297	)	(343	)	(3,765	)
+Payments for acquisition of property, plant and equipment	(12,734	)	(11,247	)	(9,571	)
+Payments for acquisition of intangible assets	(814	)	(241	)	(242	)
+Payments for strategic investments	(1,388	)	—	(10	)
+Other	(110	)	(26	)	26
+Cash used in investing activities	(45,977	)	(56,274	)	(22,579	)
+
+Financing activities:
+Proceeds from issuance of common stock	495	543	730
+Excess tax benefits from equity awards	407	749	739
+Payments for taxes related to net share settlement of equity awards	(1,570	)	(1,499	)	(1,158	)
+Payments for dividends and dividend equivalents	(12,150	)	(11,561	)	(11,126	)
+Repurchases of common stock	(29,722	)	(35,253	)	(45,000	)
+Proceeds from issuance of term debt, net	24,954	27,114	11,960
+Repayments of term debt	(2,500	)	—	—
+Change in commercial paper, net	(397	)	2,191	6,306
+Cash used in financing activities	(20,483	)	(17,716	)	(37,549	)
+
+Increase/(Decrease) in cash and cash equivalents	(636	)	7,276	(415	)
+Cash and cash equivalents, end of the year	$	20,484	$	21,120	$	13,844
+
+Supplemental cash flow disclosure:
+Cash paid for income taxes, net	$	10,444	$	13,252	$	10,026
+Cash paid for interest	$	1,316	$	514	$	339
+
+
+
+2016	2015	2014
+Numerator:
+Net income	$	45,687	$	53,394	$	39,510
+
+Denominator:
+Weighted-average shares outstanding	5,470,820	5,753,421	6,085,572
+Effect of dilutive securities	29,461	39,648	37,091
+Weighted-average diluted shares	5,500,281	5,793,069	6,122,663
+
+Basic earnings per share	$	8.35	$	9.28	$	6.49
+Diluted earnings per share	$	8.31	$	9.22	$	6.45
+
+
+
+2016
+AdjustedCost	UnrealizedGains	UnrealizedLosses	FairValue	Cash andCashEquivalents	Short-TermMarketableSecurities	Long-TermMarketableSecurities
+Cash	$	8,601	$	—	$	—	$	8,601	$	8,601	$	—	$	—
+
+Level 1:
+Money market funds	3,666	—	—	3,666	3,666	—	—
+Mutual funds	1,407	—	(146	)	1,261	—	1,261	—
+Subtotal	5,073	—	(146	)	4,927	3,666	1,261	—
+
+Level 2:
+U.S. Treasury securities	41,697	319	(4	)	42,012	1,527	13,492	26,993
+U.S. agency securities	7,543	16	—	7,559	2,762	2,441	2,356
+Non-U.S. government securities	7,609	259	(27	)	7,841	110	818	6,913
+Certificates of deposit and time deposits	6,598	—	—	6,598	1,108	3,897	1,593
+Commercial paper	7,433	—	—	7,433	2,468	4,965	—
+Corporate securities	131,166	1,409	(206	)	132,369	242	19,599	112,528
+Municipal securities	956	5	—	961	—	167	794
+Mortgage- and asset-backed securities	19,134	178	(28	)	19,284	—	31	19,253
+Subtotal	222,136	2,186	(265	)	224,057	8,217	45,410	170,430
+
+Total	$	235,810	$	2,186	$	(411	)	$	237,585	$	20,484	$	46,671	$	170,430
+
+
+
+2015
+AdjustedCost	UnrealizedGains	UnrealizedLosses	FairValue	Cash andCashEquivalents	Short-TermMarketableSecurities	Long-TermMarketableSecurities
+Cash	$	11,389	$	—	$	—	$	11,389	$	11,389	$	—	$	—
+
+Level 1:
+Money market funds	1,798	—	—	1,798	1,798	—	—
+Mutual funds	1,772	—	(144	)	1,628	—	1,628	—
+Subtotal	3,570	—	(144	)	3,426	1,798	1,628	—
+
+Level 2:
+U.S. Treasury securities	34,902	181	(1	)	35,082	—	3,498	31,584
+U.S. agency securities	5,864	14	—	5,878	841	767	4,270
+Non-U.S. government securities	6,356	45	(167	)	6,234	43	135	6,056
+Certificates of deposit and time deposits	4,347	—	—	4,347	2,065	1,405	877
+Commercial paper	6,016	—	—	6,016	4,981	1,035	—
+Corporate securities	116,908	242	(985	)	116,165	3	11,948	104,214
+Municipal securities	947	5	—	952	—	48	904
+Mortgage- and asset-backed securities	16,121	87	(31	)	16,177	—	17	16,160
+Subtotal	191,461	574	(1,184	)	190,851	7,933	18,853	164,065
+
+Total	$	206,420	$	574	$	(1,328	)	$	205,666	$	21,120	$	20,481	$	164,065
+
+
+
+2016
+Fair Value ofDerivatives Designatedas Hedge Instruments	Fair Value ofDerivatives Not Designatedas Hedge Instruments	TotalFair Value
+Derivative assets (1):
+Foreign exchange contracts	$	518	$	153	$	671
+Interest rate contracts	$	728	$	—	$	728
+
+Derivative liabilities (2):
+Foreign exchange contracts	$	935	$	134	$	1,069
+Interest rate contracts	$	7	$	—	$	7
+
+
+
+2015
+Fair Value ofDerivatives Designatedas Hedge Instruments	Fair Value ofDerivatives Not Designatedas Hedge Instruments	TotalFair Value
+Derivative assets (1):
+Foreign exchange contracts	$	1,442	$	109	$	1,551
+Interest rate contracts	$	394	$	—	$	394
+
+Derivative liabilities (2):
+Foreign exchange contracts	$	905	$	94	$	999
+Interest rate contracts	$	13	$	—	$	13
+
+
+(1)	The fair value of derivative assets is measured using Level 2 fair value inputs and is recorded as other current assets in the Consolidated Balance Sheets.
+
+
+(2)	The fair value of derivative liabilities is measured using Level 2 fair value inputs and is recorded as accrued expenses in the Consolidated Balance Sheets.
+
+
+
+2016	2015	2014
+Gains/(Losses) recognized in OCI – effective portion:
+Cash flow hedges:
+Foreign exchange contracts	$	109	$	3,592	$	1,750
+Interest rate contracts	(57	)	(111	)	(15	)
+Total	$	52	$	3,481	$	1,735
+
+Net investment hedges:
+Foreign exchange contracts	$	—	$	167	$	53
+Foreign currency debt	(258	)	(71	)	—
+Total	$	(258	)	$	96	$	53
+
+Gains/(Losses) reclassified from AOCI into net income – effective portion:
+Cash flow hedges:
+Foreign exchange contracts	$	885	$	4,092	$	(154	)
+Interest rate contracts	(11	)	(17	)	(16	)
+Total	$	874	$	4,075	$	(170	)
+
+Gains/(Losses) on derivative instruments:
+Fair value hedges:
+Interest rate contracts	$	341	$	337	$	39
+
+Gains/(Losses) related to hedged items:
+Fair value hedges:
+Interest rate contracts	$	(341	)	$	(337	)	$	(39	)
+
+
+
+2016	2015
+NotionalAmount	Credit RiskAmount	NotionalAmount	Credit RiskAmount
+Instruments designated as accounting hedges:
+Foreign exchange contracts	$	44,678	$	518	$	70,054	$	1,385
+Interest rate contracts	$	24,500	$	728	$	18,750	$	394
+
+Instruments not designated as accounting hedges:
+Foreign exchange contracts	$	54,305	$	153	$	49,190	$	109
+
+
+
+2016	2015
+Land and buildings	$	10,185	$	6,956
+Machinery, equipment and internal-use software	44,543	37,038
+Leasehold improvements	6,517	5,263
+Gross property, plant and equipment	61,245	49,257
+Accumulated depreciation and amortization	(34,235	)	(26,786	)
+Total property, plant and equipment, net	$	27,010	$	22,471
+
+
+
+2016	2015
+Deferred tax liabilities	$	26,019	$	24,062
+Other non-current liabilities	10,055	9,365
+Total other non-current liabilities	$	36,074	$	33,427
+
+
+
+2016	2015	2014
+Interest and dividend income	$	3,999	$	2,921	$	1,795
+Interest expense	(1,456	)	(733	)	(384	)
+Other expense, net	(1,195	)	(903	)	(431	)
+Total other income/(expense), net	$	1,348	$	1,285	$	980
+
+
+
+2016	2015
+GrossCarrying Amount	AccumulatedAmortization	Net Carrying Amount	GrossCarrying Amount	AccumulatedAmortization	Net Carrying Amount
+Definite-lived and amortizable acquired intangible assets	$	8,912	$	(5,806	)	$	3,106	$	8,125	$	(4,332	)	$	3,793
+Indefinite-lived and non-amortizable acquired intangible assets	100	—	100	100	—	100
+Total acquired intangible assets	$	9,012	$	(5,806	)	$	3,206	$	8,225	$	(4,332	)	$	3,893
+
+
+
+2017	$	1,197
+2018	902
+2019	449
+2020	255
+2021	175
+Thereafter	128
+Total	$	3,106
+
+
+
+2016	2015	2014
+Federal:
+Current	$	7,652	$	11,730	$	8,624
+Deferred	5,043	3,408	3,183
+12,695	15,138	11,807
+State:
+Current	990	1,265	855
+Deferred	(138	)	(220	)	(178	)
+852	1,045	677
+Foreign:
+Current	2,105	4,744	2,147
+Deferred	33	(1,806	)	(658	)
+2,138	2,938	1,489
+Provision for income taxes	$	15,685	$	19,121	$	13,973
+
+
+
+2016	2015	2014
+Computed expected tax	$	21,480	$	25,380	$	18,719
+State taxes, net of federal effect	553	680	469
+Indefinitely invested earnings of foreign subsidiaries	(5,582	)	(6,470	)	(4,744	)
+Domestic production activities deduction	(382	)	(426	)	(495	)
+Research and development credit, net	(371	)	(171	)	(88	)
+Other	(13	)	128	112
+Provision for income taxes	$	15,685	$	19,121	$	13,973
+Effective tax rate	25.6	%	26.4	%	26.1	%
+
+
+
+2016	2015
+Deferred tax assets:
+Accrued liabilities and other reserves	$	4,135	$	4,205
+Basis of capital assets	2,107	2,238
+Deferred revenue	1,717	1,941
+Deferred cost sharing	667	667
+Share-based compensation	601	575
+Unrealized losses	—	564
+Other	788	721
+Total deferred tax assets, net of valuation allowance of $0	10,015	10,911
+Deferred tax liabilities:
+Unremitted earnings of foreign subsidiaries	31,436	26,868
+Other	485	303
+Total deferred tax liabilities	31,921	27,171
+Net deferred tax liabilities	$	(21,906	)	$	(16,260	)
+
+
+
+2016	2015	2014
+Beginning Balance	$	6,900	$	4,033	$	2,714
+Increases related to tax positions taken during a prior year	1,121	2,056	1,295
+Decreases related to tax positions taken during a prior year	(257	)	(345	)	(280	)
+Increases related to tax positions taken during the current year	1,578	1,278	882
+Decreases related to settlements with taxing authorities	(1,618	)	(109	)	(574	)
+Decreases related to expiration of statute of limitations	—	(13	)	(4	)
+Ending Balance	$	7,724	$	6,900	$	4,033
+
+
+
+2016	2015
+Maturities less than 90 days:
+Proceeds from (repayments of) commercial paper, net	$	(869	)	$	5,293
+
+Maturities greater than 90 days:
+Proceeds from commercial paper	3,632	3,851
+Repayments of commercial paper	(3,160	)	(6,953	)
+Maturities greater than 90 days, net	472	(3,102	)
+Total change in commercial paper, net	$	(397	)	$	2,191
+
+
+
+Maturities	2016	2015
+Amount(in millions)	EffectiveInterest Rate	Amount(in millions)	EffectiveInterest Rate
+2013 debt issuance of $17.0 billion:
+Floating-rate notes	2018	$	2,000	1.10%	$	3,000	0.51% - 1.10%
+Fixed-rate 1.000% - 3.850% notes	2018 - 2043	12,500	1.08% - 3.91%	14,000	0.51% - 3.91%
+
+2014 debt issuance of $12.0 billion:
+Floating-rate notes	2017 - 2019	2,000	0.86% - 1.09%	2,000	0.37% - 0.60%
+Fixed-rate 1.050% - 4.450% notes	2017 - 2044	10,000	0.85% - 4.48%	10,000	0.37% - 4.48%
+
+2015 debt issuances of $27.3 billion:
+Floating-rate notes	2017 - 2020	1,781	0.87% - 1.87%	1,743	0.36% - 1.87%
+Fixed-rate 0.350% - 4.375% notes	2017 - 2045	25,144	0.28% - 4.51%	24,958	0.28% - 4.51%
+
+Second quarter 2016 debt issuance of $15.5 billion:
+Floating-rate notes	2019	500	1.64	%	—	—
+Floating-rate notes	2021	500	1.95	%	—	—
+Fixed-rate 1.300% notes	2018	500	1.32	%	—	—
+Fixed-rate 1.700% notes	2019	1,000	1.71	%	—	—
+Fixed-rate 2.250% notes	2021	3,000	1.91	%	—	—
+Fixed-rate 2.850% notes	2023	1,500	2.58	%	—	—
+Fixed-rate 3.250% notes	2026	3,250	2.51	%	—	—
+Fixed-rate 4.500% notes	2036	1,250	4.54	%	—	—
+Fixed-rate 4.650% notes	2046	4,000	4.58	%	—	—
+
+Third quarter 2016 Australian dollar-denominated debt issuance of A$1.4 billion:
+Fixed-rate 2.650% notes	2020	493	1.92	%	—	—
+Fixed-rate 3.350% notes	2024	342	2.61	%	—	—
+Fixed-rate 3.600% notes	2026	247	2.84	%	—	—
+
+Third quarter 2016 debt issuance of $1.4 billion:
+Fixed-rate 4.150% notes	2046	1,377	4.15	%	—	—
+
+Fourth quarter 2016 debt issuance of $7.0 billion:
+Floating-rate notes	2019	350	0.91	%	—	—
+Fixed-rate 1.100% notes	2019	1,150	1.13	%	—	—
+Fixed-rate 1.550% notes	2021	1,250	1.40	%	—	—
+Fixed-rate 2.450% notes	2026	2,250	2.15	%	—	—
+Fixed-rate 3.850% notes	2046	2,000	3.86	%	—	—
+Total term debt	78,384	55,701
+
+Unamortized premium/(discount) and issuance costs, net	(174	)	(248	)
+Hedge accounting fair value adjustments	717	376
+Less: Current portion of long-term debt, net	(3,500	)	(2,500	)
+Total long-term debt	$	75,427	$	53,329
+
+
+
+2017	$	3,500
+2018	6,500
+2019	6,834
+2020	6,454
+2021	7,750
+Thereafter	47,346
+Total term debt	$	78,384
+
+
+
+DividendsPer Share	Amount(in millions)
+2016:
+Fourth quarter	$	0.57	$	3,071
+Third quarter	0.57	3,117
+Second quarter	0.52	2,879
+First quarter	0.52	2,898
+Total cash dividends declared and paid	$	2.18	$	11,965
+2015:
+Fourth quarter	$	0.52	$	2,950
+Third quarter	0.52	2,997
+Second quarter	0.47	2,734
+First quarter	0.47	2,750
+Total cash dividends declared and paid	$	1.98	$	11,431
+
+
+
+Purchase Period End Date	Number ofShares(in thousands)	AverageRepurchasePrice Per Share	ASRAmount  (in millions)
+August 2016 ASR	November 2016	22,468	(1)	(1)	$	3,000
+May 2016 ASR	August 2016	60,452	(2)	$	99.25	$	6,000
+November 2015 ASR	April 2016	29,122	$	103.02	$	3,000
+May 2015 ASR	July 2015	48,293	$	124.24	$	6,000
+August 2014 ASR	February 2015	81,525	$	110.40	$	9,000
+January 2014 ASR	December 2014	134,247	$	89.39	$	12,000
+
+
+(1)	“Number of Shares” represents those shares delivered in the beginning of the purchase period and does not represent the final number of shares to be delivered under the ASR. The total number of shares ultimately delivered, and therefore the average repurchase price paid per share, will be determined at the end of the purchase period based on the volume-weighted average price of the Company’s common stock during that period. The August 2016 ASR purchase period will end in or before November 2016.
+
+
+(2)	Includes 48.2 million shares delivered and retired at the beginning of the purchase period, which began in the third quarter of 2016, and 12.3 million shares delivered and retired at the end of the purchase period, which concluded in the fourth quarter of 2016.
+
+
+
+Number of Shares(in thousands)	Average RepurchasePrice Per Share	Amount(in millions)
+2016:
+Fourth quarter	28,579	$	104.97	$	3,000
+Third quarter	41,238	$	97.00	4,000
+Second quarter	71,766	$	97.54	7,000
+First quarter	25,984	$	115.45	3,000
+Total open market common stock repurchases	167,567	$	17,000
+2015:
+Fourth quarter	121,802	$	115.15	$	14,026
+Third quarter	31,231	$	128.08	4,000
+Second quarter	56,400	$	124.11	7,000
+First quarter	45,704	$	109.40	5,000
+Total open market common stock repurchases	255,137	$	30,026
+
+
+
+Comprehensive Income Components	Financial Statement Line Item	2016	2015
+Unrealized (gains)/losses on derivative instruments:
+Foreign exchange contracts	Revenue	$	(865	)	$	(2,432	)
+Cost of sales	(130	)	(2,168	)
+Other income/(expense), net	111	456
+Interest rate contracts	Other income/(expense), net	12	17
+(872	)	(4,127	)
+Unrealized (gains)/losses on marketable securities	Other income/(expense), net	87	91
+Total amounts reclassified from AOCI	$	(785	)	$	(4,036	)
+
+
+
+Cumulative ForeignCurrency Translation	Unrealized Gains/Losseson Derivative Instruments	Unrealized Gains/Losseson Marketable Securities	Total
+Balance at September 27, 2014	$	(242	)	$	1,364	$	(40	)	$	1,082
+Other comprehensive income/(loss) before reclassifications	(612	)	3,346	(747	)	1,987
+Amounts reclassified from AOCI	—	(4,127	)	91	(4,036	)
+Tax effect	201	189	232	622
+Other comprehensive income/(loss)	(411	)	(592	)	(424	)	(1,427	)
+Balance at September 26, 2015	(653	)	772	(464	)	(345	)
+Other comprehensive income/(loss) before reclassifications	67	14	2,445	2,526
+Amounts reclassified from AOCI	—	(872	)	87	(785	)
+Tax effect	8	124	(894	)	(762	)
+Other comprehensive income/(loss)	75	(734	)	1,638	979
+Balance at September 24, 2016	$	(578	)	$	38	$	1,174	$	634
+
+
+
+Number ofRSUs(in thousands)	Weighted-AverageGrant Date FairValue Per Share	Aggregate Intrinsic Value(in millions)
+Balance at September 28, 2013	93,284	$	62.24
+RSUs granted	59,269	$	74.54
+RSUs vested	(43,111	)	$	57.29
+RSUs cancelled	(5,620	)	$	68.47
+Balance at September 27, 2014	103,822	$	70.98
+RSUs granted	45,587	$	105.51
+RSUs vested	(41,684	)	$	71.32
+RSUs cancelled	(6,258	)	$	80.34
+Balance at September 26, 2015	101,467	$	85.77
+RSUs granted	49,468	$	109.28
+RSUs vested	(46,313	)	$	84.44
+RSUs cancelled	(5,533	)	$	96.48
+Balance at September 24, 2016	99,089	$	97.54	$	11,168
+
+
+
+2016	2015	2014
+Cost of sales	$	769	$	575	$	450
+Research and development	1,889	1,536	1,216
+Selling, general and administrative	1,552	1,475	1,197
+Total share-based compensation expense	$	4,210	$	3,586	$	2,863
+
+
+
+2016	2015	2014
+Beginning accrued warranty and related costs	$	4,780	$	4,159	$	2,967
+Cost of warranty claims	(4,663	)	(4,401	)	(3,760	)
+Accruals for product warranty	3,585	5,022	4,952
+Ending accrued warranty and related costs	$	3,702	$	4,780	$	4,159
+
+
+
+2017	$	929
+2018	919
+2019	915
+2020	889
+2021	836
+Thereafter	3,139
+Total	$	7,627
+
+
+
+2016	2015	2014
+Americas:
+Net sales	$	86,613	$	93,864	$	80,095
+Operating income	$	28,172	$	31,186	$	26,158
+
+Europe:
+Net sales	$	49,952	$	50,337	$	44,285
+Operating income	$	15,348	$	16,527	$	14,434
+
+Greater China:
+Net sales	$	48,492	$	58,715	$	31,853
+Operating income	$	18,835	$	23,002	$	11,039
+
+Japan:
+Net sales	$	16,928	$	15,706	$	15,314
+Operating income	$	7,165	$	7,617	$	6,904
+
+Rest of Asia Pacific:
+Net sales	$	13,654	$	15,093	$	11,248
+Operating income	$	4,781	$	5,518	$	3,674
+
+
+
+2016	2015	2014
+Segment operating income	$	74,301	$	83,850	$	62,209
+Research and development expense	(10,045	)	(8,067	)	(6,041	)
+Other corporate expenses, net	(4,232	)	(4,553	)	(3,665	)
+Total operating income	$	60,024	$	71,230	$	52,503
+
+
+
+2016	2015	2014
+Net sales:
+U.S.	$	75,667	$	81,732	$	68,909
+China (1)	46,349	56,547	30,638
+Other countries	93,623	95,436	83,248
+Total net sales	$	215,639	$	233,715	$	182,795
+
+
+
+2016	2015
+Long-lived assets:
+U.S.	$	16,364	$	12,022
+China (1)	7,807	8,722
+Other countries	2,839	3,040
+Total long-lived assets	$	27,010	$	23,784
+
+
+(1)	China includes Hong Kong. Long-lived assets located in China consist primarily of product tooling and manufacturing process equipment and assets related to retail stores and related infrastructure.
+
+
+
+2016	2015	2014
+iPhone (1)	$	136,700	$	155,041	$	101,991
+iPad (1)	20,628	23,227	30,283
+Mac (1)	22,831	25,471	24,079
+Services (2)	24,348	19,909	18,063
+Other Products (1)(3)	11,132	10,067	8,379
+Total net sales	$	215,639	$	233,715	$	182,795
+
+
+(1)	Includes deferrals and amortization of related software upgrade rights and non-software services.
+
+
+(2)	Includes revenue from iTunes Store, App Store, Mac App Store, TV App Store, iBooks Store, Apple Music, AppleCare, Apple Pay, licensing and other services.
+
+
+(3)	Includes sales of Apple TV, Apple Watch, Beats products, iPod and Apple-branded and third-party accessories.
+
+
+
+Fourth Quarter	Third Quarter	Second Quarter	First Quarter
+2016:
+Net sales	$	46,852	$	42,358	$	50,557	$	75,872
+Gross margin	$	17,813	$	16,106	$	19,921	$	30,423
+Net income	$	9,014	$	7,796	$	10,516	$	18,361
+
+Earnings per share (1):
+Basic	$	1.68	$	1.43	$	1.91	$	3.30
+Diluted	$	1.67	$	1.42	$	1.90	$	3.28
+
+
+
+Fourth Quarter	Third Quarter	Second Quarter	First Quarter
+2015:
+Net sales	$	51,501	$	49,605	$	58,010	$	74,599
+Gross margin	$	20,548	$	19,681	$	23,656	$	29,741
+Net income	$	11,124	$	10,677	$	13,569	$	18,024
+
+Earnings per share (1):
+Basic	$	1.97	$	1.86	$	2.34	$	3.08
+Diluted	$	1.96	$	1.85	$	2.33	$	3.06
+
+
+(1)	Basic and diluted earnings per share are computed independently for each of the quarters presented. Therefore, the sum of quarterly basic and diluted per share information may not equal annual basic and diluted earnings per share.
+
+
+
+/s/ Ernst & Young LLP
+
+
+
+/s/ Ernst & Young LLP
+
+
+Item 9.	Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+
+Item 9A.	Controls and Procedures
+
+
+(i)	pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the Company’s assets;
+
+
+(ii)	provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with GAAP, and that the Company’s receipts and expenditures are being made only in accordance with authorizations of the Company’s management and directors; and
+
+
+(iii)	provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company’s assets that could have a material effect on the financial statements.
+
+
+Item 9B.	Other Information
+
+
+Item 10.	Directors, Executive Officers and Corporate Governance
+
+
+Item 11.	Executive Compensation
+
+
+Item 12.	Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+
+Item 13.	Certain Relationships and Related Transactions, and Director Independence
+
+
+Item 14.	Principal Accounting Fees and Services
+
+
+Item 15.	Exhibits, Financial Statement Schedules
+
+
+(a)	Documents filed as part of this report
+
+
+(1)	All financial statements
+
+
+
+Index to Consolidated Financial Statements	Page
+Consolidated Statements of Operations for the years ended September 24, 2016, September 26, 2015 and September 27, 2014	39
+Consolidated Statements of Comprehensive Income for the years ended September 24, 2016, September 26, 2015 and September 27, 2014	40
+Consolidated Balance Sheets as of September 24, 2016 and September 26, 2015	41
+Consolidated Statements of Shareholders’ Equity for the years ended September 24, 2016, September 26, 2015 and September 27, 2014	42
+Consolidated Statements of Cash Flows for the years ended September 24, 2016, September 26, 2015 and September 27, 2014	43
+Notes to Consolidated Financial Statements	44
+Selected Quarterly Financial Information (Unaudited)	69
+Reports of Ernst & Young LLP, Independent Registered Public Accounting Firm	70
+
+
+(2)	Financial Statement Schedules
+
+
+(3)	Exhibits required by Item 601 of Regulation S-K
+
+
+
+Apple Inc.
+
+By:	/s/  Luca Maestri
+Luca Maestri
+Senior Vice President,Chief Financial Officer
+
+
+
+Name	Title	Date
+
+/s/    Timothy D. Cook	Chief Executive Officer and Director(Principal Executive Officer)	October 26, 2016
+TIMOTHY D. COOK
+
+/s/    Luca Maestri	Senior Vice President, Chief Financial Officer(Principal Financial Officer)	October 26, 2016
+LUCA MAESTRI
+
+/s/    Chris Kondo	Senior Director of Corporate Accounting(Principal Accounting Officer)	October 26, 2016
+CHRIS KONDO
+
+/s/    James A. Bell	Director	October 26, 2016
+JAMES A. BELL
+
+/s/    Al Gore	Director	October 26, 2016
+AL GORE
+
+/s/    Robert A. Iger	Director	October 26, 2016
+ROBERT A. IGER
+
+/s/    Andrea Jung	Director	October 26, 2016
+ANDREA JUNG
+
+/s/    Arthur D. Levinson	Director	October 26, 2016
+ARTHUR D. LEVINSON
+
+/s/    Ronald D. Sugar	Director	October 26, 2016
+RONALD D. SUGAR
+
+/s/    Susan L. Wagner	Director	October 26, 2016
+SUSAN L. WAGNER
+
+
+
+Incorporated byReference
+Exhibit Number	Exhibit Description	Form	Exhibit	Filing Date/Period End Date
+3.1	Restated Articles of Incorporation of the Registrant effective as of June 6, 2014.	8-K	3.1	6/6/14
+3.2	Amended and Restated Bylaws of the Registrant effective as of December 21, 2015.	8-K	3.2	12/22/15
+4.1	Form of Common Stock Certificate of the Registrant.	10-Q	4.1	12/30/06
+4.2	Indenture, dated as of April 29, 2013, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.	S-3	4.1	4/29/13
+4.3	Officer’s Certificate of the Registrant, dated as of May 3, 2013, including forms of global notes representing the Floating Rate Notes due 2016, Floating Rate Notes due 2018, 0.45% Notes due 2016, 1.00% Notes due 2018, 2.40% Notes due 2023 and 3.85% Notes due 2043.	8-K	4.1	5/3/13
+4.4	Officer’s Certificate of the Registrant, dated as of May 6, 2014, including forms of global notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2019, 1.05% Notes due 2017, 2.10% Notes due 2019, 2.85% Notes due 2021, 3.45% Notes due 2024 and 4.45% Notes due 2044.	8-K	4.1	5/6/14
+4.5	Officer’s Certificate of the Registrant, dated as of November 10, 2014, including forms of global notes representing the 1.000% Notes due 2022 and 1.625% Notes due 2026.	8-K	4.1	11/10/14
+4.6	Officer’s Certificate of the Registrant, dated as of February 9, 2015, including forms of global notes representing the Floating Rate Notes due 2020, 1.55% Notes due 2020, 2.15% Notes due 2022, 2.50% Notes due 2025 and 3.45% Notes due 2045.	8-K	4.1	2/9/15
+4.7	Officer’s Certificate of the Registrant, dated as of May 13, 2015, including forms of global notes representing the Floating Rate Notes due 2017,   Floating Rate Notes due 2020, 0.900% Notes due 2017, 2.000% Notes due 2020, 2.700% Notes due 2022, 3.200% Notes due 2025, and 4.375% Notes due 2045.	8-K	4.1	5/13/15
+4.8	Officer’s Certificate of the Registrant, dated as of June 10, 2015, including forms of global notes representing the 0.35% Notes due 2020.	8-K	4.1	6/10/15
+4.9	Officer’s Certificate of the Registrant, dated as of July 31, 2015, including forms of global notes representing the 3.05% Notes due 2029 and 3.60% Notes due 2042.	8-K	4.1	7/31/15
+4.10	Officer’s Certificate of the Registrant, dated as of September 17, 2015, including forms of global notes representing the 1.375% Notes due 2024 and 2.000% Notes due 2027.	8-K	4.1	9/17/15
+4.11	Officer’s Certificate of the Registrant, dated as of February 23, 2016, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes due 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due 2036 and 4.650% Notes due 2046.	8-K	4.1	2/23/16
+4.12	Supplement No. 1 to the Officer's Certificate of the Registrant, dated as of March 24, 2016.	8-K	4.1	3/24/16
+4.13	Officer’s Certificate of the Registrant, dated as of June 22, 2016, including form of global note representing 4.150% Notes due 2046.	10-Q	4.1	6/22/16
+4.14	Officer’s Certificate of the Registrant, dated as of August 4, 2016, including forms of global notes representing the Floating Rate Notes due 2019, 1.100% Notes due 2019, 1.550% Notes due 2021, 2.450% Notes due 2026 and 3.850% Notes due 2046.	8-K	4.1	8/4/16
+10.1*	Employee Stock Purchase Plan, as amended and restated as of March 10, 2015.	8-K	10.1	3/13/15
+10.2*	Form of Indemnification Agreement between the Registrant and each director and executive officer of the Registrant.	10-Q	10.2	6/27/09
+10.3*	1997 Director Stock Plan, as amended through August 23, 2012.	10-Q	10.3	12/28/13
+10.4*	2003 Employee Stock Plan, as amended through February 25, 2010.	8-K	10.1	3/1/10
+10.5*	Form of Restricted Stock Unit Award Agreement under 2003 Employee Stock Plan effective as of November 16, 2010.	10-Q	10.10	12/25/10
+10.6*	Form of Restricted Stock Unit Award Agreement under 2003 Employee Stock Plan effective as of April 6, 2012.	10-Q	10.8	3/31/12
+
+
+
+Incorporated byReference
+Exhibit Number	Exhibit Description	Form	Exhibit	Filing Date/Period End Date
+10.7*	Summary Description of Amendment, effective as of May 24, 2012, to certain Restricted Stock Unit Award Agreements outstanding as of April 5, 2012.	10-Q	10.8	6/30/12
+10.8*	2014 Employee Stock Plan, as amended and restated as of February 26, 2016.	8-K	10.1	3/1/16
+10.9*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan as of February 28, 2014.	8-K	10.2	3/5/14
+10.10*	Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of February 28, 2014.	8-K	10.3	3/5/14
+10.11*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of August 26, 2014.	10-K	10.1	9/27/14
+10.12*	Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of August 26, 2014.	10-K	10.1	9/27/14
+10.13*	Form of Amendment, effective as of August 26, 2014, to Restricted Stock Unit Award Agreements and Performance Award Agreements outstanding as of August 26, 2014.	10-K	10.1	9/27/14
+10.14*	Offer Letter, dated August 1, 2013, from the Registrant to Angela Ahrendts.	10-Q	10.1	12/27/14
+10.15*	Form of Restricted Stock Unit Award Agreement under the 1997 Director Stock Plan as of November 17, 2015.	10-Q	10.15	12/26/15
+10.16*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of October 5, 2015.	10-Q	10.16	3/26/16
+10.17*	Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of October 5, 2015.	10-Q	10.17	3/26/16
+10.18*, **	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of October 14, 2016.
+10.19*, **	Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of October 14, 2016.
+12.1**	Computation of Ratio of Earnings to Fixed Charges.
+21.1**	Subsidiaries of the Registrant.
+23.1**	Consent of Ernst & Young LLP, Independent Registered Public Accounting Firm.
+24.1**	Power of Attorney (included on the Signatures page of this Annual Report on Form 10-K).
+31.1**	Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.
+31.2**	Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.
+32.1***	Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.
+101.INS**	XBRL Instance Document.
+101.SCH**	XBRL Taxonomy Extension Schema Document.
+101.CAL**	XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF**	XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB**	XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE**	XBRL Taxonomy Extension Presentation Linkbase Document.
+
+
+*	Indicates management contract or compensatory plan or arrangement.
+
+
+**	Filed herewith.
+
+
+***	Furnished herewith.
+
+
+(1)	Certain instruments defining the rights of holders of long-term debt securities of the Registrant are omitted pursuant to Item 601(b)(4)(iii) of Regulation S-K. The Registrant hereby undertakes to furnish to the SEC, upon request, copies of any such instruments.
+

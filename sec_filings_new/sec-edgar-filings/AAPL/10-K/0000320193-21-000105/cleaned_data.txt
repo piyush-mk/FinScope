@@ -1,0 +1,783 @@
+Text Content:
+
+
+Tables:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+California	94-2404110
+(State or other jurisdictionof incorporation or organization)	(I.R.S. Employer Identification No.)
+
+One Apple Park Way
+Cupertino, California	95014
+(Address of principal executive offices)	(Zip Code)
+
+
+
+
+
+Title of each class	Trading symbol(s)	Name of each exchange on which registered
+Common Stock, $0.00001 par value per share	AAPL	The Nasdaq Stock Market LLC
+1.000% Notes due 2022	—	The Nasdaq Stock Market LLC
+1.375% Notes due 2024	—	The Nasdaq Stock Market LLC
+0.000% Notes due 2025	—	The Nasdaq Stock Market LLC
+0.875% Notes due 2025	—	The Nasdaq Stock Market LLC
+1.625% Notes due 2026	—	The Nasdaq Stock Market LLC
+2.000% Notes due 2027	—	The Nasdaq Stock Market LLC
+1.375% Notes due 2029	—	The Nasdaq Stock Market LLC
+3.050% Notes due 2029	—	The Nasdaq Stock Market LLC
+0.500% Notes due 2031	—	The Nasdaq Stock Market LLC
+3.600% Notes due 2042	—	The Nasdaq Stock Market LLC
+
+
+
+
+
+Large accelerated filer	☒	Accelerated filer	☐
+Non-accelerated filer	☐	Smaller reporting company	☐
+Emerging growth company	☐
+
+
+
+
+
+Page
+Part I
+Item 1.	Business	1
+Item 1A.	Risk Factors	6
+Item 1B.	Unresolved Staff Comments	17
+Item 2.	Properties	17
+Item 3.	Legal Proceedings	17
+Item 4.	Mine Safety Disclosures	17
+Part II
+Item 5.	Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities	18
+Item 6.	[Reserved]	19
+Item 7.	Management’s Discussion and Analysis of Financial Condition and Results of Operations	20
+Item 7A.	Quantitative and Qualitative Disclosures About Market Risk	26
+Item 8.	Financial Statements and Supplementary Data	28
+Item 9.	Changes in and Disagreements with Accountants on Accounting and Financial Disclosure	55
+Item 9A.	Controls and Procedures	55
+Item 9B.	Other Information	56
+Item 9C.	Disclosure Regarding Foreign Jurisdictions that Prevent Inspections	56
+Part III
+Item 10.	Directors, Executive Officers and Corporate Governance	56
+Item 11.	Executive Compensation	56
+Item 12.	Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters	56
+Item 13.	Certain Relationships and Related Transactions, and Director Independence	56
+Item 14.	Principal Accountant Fees and Services	56
+Part IV
+Item 15.	Exhibit and Financial Statement Schedules	57
+Item 16.	Form 10-K Summary	59
+
+
+Periods	Total Numberof Shares Purchased	Average PricePaid Per Share	Total Number of SharesPurchased as Part of PubliclyAnnounced Plans or Programs	Approximate Dollar Value ofShares That May Yet Be PurchasedUnder the Plans or Programs (1)
+June 27, 2021 to July 31, 2021:
+Open market and privately negotiated purchases	59,216	$	143.54	59,216
+
+August 1, 2021 to August 28, 2021:
+May 2021 ASR	4,921	(2)	4,921
+Open market and privately negotiated purchases	42,343	$	147.61	42,343
+
+August 29, 2021 to September 25, 2021:
+Open market and privately negotiated purchases	35,041	$	149.81	35,041
+Total	141,521	$	60,851
+
+
+September 2016	September 2017	September 2018	September 2019	September 2020	September 2021
+Apple Inc.	$	100	$	139	$	207	$	204	$	422	$	556
+S&P 500 Index	$	100	$	119	$	140	$	146	$	168	$	218
+S&P Information Technology Index	$	100	$	129	$	169	$	184	$	271	$	349
+Dow Jones U.S. Technology Supersector Index	$	100	$	128	$	168	$	178	$	265	$	362
+
+
+2021	Change	2020	Change	2019
+Net sales by category:
+iPhone (1)	$	191,973	39	%	$	137,781	(3)	%	$	142,381
+Mac (1)	35,190	23	%	28,622	11	%	25,740
+iPad (1)	31,862	34	%	23,724	11	%	21,280
+Wearables, Home and Accessories (1)(2)	38,367	25	%	30,620	25	%	24,482
+Services (3)	68,425	27	%	53,768	16	%	46,291
+Total net sales	$	365,817	33	%	$	274,515	6	%	$	260,174
+
+
+2021	Change	2020	Change	2019
+Net sales by reportable segment:
+Americas	$	153,306	23	%	$	124,556	7	%	$	116,914
+Europe	89,307	30	%	68,640	14	%	60,288
+Greater China	68,366	70	%	40,308	(8)	%	43,678
+Japan	28,482	33	%	21,418	—	%	21,506
+Rest of Asia Pacific	26,356	35	%	19,593	10	%	17,788
+Total net sales	$	365,817	33	%	$	274,515	6	%	$	260,174
+
+
+2021	2020	2019
+Gross margin:
+Products	$	105,126	$	69,461	$	68,887
+Services	47,710	35,495	29,505
+Total gross margin	$	152,836	$	104,956	$	98,392
+
+
+Gross margin percentage:
+Products	35.3	%	31.5	%	32.2	%
+Services	69.7	%	66.0	%	63.7	%
+Total gross margin percentage	41.8	%	38.2	%	37.8	%
+
+
+2021	Change	2020	Change	2019
+Research and development	$	21,914	17	%	$	18,752	16	%	$	16,217
+Percentage of total net sales	6	%	7	%	6	%
+Selling, general and administrative	$	21,973	10	%	$	19,916	9	%	$	18,245
+Percentage of total net sales	6	%	7	%	7	%
+Total operating expenses	$	43,887	13	%	$	38,668	12	%	$	34,462
+Percentage of total net sales	12	%	14	%	13	%
+
+
+2021	Change	2020	Change	2019
+Interest and dividend income	$	2,843	$	3,763	$	4,961
+Interest expense	(2,645)	(2,873)	(3,576)
+Other income/(expense), net	60	(87)	422
+Total other income/(expense), net	$	258	(68)	%	$	803	(56)	%	$	1,807
+
+
+2021	2020	2019
+Provision for income taxes	$	14,527	$	9,680	$	10,481
+Effective tax rate	13.3	%	14.4	%	15.9	%
+Statutory federal income tax rate	21	%	21	%	21	%
+
+
+Index to Consolidated Financial Statements	Page
+Consolidated Statements of Operations for the years ended September 25, 2021, September 26, 2020 and September 28, 2019	29
+Consolidated Statements of Comprehensive Income for the years ended September 25, 2021, September 26, 2020 and September 28, 2019	30
+Consolidated Balance Sheets as of September 25, 2021 and September 26, 2020	31
+Consolidated Statements of Shareholders’ Equity for the years ended September 25, 2021, September 26, 2020 and September 28, 2019	32
+Consolidated Statements of Cash Flows for the years ended September 25, 2021, September 26, 2020 and September 28, 2019	33
+Notes to Consolidated Financial Statements	34
+Reports of Independent Registered Public Accounting Firm	52
+
+
+Years ended
+September 25,2021	September 26,2020	September 28,2019
+Net sales:
+Products	$	297,392	$	220,747	$	213,883
+Services	68,425	53,768	46,291
+Total net sales	365,817	274,515	260,174
+
+Cost of sales:
+Products	192,266	151,286	144,996
+Services	20,715	18,273	16,786
+Total cost of sales	212,981	169,559	161,782
+Gross margin	152,836	104,956	98,392
+
+Operating expenses:
+Research and development	21,914	18,752	16,217
+Selling, general and administrative	21,973	19,916	18,245
+Total operating expenses	43,887	38,668	34,462
+
+Operating income	108,949	66,288	63,930
+Other income/(expense), net	258	803	1,807
+Income before provision for income taxes	109,207	67,091	65,737
+Provision for income taxes	14,527	9,680	10,481
+Net income	$	94,680	$	57,411	$	55,256
+
+Earnings per share:
+Basic	$	5.67	$	3.31	$	2.99
+Diluted	$	5.61	$	3.28	$	2.97
+
+Shares used in computing earnings per share:
+Basic	16,701,272	17,352,119	18,471,336
+Diluted	16,864,919	17,528,214	18,595,651
+
+
+Years ended
+September 25,2021	September 26,2020	September 28,2019
+Net income	$	94,680	$	57,411	$	55,256
+Other comprehensive income/(loss):
+Change in foreign currency translation, net of tax	501	88	(408)
+
+Change in unrealized gains/losses on derivative instruments, net of tax:
+Change in fair value of derivative instruments	32	79	(661)
+Adjustment for net (gains)/losses realized and included in net income	1,003	(1,264)	23
+Total change in unrealized gains/losses on derivative instruments	1,035	(1,185)	(638)
+
+Change in unrealized gains/losses on marketable debt securities, net of tax:
+Change in fair value of marketable debt securities	(694)	1,202	3,802
+Adjustment for net (gains)/losses realized and included in net income	(273)	(63)	25
+Total change in unrealized gains/losses on marketable debt securities	(967)	1,139	3,827
+
+Total other comprehensive income/(loss)	569	42	2,781
+Total comprehensive income	$	95,249	$	57,453	$	58,037
+
+
+September 25,2021	September 26,2020
+ASSETS:
+Current assets:
+Cash and cash equivalents	$	34,940	$	38,016
+Marketable securities	27,699	52,927
+Accounts receivable, net	26,278	16,120
+Inventories	6,580	4,061
+Vendor non-trade receivables	25,228	21,325
+Other current assets	14,111	11,264
+Total current assets	134,836	143,713
+
+Non-current assets:
+Marketable securities	127,877	100,887
+Property, plant and equipment, net	39,440	36,766
+Other non-current assets	48,849	42,522
+Total non-current assets	216,166	180,175
+Total assets	$	351,002	$	323,888
+
+LIABILITIES AND SHAREHOLDERS’ EQUITY:
+Current liabilities:
+Accounts payable	$	54,763	$	42,296
+Other current liabilities	47,493	42,684
+Deferred revenue	7,612	6,643
+Commercial paper	6,000	4,996
+Term debt	9,613	8,773
+Total current liabilities	125,481	105,392
+
+Non-current liabilities:
+Term debt	109,106	98,667
+Other non-current liabilities	53,325	54,490
+Total non-current liabilities	162,431	153,157
+Total liabilities	287,912	258,549
+
+Commitments and contingencies
+
+Shareholders’ equity:
+Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 16,426,786 and 16,976,763 shares issued and outstanding, respectively	57,365	50,779
+Retained earnings	5,562	14,966
+Accumulated other comprehensive income/(loss)	163	(406)
+Total shareholders’ equity	63,090	65,339
+Total liabilities and shareholders’ equity	$	351,002	$	323,888
+
+
+Years ended
+September 25,2021	September 26,2020	September 28,2019
+Total shareholders’ equity, beginning balances	$	65,339	$	90,488	$	107,147
+
+Common stock and additional paid-in capital:
+Beginning balances	50,779	45,174	40,201
+Common stock issued	1,105	880	781
+Common stock withheld related to net share settlement of equity awards	(2,627)	(2,250)	(2,002)
+Share-based compensation	8,108	6,975	6,194
+Ending balances	57,365	50,779	45,174
+
+Retained earnings:
+Beginning balances	14,966	45,898	70,400
+Net income	94,680	57,411	55,256
+Dividends and dividend equivalents declared	(14,431)	(14,087)	(14,129)
+Common stock withheld related to net share settlement of equity awards	(4,151)	(1,604)	(1,029)
+Common stock repurchased	(85,502)	(72,516)	(67,101)
+Cumulative effects of changes in accounting principles	—	(136)	2,501
+Ending balances	5,562	14,966	45,898
+
+Accumulated other comprehensive income/(loss):
+Beginning balances	(406)	(584)	(3,454)
+Other comprehensive income/(loss)	569	42	2,781
+Cumulative effects of changes in accounting principles	—	136	89
+Ending balances	163	(406)	(584)
+
+Total shareholders’ equity, ending balances	$	63,090	$	65,339	$	90,488
+
+Dividends and dividend equivalents declared per share or RSU	$	0.85	$	0.795	$	0.75
+
+
+Years ended
+September 25,2021	September 26,2020	September 28,2019
+Cash, cash equivalents and restricted cash, beginning balances	$	39,789	$	50,224	$	25,913
+Operating activities:
+Net income	94,680	57,411	55,256
+Adjustments to reconcile net income to cash generated by operating activities:
+Depreciation and amortization	11,284	11,056	12,547
+Share-based compensation expense	7,906	6,829	6,068
+Deferred income tax benefit	(4,774)	(215)	(340)
+Other	(147)	(97)	(652)
+Changes in operating assets and liabilities:
+Accounts receivable, net	(10,125)	6,917	245
+Inventories	(2,642)	(127)	(289)
+Vendor non-trade receivables	(3,903)	1,553	2,931
+Other current and non-current assets	(8,042)	(9,588)	873
+Accounts payable	12,326	(4,062)	(1,923)
+Deferred revenue	1,676	2,081	(625)
+Other current and non-current liabilities	5,799	8,916	(4,700)
+Cash generated by operating activities	104,038	80,674	69,391
+Investing activities:
+Purchases of marketable securities	(109,558)	(114,938)	(39,630)
+Proceeds from maturities of marketable securities	59,023	69,918	40,102
+Proceeds from sales of marketable securities	47,460	50,473	56,988
+Payments for acquisition of property, plant and equipment	(11,085)	(7,309)	(10,495)
+Payments made in connection with business acquisitions, net	(33)	(1,524)	(624)
+Purchases of non-marketable securities	(131)	(210)	(1,001)
+Proceeds from non-marketable securities	387	92	1,634
+Other	(608)	(791)	(1,078)
+Cash generated by/(used in) investing activities	(14,545)	(4,289)	45,896
+Financing activities:
+Proceeds from issuance of common stock	1,105	880	781
+Payments for taxes related to net share settlement of equity awards	(6,556)	(3,634)	(2,817)
+Payments for dividends and dividend equivalents	(14,467)	(14,081)	(14,119)
+Repurchases of common stock	(85,971)	(72,358)	(66,897)
+Proceeds from issuance of term debt, net	20,393	16,091	6,963
+Repayments of term debt	(8,750)	(12,629)	(8,805)
+Proceeds from/(Repayments of) commercial paper, net	1,022	(963)	(5,977)
+Other	(129)	(126)	(105)
+Cash used in financing activities	(93,353)	(86,820)	(90,976)
+Increase/(Decrease) in cash, cash equivalents and restricted cash	(3,860)	(10,435)	24,311
+Cash, cash equivalents and restricted cash, ending balances	$	35,929	$	39,789	$	50,224
+Supplemental cash flow disclosure:
+Cash paid for income taxes, net	$	25,385	$	9,501	$	15,263
+Cash paid for interest	$	2,687	$	3,002	$	3,423
+
+
+2021	2020	2019
+Numerator:
+Net income	$	94,680	$	57,411	$	55,256
+
+Denominator:
+Weighted-average basic shares outstanding	16,701,272	17,352,119	18,471,336
+Effect of dilutive securities	163,647	176,095	124,315
+Weighted-average diluted shares	16,864,919	17,528,214	18,595,651
+
+Basic earnings per share	$	5.67	$	3.31	$	2.99
+Diluted earnings per share	$	5.61	$	3.28	$	2.97
+
+
+2021	2020	2019
+iPhone (1)	$	191,973	$	137,781	$	142,381
+Mac (1)	35,190	28,622	25,740
+iPad (1)	31,862	23,724	21,280
+Wearables, Home and Accessories (1)(2)	38,367	30,620	24,482
+Services (3)	68,425	53,768	46,291
+Total net sales (4)	$	365,817	$	274,515	$	260,174
+
+
+2021
+AdjustedCost	UnrealizedGains	UnrealizedLosses	FairValue	Cash andCashEquivalents	CurrentMarketableSecurities	Non-CurrentMarketableSecurities
+Cash	$	17,305	$	—	$	—	$	17,305	$	17,305	$	—	$	—
+Level 1 (1):
+Money market funds	9,608	—	—	9,608	9,608	—	—
+Mutual funds	175	11	(1)	185	—	185	—
+Subtotal	9,783	11	(1)	9,793	9,608	185	—
+Level 2 (2):
+Equity securities	1,527	—	(564)	963	—	963	—
+U.S. Treasury securities	22,878	102	(77)	22,903	3,596	6,625	12,682
+U.S. agency securities	8,949	2	(64)	8,887	1,775	1,930	5,182
+Non-U.S. government securities	20,201	211	(101)	20,311	390	3,091	16,830
+Certificates of deposit and time deposits	1,300	—	—	1,300	490	810	—
+Commercial paper	2,639	—	—	2,639	1,776	863	—
+Corporate debt securities	83,883	1,242	(267)	84,858	—	12,327	72,531
+Municipal securities	967	14	—	981	—	130	851
+Mortgage- and asset-backed securities	20,529	171	(124)	20,576	—	775	19,801
+Subtotal	162,873	1,742	(1,197)	163,418	8,027	27,514	127,877
+Total (3)	$	189,961	$	1,753	$	(1,198)	$	190,516	$	34,940	$	27,699	$	127,877
+
+
+2020
+AdjustedCost	UnrealizedGains	UnrealizedLosses	FairValue	Cash andCashEquivalents	CurrentMarketableSecurities	Non-CurrentMarketableSecurities
+Cash	$	17,773	$	—	$	—	$	17,773	$	17,773	$	—	$	—
+Level 1 (1): Money market funds	2,171	—	—	2,171	2,171	—	—
+
+
+Level 2 (2):
+U.S. Treasury securities	28,439	331	—	28,770	8,580	11,972	8,218
+U.S. agency securities	8,604	8	—	8,612	2,009	3,078	3,525
+Non-U.S. government securities	19,361	275	(186)	19,450	255	3,329	15,866
+Certificates of deposit and time deposits	10,399	—	—	10,399	4,043	6,246	110
+Commercial paper	11,226	—	—	11,226	3,185	8,041	—
+Corporate debt securities	76,937	1,834	(175)	78,596	—	19,687	58,909
+Municipal securities	1,001	22	—	1,023	—	139	884
+Mortgage- and asset-backed securities	13,520	314	(24)	13,810	—	435	13,375
+Subtotal	169,487	2,784	(385)	171,886	18,072	52,927	100,887
+Total (3)	$	189,431	$	2,784	$	(385)	$	191,830	$	38,016	$	52,927	$	100,887
+
+
+Due after 1 year through 5 years	$	83,755
+Due after 5 years through 10 years	23,915
+Due after 10 years	20,207
+Total fair value	$	127,877
+
+
+2021	2020
+Derivative instruments designated as accounting hedges:
+Foreign exchange contracts	$	76,475	$	57,410
+Interest rate contracts	$	16,875	$	20,700
+
+Derivative instruments not designated as accounting hedges:
+Foreign exchange contracts	$	126,918	$	88,636
+
+
+2021	2020
+Hedged assets/(liabilities):
+Current and non-current marketable securities	$	15,954	$	16,270
+Current and non-current term debt	$	(17,857)	$	(21,033)
+
+
+2021	2020
+Land and buildings	$	20,041	$	17,952
+Machinery, equipment and internal-use software	78,659	75,291
+Leasehold improvements	11,023	10,283
+Gross property, plant and equipment	109,723	103,526
+Accumulated depreciation and amortization	(70,283)	(66,760)
+Total property, plant and equipment, net	$	39,440	$	36,766
+
+
+2021	2020
+Long-term taxes payable	$	24,689	$	28,170
+Other non-current liabilities	28,636	26,320
+Total other non-current liabilities	$	53,325	$	54,490
+
+
+2021	2020	2019
+Interest and dividend income	$	2,843	$	3,763	$	4,961
+Interest expense	(2,645)	(2,873)	(3,576)
+Other income/(expense), net	60	(87)	422
+Total other income/(expense), net	$	258	$	803	$	1,807
+
+
+2021	2020	2019
+Federal:
+Current	$	8,257	$	6,306	$	6,384
+Deferred	(7,176)	(3,619)	(2,939)
+Total	1,081	2,687	3,445
+State:
+Current	1,620	455	475
+Deferred	(338)	21	(67)
+Total	1,282	476	408
+Foreign:
+Current	9,424	3,134	3,962
+Deferred	2,740	3,383	2,666
+Total	12,164	6,517	6,628
+Provision for income taxes	$	14,527	$	9,680	$	10,481
+
+
+2021	2020	2019
+Computed expected tax	$	22,933	$	14,089	$	13,805
+State taxes, net of federal effect	1,151	423	423
+Impacts of the U.S. Tax Cuts and Jobs Act of 2017	—	(582)	—
+Earnings of foreign subsidiaries	(4,715)	(2,534)	(2,625)
+Foreign-derived intangible income deduction	(1,372)	(169)	(149)
+Research and development credit, net	(1,033)	(728)	(548)
+Excess tax benefits from equity awards	(2,137)	(930)	(639)
+Other	(300)	111	214
+Provision for income taxes	$	14,527	$	9,680	$	10,481
+Effective tax rate	13.3	%	14.4	%	15.9	%
+
+
+2021	2020
+Deferred tax assets:
+Amortization and depreciation	$	5,575	$	8,317
+Accrued liabilities and other reserves	5,895	4,934
+Lease liabilities	2,406	2,038
+Deferred revenue	5,399	1,638
+Tax credit carryforwards	4,262	797
+Other	1,639	1,612
+Total deferred tax assets	25,176	19,336
+Less: Valuation allowance	(4,903)	(1,041)
+Total deferred tax assets, net	20,273	18,295
+Deferred tax liabilities:
+Minimum tax on foreign earnings	4,318	7,045
+Right-of-use assets	2,167	1,862
+Unrealized gains	203	526
+Other	512	705
+Total deferred tax liabilities	7,200	10,138
+Net deferred tax assets	$	13,073	$	8,157
+
+
+2021	2020	2019
+Beginning balances	$	16,475	$	15,619	$	9,694
+Increases related to tax positions taken during a prior year	816	454	5,845
+Decreases related to tax positions taken during a prior year	(1,402)	(791)	(686)
+Increases related to tax positions taken during the current year	1,607	1,347	1,697
+Decreases related to settlements with taxing authorities	(1,838)	(85)	(852)
+Decreases related to expiration of the statute of limitations	(181)	(69)	(79)
+Ending balances	$	15,477	$	16,475	$	15,619
+
+
+Lease-Related Assets and Liabilities	Financial Statement Line Items	2021	2020
+Right-of-use assets:
+Operating leases	Other non-current assets	$	10,087	$	8,570
+Finance leases	Property, plant and equipment, net	861	629
+Total right-of-use assets	$	10,948	$	9,199
+
+Lease liabilities:
+Operating leases	Other current liabilities	$	1,449	$	1,436
+Other non-current liabilities	9,506	7,745
+Finance leases	Other current liabilities	79	24
+Other non-current liabilities	769	637
+Total lease liabilities	$	11,803	$	9,842
+
+
+OperatingLeases	FinanceLeases	Total
+2022	$	1,629	$	104	$	1,733
+2023	1,560	123	1,683
+2024	1,499	99	1,598
+2025	1,251	46	1,297
+2026	1,061	26	1,087
+Thereafter	5,187	868	6,055
+Total undiscounted liabilities	12,187	1,266	13,453
+Less: Imputed interest	(1,232)	(418)	(1,650)
+Total lease liabilities	$	10,955	$	848	$	11,803
+
+
+2021	2020	2019
+Maturities 90 days or less:
+Proceeds from/(Repayments of) commercial paper, net	$	(357)	$	100	$	(3,248)
+
+Maturities greater than 90 days:
+Proceeds from commercial paper	7,946	6,185	13,874
+Repayments of commercial paper	(6,567)	(7,248)	(16,603)
+Proceeds from/(Repayments of) commercial paper, net	1,379	(1,063)	(2,729)
+
+Total proceeds from/(repayments of) commercial paper, net	$	1,022	$	(963)	$	(5,977)
+
+
+Maturities(calendar year)	2021	2020
+Amount(in millions)	EffectiveInterest Rate	Amount(in millions)	EffectiveInterest Rate
+2013 – 2020 debt issuances:
+Floating-rate notes	2022	$	1,750	0.48% – 0.63%	$	2,250	0.60% – 1.39%
+Fixed-rate 0.000% – 4.650% notes	2022 – 2060	95,813	0.03% – 4.78%	103,828	0.03% – 4.78%
+
+Second quarter 2021 debt issuance:
+Fixed-rate 0.700% – 2.800% notes	2026 – 2061	14,000	0.75% – 2.81%	—	—	%
+
+Fourth quarter 2021 debt issuance:
+Fixed-rate 1.400% – 2.850% notes	2028 – 2061	6,500	1.43% – 2.86%	—	—	%
+Total term debt	118,063	106,078
+
+Unamortized premium/(discount) and issuance costs, net	(380)	(314)
+Hedge accounting fair value adjustments	1,036	1,676
+Less: Current portion of term debt	(9,613)	(8,773)
+Total non-current portion of term debt	$	109,106	$	98,667
+
+
+2022	$	9,583
+2023	11,391
+2024	10,202
+2025	10,914
+2026	11,408
+Thereafter	64,565
+Total term debt	$	118,063
+
+
+2021	2020	2019
+Common stock outstanding, beginning balances	16,976,763	17,772,945	19,019,943
+Common stock repurchased	(656,340)	(917,270)	(1,380,819)
+Common stock issued, net of shares withheld for employee taxes	106,363	121,088	133,821
+Common stock outstanding, ending balances	16,426,786	16,976,763	17,772,945
+
+
+Number ofRSUs(in thousands)	Weighted-AverageGrant Date FairValue Per RSU	AggregateFair Value(in millions)
+Balance as of September 29, 2018	368,618	$	33.65
+RSUs granted	147,409	$	53.99
+RSUs vested	(168,350)	$	33.80
+RSUs canceled	(21,609)	$	40.71
+Balance as of September 28, 2019	326,068	$	42.30
+RSUs granted	156,800	$	59.20
+RSUs vested	(157,743)	$	40.29
+RSUs canceled	(14,347)	$	48.07
+Balance as of September 26, 2020	310,778	$	51.58
+RSUs granted	89,363	$	116.33
+RSUs vested	(145,766)	$	50.71
+RSUs canceled	(13,948)	$	68.95
+Balance as of September 25, 2021	240,427	$	75.16	$	35,324
+
+
+2021	2020	2019
+Share-based compensation expense	$	7,906	$	6,829	$	6,068
+Income tax benefit related to share-based compensation expense	$	(4,056)	$	(2,476)	$	(1,967)
+
+
+2021	2020	2019
+Beginning accrued warranty and related costs	$	3,354	$	3,570	$	3,692
+Cost of warranty claims	(2,674)	(2,956)	(3,857)
+Accruals for product warranty	2,684	2,740	3,735
+Ending accrued warranty and related costs	$	3,364	$	3,354	$	3,570
+
+
+2022	$	4,551
+2023	2,165
+2024	984
+2025	405
+2026	51
+Thereafter	28
+Total	$	8,184
+
+
+2021	2020	2019
+Americas:
+Net sales	$	153,306	$	124,556	$	116,914
+Operating income	$	53,382	$	37,722	$	35,099
+
+Europe:
+Net sales	$	89,307	$	68,640	$	60,288
+Operating income	$	32,505	$	22,170	$	19,195
+
+Greater China:
+Net sales	$	68,366	$	40,308	$	43,678
+Operating income	$	28,504	$	15,261	$	16,232
+
+Japan:
+Net sales	$	28,482	$	21,418	$	21,506
+Operating income	$	12,798	$	9,279	$	9,369
+
+Rest of Asia Pacific:
+Net sales	$	26,356	$	19,593	$	17,788
+Operating income	$	9,817	$	6,808	$	6,055
+
+
+2021	2020	2019
+Segment operating income	$	137,006	$	91,240	$	85,950
+Research and development expense	(21,914)	(18,752)	(16,217)
+Other corporate expenses, net	(6,143)	(6,200)	(5,803)
+Total operating income	$	108,949	$	66,288	$	63,930
+
+
+2021	2020	2019
+Net sales:
+U.S.	$	133,803	$	109,197	$	102,266
+China (1)	68,366	40,308	43,678
+Other countries	163,648	125,010	114,230
+Total net sales	$	365,817	$	274,515	$	260,174
+
+
+2021	2020
+Long-lived assets:
+U.S.	$	28,203	$	25,890
+China (1)	7,521	7,256
+Other countries	3,716	3,620
+Total long-lived assets	$	39,440	$	36,766
+
+
+Uncertain Tax Positions
+Description of the Matter	As discussed in Note 5 to the financial statements, Apple Inc. is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions. As of September 25, 2021, the total amount of gross unrecognized tax benefits was $15.5 billion, of which $6.6 billion, if recognized, would impact Apple Inc.’s effective tax rate. Apple Inc. uses significant judgment in the calculation of tax liabilities in estimating the impact of uncertainties in the application of technical merits and complex tax laws.Auditing management’s evaluation of whether an uncertain tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions can be complex, involves significant judgment, and is based on interpretations of tax laws and legal rulings.
+
+
+How We Addressed theMatter in Our Audit	We tested controls relating to the evaluation of uncertain tax positions, including controls over management’s assessment as to whether tax positions are more likely than not to be sustained, management’s process to measure the benefit of its tax positions, and the development of the related disclosures.To evaluate Apple Inc.’s assessment of which tax positions are more likely than not to be sustained, our audit procedures included, among others, reading and evaluating management’s assumptions and analysis, and, as applicable, Apple Inc.’s communications with taxing authorities, that detailed the basis and technical merits of the uncertain tax positions. We involved our tax subject matter resources in assessing the technical merits of certain of Apple Inc.’s tax positions based on our knowledge of relevant tax laws and experience with related taxing authorities. For certain tax positions, we also received external legal counsel confirmation letters and discussed the matters with external advisors and Apple Inc. tax personnel. In addition, we evaluated Apple Inc.’s disclosure in relation to these matters included in Note 5 to the financial statements.
+
+
+Index to Consolidated Financial Statements	Page
+Consolidated Statements of Operations for the years ended September 25, 2021, September 26, 2020 and September 28, 2019	29
+Consolidated Statements of Comprehensive Income for the years ended September 25, 2021, September 26, 2020 and September 28, 2019	30
+Consolidated Balance Sheets as of September 25, 2021 and September 26, 2020	31
+Consolidated Statements of Shareholders’ Equity for the years ended September 25, 2021, September 26, 2020 and September 28, 2019	32
+Consolidated Statements of Cash Flows for the years ended September 25, 2021, September 26, 2020 and September 28, 2019	33
+Notes to Consolidated Financial Statements	34
+Reports of Independent Registered Public Accounting Firm	52
+
+
+Incorporated by Reference
+Exhibit Number	Exhibit Description	Form	Exhibit	Filing Date/Period End Date
+3.1	Restated Articles of Incorporation of the Registrant filed on August 3, 2020.	8-K	3.1	8/7/20
+3.2	Amended and Restated Bylaws of the Registrant effective as of December 13, 2016.	8-K	3.2	12/15/16
+4.1**	Description of Securities of the Registrant.
+4.2	Indenture, dated as of April 29, 2013, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.	S-3	4.1	4/29/13
+4.3	Officer’s Certificate of the Registrant, dated as of May 3, 2013, including forms of global notes representing the Floating Rate Notes due 2016, Floating Rate Notes due 2018, 0.45% Notes due 2016, 1.00% Notes due 2018, 2.40% Notes due 2023 and 3.85% Notes due 2043.	8-K	4.1	5/3/13
+4.4	Officer’s Certificate of the Registrant, dated as of May 6, 2014, including forms of global notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2019, 1.05% Notes due 2017, 2.10% Notes due 2019, 2.85% Notes due 2021, 3.45% Notes due 2024 and 4.45% Notes due 2044.	8-K	4.1	5/6/14
+4.5	Officer’s Certificate of the Registrant, dated as of November 10, 2014, including forms of global notes representing the 1.000% Notes due 2022 and 1.625% Notes due 2026.	8-K	4.1	11/10/14
+4.6	Officer’s Certificate of the Registrant, dated as of February 9, 2015, including forms of global notes representing the Floating Rate Notes due 2020, 1.55% Notes due 2020, 2.15% Notes due 2022, 2.50% Notes due 2025 and 3.45% Notes due 2045.	8-K	4.1	2/9/15
+4.7	Officer’s Certificate of the Registrant, dated as of May 13, 2015, including forms of global notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2020, 0.900% Notes due 2017, 2.000% Notes due 2020, 2.700% Notes due 2022, 3.200% Notes due 2025, and 4.375% Notes due 2045.	8-K	4.1	5/13/15
+4.8	Officer’s Certificate of the Registrant, dated as of July 31, 2015, including forms of global notes representing the 3.05% Notes due 2029 and 3.60% Notes due 2042.	8-K	4.1	7/31/15
+
+
+Incorporated by Reference
+Exhibit Number	Exhibit Description	Form	Exhibit	Filing Date/Period End Date
+4.9	Officer’s Certificate of the Registrant, dated as of September 17, 2015, including forms of global notes representing the 1.375% Notes due 2024 and 2.000% Notes due 2027.	8-K	4.1	9/17/15
+4.10	Officer’s Certificate of the Registrant, dated as of February 23, 2016, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes due 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due 2036 and 4.650% Notes due 2046.	8-K	4.1	2/23/16
+4.11	Supplement No. 1 to the Officer’s Certificate of the Registrant, dated as of March 24, 2016.	8-K	4.1	3/24/16
+4.12	Officer’s Certificate of the Registrant, dated as of August 4, 2016, including forms of global notes representing the Floating Rate Notes due 2019, 1.100% Notes due 2019, 1.550% Notes due 2021, 2.450% Notes due 2026 and 3.850% Notes due 2046.	8-K	4.1	8/4/16
+4.13	Officer’s Certificate of the Registrant, dated as of February 9, 2017, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2020, Floating Rate Notes due 2022, 1.550% Notes due 2019, 1.900% Notes due 2020, 2.500% Notes due 2022, 3.000% Notes due 2024, 3.350% Notes due 2027 and 4.250% Notes due 2047.	8-K	4.1	2/9/17
+4.14	Officer’s Certificate of the Registrant, dated as of May 11, 2017, including forms of global notes representing the Floating Rate Notes due 2020, Floating Rate Notes due 2022, 1.800% Notes due 2020, 2.300% Notes due 2022, 2.850% Notes due 2024 and 3.200% Notes due 2027.	8-K	4.1	5/11/17
+4.15	Officer’s Certificate of the Registrant, dated as of May 24, 2017, including forms of global notes representing the 0.875% Notes due 2025 and 1.375% Notes due 2029.	8-K	4.1	5/24/17
+4.16	Officer’s Certificate of the Registrant, dated as of June 20, 2017, including form of global note representing the 3.000% Notes due 2027.	8-K	4.1	6/20/17
+4.17	Officer’s Certificate of the Registrant, dated as of August 18, 2017, including form of global note representing the 2.513% Notes due 2024.	8-K	4.1	8/18/17
+4.18	Officer’s Certificate of the Registrant, dated as of September 12, 2017, including forms of global notes representing the 1.500% Notes due 2019, 2.100% Notes due 2022, 2.900% Notes due 2027 and 3.750% Notes due 2047.	8-K	4.1	9/12/17
+4.19	Officer’s Certificate of the Registrant, dated as of November 13, 2017, including forms of global notes representing the 1.800% Notes due 2019, 2.000% Notes due 2020, 2.400% Notes due 2023, 2.750% Notes due 2025, 3.000% Notes due 2027 and 3.750% Notes due 2047.	8-K	4.1	11/13/17
+4.20	Indenture, dated as of November 5, 2018, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.	S-3	4.1	11/5/18
+4.21	Officer’s Certificate of the Registrant, dated as of September 11, 2019, including forms of global notes representing the 1.700% Notes due 2022, 1.800% Notes due 2024, 2.050% Notes due 2026, 2.200% Notes due 2029 and 2.950% Notes due 2049.	8-K	4.1	9/11/19
+4.22	Officer’s Certificate of the Registrant, dated as of November 15, 2019, including forms of global notes representing the 0.000% Notes due 2025 and 0.500% Notes due 2031.	8-K	4.1	11/15/19
+4.23	Officer’s Certificate of the Registrant, dated as of May 11, 2020, including forms of global notes representing the 0.750% Notes due 2023, 1.125% Notes due 2025, 1.650% Notes due 2030 and 2.650% Notes due 2050.	8-K	4.1	5/11/20
+4.24	Officer’s Certificate of the Registrant, dated as of August 20, 2020, including forms of global notes representing the 0.550% Notes due 2025, 1.25% Notes due 2030, 2.400% Notes due 2050 and 2.550% Notes due 2060.	8-K	4.1	8/20/20
+4.25	Officer’s Certificate of the Registrant, dated as of February 8, 2021, including forms of global notes representing the 0.700% Notes due 2026, 1.200% Notes due 2028, 1.650% Notes due 2031, 2.375% Notes due 2041, 2.650% Notes due 2051 and 2.800% Notes due 2061.	8-K	4.1	2/8/21
+4.26	Officer’s Certificate of the Registrant, dated as of August 5, 2021, including forms of global notes representing the 1.400% Notes due 2028, 1.700% Notes due 2031, 2.700% Notes due 2051 and 2.850% Notes due 2061.	8-K	4.1	8/5/21
+4.27*	Apple Inc. Deferred Compensation Plan.	S-8	4.1	8/23/18
+
+
+Incorporated by Reference
+Exhibit Number	Exhibit Description	Form	Exhibit	Filing Date/Period End Date
+10.1*	Employee Stock Purchase Plan, as amended and restated as of March 10, 2015.	8-K	10.1	3/13/15
+10.2*	Form of Indemnification Agreement between the Registrant and each director and executive officer of the Registrant.	10-Q	10.2	6/27/09
+10.3*	Apple Inc. Non-Employee Director Stock Plan, as amended and restated as of February 13, 2018.	8-K	10.1	2/14/18
+10.4*	2014 Employee Stock Plan, as amended and restated as of October 1, 2017.	10-K	10.8	9/30/17
+10.5*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of October 14, 2016.	10-K	10.18	9/24/16
+10.6*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of September 26, 2017.	10-K	10.20	9/30/17
+10.7*	Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of September 26, 2017.	10-K	10.21	9/30/17
+10.8*	Form of Restricted Stock Unit Award Agreement under Non-Employee Director Stock Plan effective as of February 13, 2018.	10-Q	10.2	3/31/18
+10.9*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of August 21, 2018.	10-K	10.17	9/29/18
+10.10*	Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of August 21, 2018.	10-K	10.18	9/29/18
+10.11*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of September 29, 2019.	10-K	10.15	9/28/19
+10.12*	Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of September 29, 2019.	10-K	10.16	9/28/19
+10.13*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of August 18, 2020.	10-K	10.16	9/26/20
+10.14*	Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of August 18, 2020.	10-K	10.17	9/26/20
+10.15*	Form of CEO Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of September 27, 2020.	10-Q	10.1	1/28/21
+10.16*	Form of CEO Performance Award Agreement under 2014 Employee Stock Plan effective as of September 27, 2020.	10-Q	10.2	1/28/21
+21.1**	Subsidiaries of the Registrant.
+23.1**	Consent of Independent Registered Public Accounting Firm.
+24.1**	Power of Attorney (included on the Signatures page of this Annual Report on Form 10-K).
+31.1**	Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.
+31.2**	Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.
+32.1***	Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.
+101**	Inline XBRL Document Set for the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K.
+104**	Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set.
+
+
+Date: October 28, 2021	Apple Inc.
+
+By:	/s/ Luca Maestri
+Luca Maestri
+Senior Vice President,Chief Financial Officer
+
+
+Name	Title	Date
+
+/s/    Timothy D. Cook	Chief Executive Officer and Director(Principal Executive Officer)	October 28, 2021
+TIMOTHY D. COOK
+
+/s/    Luca Maestri	Senior Vice President, Chief Financial Officer(Principal Financial Officer)	October 28, 2021
+LUCA MAESTRI
+
+/s/    Chris Kondo	Senior Director of Corporate Accounting(Principal Accounting Officer)	October 28, 2021
+CHRIS KONDO
+
+/s/    James A. Bell	Director	October 28, 2021
+JAMES A. BELL
+
+/s/    Al Gore	Director	October 28, 2021
+AL GORE
+
+/s/    Andrea Jung	Director	October 28, 2021
+ANDREA JUNG
+
+/s/    Arthur D. Levinson	Director and Chair of the Board	October 28, 2021
+ARTHUR D. LEVINSON
+
+/s/    Monica Lozano	Director	October 28, 2021
+MONICA LOZANO
+
+/s/    Ronald D. Sugar	Director	October 28, 2021
+RONALD D. SUGAR
+
+/s/    Susan L. Wagner	Director	October 28, 2021
+SUSAN L. WAGNER
+

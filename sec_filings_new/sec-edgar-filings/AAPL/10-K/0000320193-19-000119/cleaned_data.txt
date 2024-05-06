@@ -1,0 +1,1129 @@
+Text Content:
+
+
+Tables:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+California	94-2404110
+(State or other jurisdictionof incorporation or organization)	(I.R.S. Employer Identification No.)
+
+One Apple Park Way
+Cupertino	California	95014
+(Address of principal executive offices)	(Zip Code)
+
+
+
+
+
+
+
+Title of each class	Trading symbol(s)	Name of each exchange on which registered
+Common Stock, $0.00001 par value per share	AAPL	The Nasdaq Stock Market LLC
+1.000% Notes due 2022	—	The Nasdaq Stock Market LLC
+1.375% Notes due 2024	—	The Nasdaq Stock Market LLC
+0.875% Notes due 2025	—	The Nasdaq Stock Market LLC
+1.625% Notes due 2026	—	The Nasdaq Stock Market LLC
+2.000% Notes due 2027	—	The Nasdaq Stock Market LLC
+1.375% Notes due 2029	—	The Nasdaq Stock Market LLC
+3.050% Notes due 2029	—	The Nasdaq Stock Market LLC
+3.600% Notes due 2042	—	The Nasdaq Stock Market LLC
+
+
+
+
+
+
+
+Large accelerated filer	☒	Accelerated filer	☐
+Non-accelerated filer	☐	Smaller reporting company	☐
+Emerging growth company	☐
+
+
+
+
+
+
+
+Page
+Part I
+Item 1.	Business	1
+Item 1A.	Risk Factors	5
+Item 1B.	Unresolved Staff Comments	14
+Item 2.	Properties	14
+Item 3.	Legal Proceedings	14
+Item 4.	Mine Safety Disclosures	14
+Part II
+Item 5.	Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities	15
+Item 6.	Selected Financial Data	17
+Item 7.	Management’s Discussion and Analysis of Financial Condition and Results of Operations	18
+Item 7A.	Quantitative and Qualitative Disclosures About Market Risk	26
+Item 8.	Financial Statements and Supplementary Data	28
+Item 9.	Changes in and Disagreements with Accountants on Accounting and Financial Disclosure	59
+Item 9A.	Controls and Procedures	59
+Item 9B.	Other Information	59
+Part III
+Item 10.	Directors, Executive Officers and Corporate Governance	60
+Item 11.	Executive Compensation	60
+Item 12.	Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters	60
+Item 13.	Certain Relationships and Related Transactions, and Director Independence	60
+Item 14.	Principal Accounting Fees and Services	60
+Part IV
+Item 15.	Exhibits, Financial Statement Schedules	61
+Item 16.	Form 10-K Summary	63
+
+
+Item 1.	Business
+
+
+Item 1A.	Risk Factors
+
+
+Item 1B.	Unresolved Staff Comments
+
+
+Item 2.	Properties
+
+
+Item 3.	Legal Proceedings
+
+
+Item 4.	Mine Safety Disclosures
+
+
+Item 5.	Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+
+
+
+Periods	Total Numberof Shares Purchased	Average PricePaid Per Share	Total Number of SharesPurchased as Part of PubliclyAnnounced Plans or Programs	Approximate Dollar Value ofShares That May Yet Be PurchasedUnder the Plans or Programs (1)
+June 30, 2019 to August 3, 2019:
+Open market and privately negotiated purchases	23,860	$	205.36	23,860
+
+August 4, 2019 to August 31, 2019:
+February 2019 ASR	6,886	(2)	6,886
+Open market and privately negotiated purchases	34,705	$	204.59	34,705
+
+September 1, 2019 to September 28, 2019:
+Open market and privately negotiated purchases	27,178	$	217.17	27,178
+Total	92,629	$	78,869
+
+
+(1)	On April 30, 2019, the Company announced the Board of Directors increased the current share repurchase program authorization from $100 billion to $175 billion of the Company’s common stock, of which $96.1 billion had been utilized as of September 28, 2019. The remaining $78.9 billion in the table represents the amount available to repurchase shares under the authorized repurchase program as of September 28, 2019. The Company’s share repurchase program does not obligate it to acquire any specific number of shares. Under this program, shares may be repurchased in privately negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act.
+
+
+(2)	In February 2019, the Company entered into an accelerated share repurchase arrangement (“ASR”) to purchase up to $12.0 billion of the Company’s common stock. In August 2019, the purchase period for this ASR ended and an additional 6.9 million shares were delivered and retired. In total, 62.0 million shares were delivered under this ASR at an average repurchase price of $193.69.
+
+
+*	$100 invested on September 26, 2014 in stock or index, including reinvestment of dividends. Data points are the last day of each fiscal year for the Company’s common stock and September 30th for indexes.
+
+
+
+September 2014	September 2015	September 2016	September 2017	September 2018	September 2019
+Apple Inc.	$	100	$	116	$	116	$	162	$	240	$	237
+S&P 500 Index	$	100	$	99	$	115	$	136	$	160	$	167
+S&P Information Technology Index	$	100	$	102	$	125	$	162	$	213	$	231
+Dow Jones U.S. Technology Supersector Index	$	100	$	100	$	122	$	156	$	205	$	218
+
+
+Item 6.	Selected Financial Data
+
+
+
+2019	2018	2017	2016	2015
+Total net sales	$	260,174	$	265,595	$	229,234	$	215,639	$	233,715
+Net income	$	55,256	$	59,531	$	48,351	$	45,687	$	53,394
+
+Earnings per share:
+Basic	$	11.97	$	12.01	$	9.27	$	8.35	$	9.28
+Diluted	$	11.89	$	11.91	$	9.21	$	8.31	$	9.22
+
+Cash dividends declared per share	$	3.00	$	2.72	$	2.40	$	2.18	$	1.98
+
+Shares used in computing earnings per share:
+Basic	4,617,834	4,955,377	5,217,242	5,470,820	5,753,421
+Diluted	4,648,913	5,000,109	5,251,692	5,500,281	5,793,069
+
+Total cash, cash equivalents and marketable securities	$	205,898	$	237,100	$	268,895	$	237,585	$	205,666
+Total assets	$	338,516	$	365,725	$	375,319	$	321,686	$	290,345
+Non-current portion of term debt	$	91,807	$	93,735	$	97,207	$	75,427	$	53,329
+Other non-current liabilities	$	50,503	$	48,914	$	44,212	$	39,986	$	38,104
+
+
+Item 7.	Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+
+
+2019	Change	2018	Change	2017
+Net sales by category:
+iPhone (1)	$	142,381	(14	)%	$	164,888	18	%	$	139,337
+Mac (1)	25,740	2	%	25,198	(1	)%	25,569
+iPad (1)	21,280	16	%	18,380	(2	)%	18,802
+Wearables, Home and Accessories (1)(2)	24,482	41	%	17,381	36	%	12,826
+Services (3)	46,291	16	%	39,748	22	%	32,700
+Total net sales	$	260,174	(2	)%	$	265,595	16	%	$	229,234
+
+
+(1)	Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales price of the respective product.
+
+
+(2)	Wearables, Home and Accessories net sales include sales of AirPods, Apple TV, Apple Watch, Beats products, HomePod, iPod touch and Apple-branded and third-party accessories.
+
+
+(3)	Services net sales include sales from the Company’s digital content stores and streaming services, AppleCare, licensing and other services. Services net sales also include amortization of the deferred value of Maps, Siri and free iCloud services, which are bundled in the sales price of certain products.
+
+
+
+2019	Change	2018	Change	2017
+Net sales by reportable segment:
+Americas	$	116,914	4	%	$	112,093	16	%	$	96,600
+Europe	60,288	(3	)%	62,420	14	%	54,938
+Greater China	43,678	(16	)%	51,942	16	%	44,764
+Japan	21,506	(1	)%	21,733	23	%	17,733
+Rest of Asia Pacific	17,788	2	%	17,407	15	%	15,199
+Total net sales	$	260,174	(2	)%	$	265,595	16	%	$	229,234
+
+
+
+2019	2018	2017
+Gross margin:
+Products	$	68,887	$	77,683	$	70,197
+Services	29,505	24,156	17,989
+Total gross margin	$	98,392	$	101,839	$	88,186
+
+Gross margin percentage:
+Products	32.2	%	34.4	%	35.7	%
+Services	63.7	%	60.8	%	55.0	%
+Total gross margin percentage	37.8	%	38.3	%	38.5	%
+
+
+
+2019	Change	2018	Change	2017
+Research and development	$	16,217	14	%	$	14,236	23	%	$	11,581
+Percentage of total net sales	6	%	5	%	5	%
+Selling, general and administrative	$	18,245	9	%	$	16,705	9	%	$	15,261
+Percentage of total net sales	7	%	6	%	7	%
+Total operating expenses	$	34,462	11	%	$	30,941	15	%	$	26,842
+Percentage of total net sales	13	%	12	%	12	%
+
+
+
+2019	Change	2018	Change	2017
+Interest and dividend income	$	4,961	$	5,686	$	5,201
+Interest expense	(3,576	)	(3,240	)	(2,323	)
+Other income/(expense), net	422	(441	)	(133	)
+Total other income/(expense), net	$	1,807	(10	)%	$	2,005	(27	)%	$	2,745
+
+
+
+2019	2018	2017
+Provision for income taxes	$	10,481	$	13,372	$	15,738
+Effective tax rate	15.9	%	18.3	%	24.6	%
+Statutory federal income tax rate	21.0	%	24.5	%	35.0	%
+
+
+
+2019	2018	2017
+Cash, cash equivalents and marketable securities (1)	$	205,898	$	237,100	$	268,895
+Property, plant and equipment, net	$	37,378	$	41,304	$	33,783
+Commercial paper	$	5,980	$	11,964	$	11,977
+Total term debt	$	102,067	$	102,519	$	103,703
+Working capital	$	57,101	$	15,410	$	28,792
+Cash generated by operating activities	$	69,391	$	77,434	$	64,225
+Cash generated by/(used in) investing activities	$	45,896	$	16,066	$	(46,446	)
+Cash used in financing activities	$	(90,976	)	$	(87,876	)	$	(17,974	)
+
+
+(1)	As of September 28, 2019 and September 29, 2018, total cash, cash equivalents and marketable securities included $18.9 billion and $20.3 billion, respectively, that was restricted from general use, related to the State Aid Decision (refer to Note 5, “Income Taxes” in the Notes to Consolidated Financial Statements in Part II, Item 8 of this Form 10-K) and other agreements.
+
+
+
+Payments due in 2020	Payments due in 2021–2022	Payments due in 2023–2024	Payments due after 2024	Total
+Term debt	$	10,270	$	18,278	$	19,329	$	53,802	$	101,679
+Operating leases	1,306	2,413	1,746	5,373	10,838
+Manufacturing purchase obligations (1)	40,076	1,974	808	69	42,927
+Other purchase obligations	3,744	2,271	572	41	6,628
+Deemed repatriation tax payable	—	4,350	8,501	16,655	29,506
+Total	$	55,396	$	29,286	$	30,956	$	75,940	$	191,578
+
+
+(1)	Represents amount expected to be paid under manufacturing-related supplier arrangements, which are primarily noncancelable.
+
+
+Item 7A.	Quantitative and Qualitative Disclosures About Market Risk
+
+
+Item 8.	Financial Statements and Supplementary Data
+
+
+
+Index to Consolidated Financial Statements	Page
+Consolidated Statements of Operations for the years ended September 28, 2019, September 29, 2018 and September 30, 2017	29
+Consolidated Statements of Comprehensive Income for the years ended September 28, 2019, September 29, 2018 and September 30, 2017	30
+Consolidated Balance Sheets as of September 28, 2019 and September 29, 2018	31
+Consolidated Statements of Shareholders’ Equity for the years ended September 28, 2019, September 29, 2018 and September 30, 2017	32
+Consolidated Statements of Cash Flows for the years ended September 28, 2019, September 29, 2018 and September 30, 2017	33
+Notes to Consolidated Financial Statements	34
+Selected Quarterly Financial Information (Unaudited)	55
+Reports of Independent Registered Public Accounting Firm	56
+
+
+
+Years ended
+September 28, 2019	September 29, 2018	September 30, 2017
+Net sales:
+Products	$	213,883	$	225,847	$	196,534
+Services	46,291	39,748	32,700
+Total net sales	260,174	265,595	229,234
+
+Cost of sales:
+Products	144,996	148,164	126,337
+Services	16,786	15,592	14,711
+Total cost of sales	161,782	163,756	141,048
+Gross margin	98,392	101,839	88,186
+
+Operating expenses:
+Research and development	16,217	14,236	11,581
+Selling, general and administrative	18,245	16,705	15,261
+Total operating expenses	34,462	30,941	26,842
+
+Operating income	63,930	70,898	61,344
+Other income/(expense), net	1,807	2,005	2,745
+Income before provision for income taxes	65,737	72,903	64,089
+Provision for income taxes	10,481	13,372	15,738
+Net income	$	55,256	$	59,531	$	48,351
+
+Earnings per share:
+Basic	$	11.97	$	12.01	$	9.27
+Diluted	$	11.89	$	11.91	$	9.21
+
+Shares used in computing earnings per share:
+Basic	4,617,834	4,955,377	5,217,242
+Diluted	4,648,913	5,000,109	5,251,692
+
+
+
+Years ended
+September 28, 2019	September 29, 2018	September 30, 2017
+Net income	$	55,256	$	59,531	$	48,351
+Other comprehensive income/(loss):
+Change in foreign currency translation, net of tax	(408	)	(525	)	224
+
+Change in unrealized gains/losses on derivative instruments, net of tax:
+Change in fair value of derivatives	(661	)	523	1,315
+Adjustment for net (gains)/losses realized and included in net income	23	382	(1,477	)
+Total change in unrealized gains/losses on derivative instruments	(638	)	905	(162	)
+
+Change in unrealized gains/losses on marketable securities, net of tax:
+Change in fair value of marketable securities	3,802	(3,407	)	(782	)
+Adjustment for net (gains)/losses realized and included in net income	25	1	(64	)
+Total change in unrealized gains/losses on marketable securities	3,827	(3,406	)	(846	)
+
+Total other comprehensive income/(loss)	2,781	(3,026	)	(784	)
+Total comprehensive income	$	58,037	$	56,505	$	47,567
+
+
+
+September 28, 2019	September 29, 2018
+ASSETS:
+Current assets:
+Cash and cash equivalents	$	48,844	$	25,913
+Marketable securities	51,713	40,388
+Accounts receivable, net	22,926	23,186
+Inventories	4,106	3,956
+Vendor non-trade receivables	22,878	25,809
+Other current assets	12,352	12,087
+Total current assets	162,819	131,339
+
+Non-current assets:
+Marketable securities	105,341	170,799
+Property, plant and equipment, net	37,378	41,304
+Other non-current assets	32,978	22,283
+Total non-current assets	175,697	234,386
+Total assets	$	338,516	$	365,725
+
+LIABILITIES AND SHAREHOLDERS’ EQUITY:
+Current liabilities:
+Accounts payable	$	46,236	$	55,888
+Other current liabilities	37,720	33,327
+Deferred revenue	5,522	5,966
+Commercial paper	5,980	11,964
+Term debt	10,260	8,784
+Total current liabilities	105,718	115,929
+
+Non-current liabilities:
+Term debt	91,807	93,735
+Other non-current liabilities	50,503	48,914
+Total non-current liabilities	142,310	142,649
+Total liabilities	248,028	258,578
+
+Commitments and contingencies
+
+Shareholders’ equity:
+Common stock and additional paid-in capital, $0.00001 par value: 12,600,000 shares authorized; 4,443,236 and 4,754,986 shares issued and outstanding, respectively	45,174	40,201
+Retained earnings	45,898	70,400
+Accumulated other comprehensive income/(loss)	(584	)	(3,454	)
+Total shareholders’ equity	90,488	107,147
+Total liabilities and shareholders’ equity	$	338,516	$	365,725
+
+
+
+Years ended
+September 28, 2019	September 29, 2018	September 30, 2017
+Total shareholders’ equity, beginning balances	$	107,147	$	134,047	$	128,249
+
+Common stock and additional paid-in capital:
+Beginning balances	40,201	35,867	31,251
+Common stock issued	781	669	555
+Common stock withheld related to net share settlement of equity awards	(2,002	)	(1,778	)	(1,468	)
+Share-based compensation	6,194	5,443	4,909
+Tax benefit from equity awards, including transfer pricing adjustments	—	—	620
+Ending balances	45,174	40,201	35,867
+
+Retained earnings:
+Beginning balances	70,400	98,330	96,364
+Net income	55,256	59,531	48,351
+Dividends and dividend equivalents declared	(14,129	)	(13,735	)	(12,803	)
+Common stock withheld related to net share settlement of equity awards	(1,029	)	(948	)	(581	)
+Common stock repurchased	(67,101	)	(73,056	)	(33,001	)
+Cumulative effects of changes in accounting principles	2,501	278	—
+Ending balances	45,898	70,400	98,330
+
+Accumulated other comprehensive income/(loss):
+Beginning balances	(3,454	)	(150	)	634
+Other comprehensive income/(loss)	2,781	(3,026	)	(784	)
+Cumulative effects of changes in accounting principles	89	(278	)	—
+Ending balances	(584	)	(3,454	)	(150	)
+
+Total shareholders’ equity, ending balances	$	90,488	$	107,147	$	134,047
+
+Dividends and dividend equivalents declared per share or RSU	$	3.00	$	2.72	$	2.40
+
+
+
+Years ended
+September 28, 2019	September 29, 2018	September 30, 2017
+Cash, cash equivalents and restricted cash, beginning balances	$	25,913	$	20,289	$	20,484
+Operating activities:
+Net income	55,256	59,531	48,351
+Adjustments to reconcile net income to cash generated by operating activities:
+Depreciation and amortization	12,547	10,903	10,157
+Share-based compensation expense	6,068	5,340	4,840
+Deferred income tax expense/(benefit)	(340	)	(32,590	)	5,966
+Other	(652	)	(444	)	(166	)
+Changes in operating assets and liabilities:
+Accounts receivable, net	245	(5,322	)	(2,093	)
+Inventories	(289	)	828	(2,723	)
+Vendor non-trade receivables	2,931	(8,010	)	(4,254	)
+Other current and non-current assets	873	(423	)	(5,318	)
+Accounts payable	(1,923	)	9,175	8,966
+Deferred revenue	(625	)	(3	)	(593	)
+Other current and non-current liabilities	(4,700	)	38,449	1,092
+Cash generated by operating activities	69,391	77,434	64,225
+Investing activities:
+Purchases of marketable securities	(39,630	)	(71,356	)	(159,486	)
+Proceeds from maturities of marketable securities	40,102	55,881	31,775
+Proceeds from sales of marketable securities	56,988	47,838	94,564
+Payments for acquisition of property, plant and equipment	(10,495	)	(13,313	)	(12,451	)
+Payments made in connection with business acquisitions, net	(624	)	(721	)	(329	)
+Purchases of non-marketable securities	(1,001	)	(1,871	)	(521	)
+Proceeds from non-marketable securities	1,634	353	126
+Other	(1,078	)	(745	)	(124	)
+Cash generated by/(used in) investing activities	45,896	16,066	(46,446	)
+Financing activities:
+Proceeds from issuance of common stock	781	669	555
+Payments for taxes related to net share settlement of equity awards	(2,817	)	(2,527	)	(1,874	)
+Payments for dividends and dividend equivalents	(14,119	)	(13,712	)	(12,769	)
+Repurchases of common stock	(66,897	)	(72,738	)	(32,900	)
+Proceeds from issuance of term debt, net	6,963	6,969	28,662
+Repayments of term debt	(8,805	)	(6,500	)	(3,500	)
+Proceeds from/(Repayments of) commercial paper, net	(5,977	)	(37	)	3,852
+Other	(105	)	—	—
+Cash used in financing activities	(90,976	)	(87,876	)	(17,974	)
+Increase/(Decrease) in cash, cash equivalents and restricted cash	24,311	5,624	(195	)
+Cash, cash equivalents and restricted cash, ending balances	$	50,224	$	25,913	$	20,289
+Supplemental cash flow disclosure:
+Cash paid for income taxes, net	$	15,263	$	10,417	$	11,591
+Cash paid for interest	$	3,423	$	3,022	$	2,092
+
+
+
+2019	2018	2017
+Numerator:
+Net income	$	55,256	$	59,531	$	48,351
+
+Denominator:
+Weighted-average basic shares outstanding	4,617,834	4,955,377	5,217,242
+Effect of dilutive securities	31,079	44,732	34,450
+Weighted-average diluted shares	4,648,913	5,000,109	5,251,692
+
+Basic earnings per share	$	11.97	$	12.01	$	9.27
+Diluted earnings per share	$	11.89	$	11.91	$	9.21
+
+
+
+2019	2018	2017
+iPhone (1)	$	142,381	$	164,888	$	139,337
+Mac (1)	25,740	25,198	25,569
+iPad (1)	21,280	18,380	18,802
+Wearables, Home and Accessories (1)(2)	24,482	17,381	12,826
+Services (3)	46,291	39,748	32,700
+Total net sales (4)	$	260,174	$	265,595	$	229,234
+
+
+(1)	Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales price of the respective product.
+
+
+(2)	Wearables, Home and Accessories net sales include sales of AirPods, Apple TV, Apple Watch, Beats products, HomePod, iPod touch and Apple-branded and third-party accessories.
+
+
+(3)	Services net sales include sales from the Company’s digital content stores and streaming services, AppleCare, licensing and other services. Services net sales also include amortization of the deferred value of Maps, Siri and free iCloud services, which are bundled in the sales price of certain products.
+
+
+(4)	Includes $5.9 billion of revenue recognized in 2019 that was included in deferred revenue as of September 29, 2018, $5.8 billion of revenue recognized in 2018 that was included in deferred revenue as of September 30, 2017, and $6.3 billion of revenue recognized in 2017 that was included in deferred revenue as of September 24, 2016.
+
+
+
+2019
+AdjustedCost	UnrealizedGains	UnrealizedLosses	FairValue	Cash andCashEquivalents	Short-TermMarketableSecurities	Long-TermMarketableSecurities
+Cash	$	12,204	$	—	$	—	$	12,204	$	12,204	$	—	$	—
+Level 1 (1):
+Money market funds	15,897	—	—	15,897	15,897	—	—
+Subtotal	15,897	—	—	15,897	15,897	—	—
+Level 2 (2):
+U.S. Treasury securities	30,293	33	(62	)	30,264	6,165	9,817	14,282
+U.S. agency securities	9,767	1	(3	)	9,765	6,489	2,249	1,027
+Non-U.S. government securities	19,821	337	(50	)	20,108	749	3,168	16,191
+Certificates of deposit and time deposits	4,041	—	—	4,041	2,024	1,922	95
+Commercial paper	12,433	—	—	12,433	5,193	7,240	—
+Corporate debt securities	85,383	756	(92	)	86,047	123	26,127	59,797
+Municipal securities	958	8	(1	)	965	—	68	897
+Mortgage- and asset-backed securities	14,180	67	(73	)	14,174	—	1,122	13,052
+Subtotal	176,876	1,202	(281	)	177,797	20,743	51,713	105,341
+Total (3)	$	204,977	$	1,202	$	(281	)	$	205,898	$	48,844	$	51,713	$	105,341
+
+
+
+2018
+AdjustedCost	UnrealizedGains	UnrealizedLosses	FairValue	Cash andCashEquivalents	Short-TermMarketableSecurities	Long-TermMarketableSecurities
+Cash	$	11,575	$	—	$	—	$	11,575	$	11,575	$	—	$	—
+Level 1 (1):
+Money market funds	8,083	—	—	8,083	8,083	—	—
+Mutual funds	799	—	(116	)	683	—	683	—
+Subtotal	8,882	—	(116	)	8,766	8,083	683	—
+Level 2 (2):
+U.S. Treasury securities	47,296	—	(1,202	)	46,094	1,613	7,606	36,875
+U.S. agency securities	4,127	—	(48	)	4,079	1,732	360	1,987
+Non-U.S. government securities	21,601	49	(250	)	21,400	—	3,355	18,045
+Certificates of deposit and time deposits	3,074	—	—	3,074	1,247	1,330	497
+Commercial paper	2,573	—	—	2,573	1,663	910	—
+Corporate debt securities	123,001	152	(2,038	)	121,115	—	25,162	95,953
+Municipal securities	946	—	(12	)	934	—	178	756
+Mortgage- and asset-backed securities	18,105	8	(623	)	17,490	—	804	16,686
+Subtotal	220,723	209	(4,173	)	216,759	6,255	39,705	170,799
+Total (3)	$	241,180	$	209	$	(4,289	)	$	237,100	$	25,913	$	40,388	$	170,799
+
+
+(1)	Level 1 fair value estimates are based on quoted prices in active markets for identical assets or liabilities.
+
+
+(2)	Level 2 fair value estimates are based on observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+
+
+(3)	As of September 28, 2019 and September 29, 2018, total cash, cash equivalents and marketable securities included $18.9 billion and $20.3 billion, respectively, that was restricted from general use, related to the State Aid Decision (refer to Note 5, “Income Taxes”) and other agreements.
+
+
+
+2019
+Continuous Unrealized Losses
+Less than 12 Months	12 Months or Greater	Total
+Fair value of marketable debt securities	$	28,151	$	28,167	$	56,318
+Unrealized losses	$	(138	)	$	(143	)	$	(281	)
+
+
+
+2018
+Continuous Unrealized Losses
+Less than 12 Months	12 Months or Greater	Total
+Fair value of marketable securities	$	126,238	$	60,599	$	186,837
+Unrealized losses	$	(2,400	)	$	(1,889	)	$	(4,289	)
+
+
+
+2019
+Cash and cash equivalents	$	48,844
+Restricted cash included in other current assets	23
+Restricted cash included in other non-current assets	1,357
+Cash, cash equivalents and restricted cash	$	50,224
+
+
+
+2019
+Fair Value ofDerivatives Designatedas Hedge Instruments	Fair Value ofDerivatives Not Designatedas Hedge Instruments	TotalFair Value
+Derivative assets (1):
+Foreign exchange contracts	$	1,798	$	323	$	2,121
+Interest rate contracts	$	685	$	—	$	685
+
+Derivative liabilities (2):
+Foreign exchange contracts	$	1,341	$	160	$	1,501
+Interest rate contracts	$	105	$	—	$	105
+
+
+
+2018
+Fair Value ofDerivatives Designatedas Hedge Instruments	Fair Value ofDerivatives Not Designatedas Hedge Instruments	TotalFair Value
+Derivative assets (1):
+Foreign exchange contracts	$	1,015	$	259	$	1,274
+
+Derivative liabilities (2):
+Foreign exchange contracts	$	543	$	137	$	680
+Interest rate contracts	$	1,456	$	—	$	1,456
+
+
+(1)	The fair value of derivative assets is measured using Level 2 fair value inputs and is recorded as other current assets and other non-current assets in the Consolidated Balance Sheets.
+
+
+(2)	The fair value of derivative liabilities is measured using Level 2 fair value inputs and is recorded as other current liabilities and other non-current liabilities in the Consolidated Balance Sheets.
+
+
+
+2019	2018	2017
+Gains/(Losses) recognized in OCI – effective portion:
+Cash flow hedges:
+Foreign exchange contracts	$	(959	)	$	682	$	1,797
+Interest rate contracts	—	1	7
+Total	$	(959	)	$	683	$	1,804
+
+Net investment hedges:
+Foreign currency debt	$	(58	)	$	4	$	67
+
+Gains/(Losses) reclassified from AOCI into net income – effective portion:
+Cash flow hedges:
+Foreign exchange contracts	$	(116	)	$	(482	)	$	1,958
+Interest rate contracts	(7	)	1	(2	)
+Total	$	(123	)	$	(481	)	$	1,956
+
+Gains/(Losses) on derivative instruments:
+Fair value hedges:
+Foreign exchange contracts	$	1,020	$	(168	)	$	—
+Interest rate contracts	2,068	(1,363	)	(810	)
+Total	$	3,088	$	(1,531	)	$	(810	)
+
+Gains/(Losses) related to hedged items:
+Fair value hedges:
+Marketable securities	$	(1,018	)	$	167	$	—
+Fixed-rate debt	(2,068	)	1,363	810
+Total	$	(3,086	)	$	1,530	$	810
+
+
+
+2019	2018
+NotionalAmount	Credit RiskAmount	NotionalAmount	Credit RiskAmount
+Instruments designated as accounting hedges:
+Foreign exchange contracts	$	61,795	$	1,798	$	65,368	$	1,015
+Interest rate contracts	$	31,250	$	685	$	33,250	$	—
+
+Instruments not designated as accounting hedges:
+Foreign exchange contracts	$	76,868	$	323	$	63,062	$	259
+
+
+
+2019	2018
+Land and buildings	$	17,085	$	16,216
+Machinery, equipment and internal-use software	69,797	65,982
+Leasehold improvements	9,075	8,205
+Gross property, plant and equipment	95,957	90,403
+Accumulated depreciation and amortization	(58,579	)	(49,099	)
+Total property, plant and equipment, net	$	37,378	$	41,304
+
+
+
+2019	2018
+Long-term taxes payable	$	29,545	$	33,589
+Other non-current liabilities	20,958	15,325
+Total other non-current liabilities	$	50,503	$	48,914
+
+
+
+2019	2018	2017
+Interest and dividend income	$	4,961	$	5,686	$	5,201
+Interest expense	(3,576	)	(3,240	)	(2,323	)
+Other income/(expense), net	422	(441	)	(133	)
+Total other income/(expense), net	$	1,807	$	2,005	$	2,745
+
+
+
+2019	2018	2017
+Federal:
+Current	$	6,384	$	41,425	$	7,842
+Deferred	(2,939	)	(33,819	)	5,980
+Total	3,445	7,606	13,822
+State:
+Current	475	551	259
+Deferred	(67	)	48	2
+Total	408	599	261
+Foreign:
+Current	3,962	3,986	1,671
+Deferred	2,666	1,181	(16	)
+Total	6,628	5,167	1,655
+Provision for income taxes	$	10,481	$	13,372	$	15,738
+
+
+
+2019	2018	2017
+Computed expected tax	$	13,805	$	17,890	$	22,431
+State taxes, net of federal effect	423	271	185
+Impacts of the Act	—	1,515	—
+Earnings of foreign subsidiaries	(2,625	)	(5,606	)	(6,135	)
+Research and development credit, net	(548	)	(560	)	(678	)
+Excess tax benefits from equity awards	(639	)	(675	)	—
+Other	65	537	(65	)
+Provision for income taxes	$	10,481	$	13,372	$	15,738
+Effective tax rate	15.9	%	18.3	%	24.6	%
+
+
+
+2019	2018
+Deferred tax assets:
+Amortization and depreciation	$	11,433	$	137
+Accrued liabilities and other reserves	5,389	3,151
+Deferred revenue	1,372	1,141
+Share-based compensation	749	513
+Unrealized losses	—	871
+Other	697	797
+Total deferred tax assets, net	19,640	6,610
+Deferred tax liabilities:
+Minimum tax on foreign earnings	10,809	—
+Earnings of foreign subsidiaries	330	275
+Other	456	501
+Total deferred tax liabilities	11,595	776
+Net deferred tax assets/(liabilities)	$	8,045	$	5,834
+
+
+
+2019	2018	2017
+Beginning balances	$	9,694	$	8,407	$	7,724
+Increases related to tax positions taken during a prior year	5,845	2,431	333
+Decreases related to tax positions taken during a prior year	(686	)	(2,212	)	(952	)
+Increases related to tax positions taken during the current year	1,697	1,824	1,880
+Decreases related to settlements with taxing authorities	(852	)	(756	)	(539	)
+Decreases related to expiration of the statute of limitations	(79	)	—	(39	)
+Ending balances	$	15,619	$	9,694	$	8,407
+
+
+
+2019	2018	2017
+Maturities 90 days or less:
+Proceeds from/(Repayments of) commercial paper, net	$	(3,248	)	$	1,044	$	(1,782	)
+
+Maturities greater than 90 days:
+Proceeds from commercial paper	13,874	14,555	17,932
+Repayments of commercial paper	(16,603	)	(15,636	)	(12,298	)
+Proceeds from/(Repayments of) commercial paper, net	(2,729	)	(1,081	)	5,634
+
+Total proceeds from/(repayments of) commercial paper, net	$	(5,977	)	$	(37	)	$	3,852
+
+
+
+Maturities(calendar year)	2019	2018
+Amount(in millions)	EffectiveInterest Rate	Amount(in millions)	EffectiveInterest Rate
+2013–2018 debt issuances:
+Floating-rate notes	2020	–	2022	$	4,250	2.25%	–	3.28	%	$	7,107	1.87%	–	3.44	%
+Fixed-rate 0.350% – 4.650% notes	2019	–	2047	90,429	0.28%	–	4.78	%	97,086	0.28%	–	4.78	%
+
+2019 debt issuance:
+Fixed-rate 1.700% – 2.950% notes	2022	–	2049	7,000	1.71%	–	2.99	%	—	—	%
+Total term debt	101,679	104,193
+
+Unamortized premium/(discount) and issuance costs, net	(224	)	(218	)
+Hedge accounting fair value adjustments	612	(1,456	)
+Less: Current portion of term debt	(10,260	)	(8,784	)
+Total non-current portion of term debt	$	91,807	$	93,735
+
+
+
+2020	$	10,270
+2021	8,750
+2022	9,528
+2023	9,290
+2024	10,039
+Thereafter	53,802
+Total term debt	$	101,679
+
+
+
+2019	2018	2017
+Common stock outstanding, beginning balances	4,754,986	5,126,201	5,336,166
+Common stock repurchased	(345,205	)	(405,549	)	(246,496	)
+Common stock issued, net of shares withheld for employee taxes	33,455	34,334	36,531
+Common stock outstanding, ending balances	4,443,236	4,754,986	5,126,201
+
+
+
+Comprehensive Income Components	Financial Statement Line Item	2019	2018
+Unrealized (gains)/losses on derivative instruments:
+Foreign exchange contracts	Total net sales	$	(206	)	$	214
+Total cost of sales	(482	)	(70	)
+Other income/(expense), net	784	344
+Interest rate contracts	Other income/(expense), net	7	(2	)
+103	486
+Unrealized (gains)/losses on marketable securities	Other income/(expense), net	31	(20	)
+Total amounts reclassified from AOCI	$	134	$	466
+
+
+
+Cumulative ForeignCurrency Translation	Unrealized Gains/Losseson Derivative Instruments	Unrealized Gains/Losseson Marketable Securities	Total
+Balances as of September 30, 2017	$	(354	)	$	(124	)	$	328	$	(150	)
+Other comprehensive income/(loss) before reclassifications	(524	)	672	(4,563	)	(4,415	)
+Amounts reclassified from AOCI	—	486	(20	)	466
+Tax effect	(1	)	(253	)	1,177	923
+Other comprehensive income/(loss)	(525	)	905	(3,406	)	(3,026	)
+Cumulative effect of change in accounting principle	(176	)	29	(131	)	(278	)
+Balances as of September 29, 2018	(1,055	)	810	(3,209	)	(3,454	)
+Other comprehensive income/(loss) before reclassifications	(421	)	(949	)	4,854	3,484
+Amounts reclassified from AOCI	—	103	31	134
+Tax effect	13	208	(1,058	)	(837	)
+Other comprehensive income/(loss)	(408	)	(638	)	3,827	2,781
+Cumulative effect of change in accounting principle (1)	—	—	89	89
+Balances as of September 28, 2019	$	(1,463	)	$	172	$	707	$	(584	)
+
+
+(1)	Refer to Note 1, “Summary of Significant Accounting Policies” for more information on the Company’s adoption of ASU 2016-01 in 2019.
+
+
+
+Number ofRSUs(in thousands)	Weighted-AverageGrant Date FairValue Per RSU	AggregateFair Value(in millions)
+Balance as of September 24, 2016	99,089	$	97.54
+RSUs granted	50,112	$	121.65
+RSUs vested	(45,735	)	$	95.48
+RSUs canceled	(5,895	)	$	106.87
+Balance as of September 30, 2017	97,571	$	110.33
+RSUs granted	45,351	$	162.86
+RSUs vested	(44,718	)	$	111.24
+RSUs canceled	(6,049	)	$	127.82
+Balance as of September 29, 2018	92,155	$	134.60
+RSUs granted	36,852	$	215.95
+RSUs vested	(42,088	)	$	135.21
+RSUs canceled	(5,402	)	$	162.85
+Balance as of September 28, 2019	81,517	$	169.18	$	17,838
+
+
+
+2019	2018	2017
+Share-based compensation expense	$	6,068	$	5,340	$	4,840
+Income tax benefit related to share-based compensation expense	$	(1,967	)	$	(1,893	)	$	(1,632	)
+
+
+
+2019	2018	2017
+Beginning accrued warranty and related costs	$	3,692	$	3,834	$	3,702
+Cost of warranty claims	(3,857	)	(4,115	)	(4,322	)
+Accruals for product warranty	3,735	3,973	4,454
+Ending accrued warranty and related costs	$	3,570	$	3,692	$	3,834
+
+
+
+2020	$	1,306
+2021	1,276
+2022	1,137
+2023	912
+2024	834
+Thereafter	5,373
+Total	$	10,838
+
+
+
+2020	$	2,476
+2021	2,386
+2022	1,859
+2023	1,162
+2024	218
+Thereafter	110
+Total	$	8,211
+
+
+
+2019	2018	2017
+Americas:
+Net sales	$	116,914	$	112,093	$	96,600
+Operating income	$	35,099	$	34,864	$	30,684
+
+Europe:
+Net sales	$	60,288	$	62,420	$	54,938
+Operating income	$	19,195	$	19,955	$	16,514
+
+Greater China:
+Net sales	$	43,678	$	51,942	$	44,764
+Operating income	$	16,232	$	19,742	$	17,032
+
+Japan:
+Net sales	$	21,506	$	21,733	$	17,733
+Operating income	$	9,369	$	9,500	$	8,097
+
+Rest of Asia Pacific:
+Net sales	$	17,788	$	17,407	$	15,199
+Operating income	$	6,055	$	6,181	$	5,304
+
+
+
+2019	2018	2017
+Segment operating income	$	85,950	$	90,242	$	77,631
+Research and development expense	(16,217	)	(14,236	)	(11,581	)
+Other corporate expenses, net	(5,803	)	(5,108	)	(4,706	)
+Total operating income	$	63,930	$	70,898	$	61,344
+
+
+
+2019	2018	2017
+Net sales:
+U.S.	$	102,266	$	98,061	$	84,339
+China (1)	43,678	51,942	44,764
+Other countries	114,230	115,592	100,131
+Total net sales	$	260,174	$	265,595	$	229,234
+
+
+
+2019	2018
+Long-lived assets:
+U.S.	$	24,711	$	23,963
+China (1)	9,064	13,268
+Other countries	3,603	4,073
+Total long-lived assets	$	37,378	$	41,304
+
+
+(1)	China includes Hong Kong and Taiwan. Long-lived assets located in China consist primarily of product tooling and manufacturing process equipment and assets related to retail stores and related infrastructure.
+
+
+
+Fourth Quarter	Third Quarter	Second Quarter	First Quarter
+2019:
+Total net sales	$	64,040	$	53,809	$	58,015	$	84,310
+Gross margin	$	24,313	$	20,227	$	21,821	$	32,031
+Net income	$	13,686	$	10,044	$	11,561	$	19,965
+
+Earnings per share (1):
+Basic	$	3.05	$	2.20	$	2.47	$	4.22
+Diluted	$	3.03	$	2.18	$	2.46	$	4.18
+
+
+
+Fourth Quarter	Third Quarter	Second Quarter	First Quarter
+2018:
+Total net sales	$	62,900	$	53,265	$	61,137	$	88,293
+Gross margin	$	24,084	$	20,421	$	23,422	$	33,912
+Net income	$	14,125	$	11,519	$	13,822	$	20,065
+
+Earnings per share (1):
+Basic	$	2.94	$	2.36	$	2.75	$	3.92
+Diluted	$	2.91	$	2.34	$	2.73	$	3.89
+
+
+(1)	Basic and diluted earnings per share are computed independently for each of the quarters presented. Therefore, the sum of quarterly basic and diluted per share information may not equal annual basic and diluted earnings per share.
+
+
+
+European Commission State Aid Matter Uncertain Tax Position
+Description of the Matter	As discussed in Note 5 of the financial statements, the European Commission (“EC”) has announced its decision that Ireland granted state aid to Apple Inc. by providing tax opinions in 1991 and 2007 concerning the tax allocation of profits of the Irish branches of two subsidiaries of Apple Inc. The decision ordered Ireland to calculate and recover additional taxes from Apple Inc. for the period from June 2003 through December 2014. The adjusted amount indicated by the EC to be recovered is up to €12.9 billion, plus interest.Auditing management’s evaluation of the uncertain tax position stemming from the effects of the EC decision is complex and highly judgmental due to the inherent uncertainty in predicting the ultimate resolution of the matter.
+
+
+
+How We Addressed theMatter in Our Audit	We tested controls over the risk of material misstatement relating to the evaluation of the EC state aid matter, including management’s evaluation of the advice of legal counsel, the assessment as to whether Apple Inc.’s position is more likely than not to be sustained and the development of the related disclosure.To evaluate Apple Inc.’s assessment of whether sustainment of its position is a more likely than not outcome, including underlying assumptions, our audit procedures included, among others, reading the EC August 2016 ruling and available correspondence between Apple Inc. and the EC, and the EC and Ireland. We also requested and received internal and external legal counsel confirmation letters, discussed the allegations with internal and external legal counsel and Apple Inc. tax personnel and obtained a representation letter from Apple Inc. We involved our EC and tax subject matter resources in considering the applicable tax laws, the pending appeal, the current status of legal precedent relevant to that appeal and the proceedings at the court hearing in September 2019. In addition, we evaluated Apple Inc.’s disclosure included in Note 5 in relation to this matter.
+
+
+Item 9.	Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+
+Item 9A.	Controls and Procedures
+
+
+(i)	pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the Company’s assets;
+
+
+(ii)	provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with GAAP, and that the Company’s receipts and expenditures are being made only in accordance with authorizations of the Company’s management and directors; and
+
+
+(iii)	provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company’s assets that could have a material effect on the financial statements.
+
+
+Item 9B.	Other Information
+
+
+Item 10.	Directors, Executive Officers and Corporate Governance
+
+
+Item 11.	Executive Compensation
+
+
+Item 12.	Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+
+Item 13.	Certain Relationships and Related Transactions, and Director Independence
+
+
+Item 14.	Principal Accounting Fees and Services
+
+
+Item 15.	Exhibits, Financial Statement Schedules
+
+
+(a)	Documents filed as part of this report
+
+
+(1)	All financial statements
+
+
+
+Index to Consolidated Financial Statements	Page
+Consolidated Statements of Operations for the years ended September 28, 2019, September 29, 2018 and September 30, 2017	29
+Consolidated Statements of Comprehensive Income for the years ended September 28, 2019, September 29, 2018 and September 30, 2017	30
+Consolidated Balance Sheets as of September 28, 2019 and September 29, 2018	31
+Consolidated Statements of Shareholders’ Equity for the years ended September 28, 2019, September 29, 2018 and September 30, 2017	32
+Consolidated Statements of Cash Flows for the years ended September 28, 2019, September 29, 2018 and September 30, 2017	33
+Notes to Consolidated Financial Statements	34
+Selected Quarterly Financial Information (Unaudited)	55
+Reports of Independent Registered Public Accounting Firm	56
+
+
+(2)	Financial Statement Schedules
+
+
+(3)	Exhibits required by Item 601 of Regulation S-K (1)
+
+
+
+Incorporated by Reference
+Exhibit Number	Exhibit Description	Form	Exhibit	Filing Date/Period End Date
+3.1	Restated Articles of Incorporation of the Registrant effective as of June 6, 2014.	8-K	3.1	6/6/14
+3.2	Amended and Restated Bylaws of the Registrant effective as of December 13, 2016.	8-K	3.2	12/15/16
+4.1**	Description of Securities of the Registrant.
+4.2	Indenture, dated as of April 29, 2013, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.	S-3	4.1	4/29/13
+4.3	Officer’s Certificate of the Registrant, dated as of May 3, 2013, including forms of global notes representing the Floating Rate Notes due 2016, Floating Rate Notes due 2018, 0.45% Notes due 2016, 1.00% Notes due 2018, 2.40% Notes due 2023 and 3.85% Notes due 2043.	8-K	4.1	5/3/13
+4.4	Officer’s Certificate of the Registrant, dated as of May 6, 2014, including forms of global notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2019, 1.05% Notes due 2017, 2.10% Notes due 2019, 2.85% Notes due 2021, 3.45% Notes due 2024 and 4.45% Notes due 2044.	8-K	4.1	5/6/14
+4.5	Officer’s Certificate of the Registrant, dated as of November 10, 2014, including forms of global notes representing the 1.000% Notes due 2022 and 1.625% Notes due 2026.	8-K	4.1	11/10/14
+4.6	Officer’s Certificate of the Registrant, dated as of February 9, 2015, including forms of global notes representing the Floating Rate Notes due 2020, 1.55% Notes due 2020, 2.15% Notes due 2022, 2.50% Notes due 2025 and 3.45% Notes due 2045.	8-K	4.1	2/9/15
+4.7	Officer’s Certificate of the Registrant, dated as of May 13, 2015, including forms of global notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2020, 0.900% Notes due 2017, 2.000% Notes due 2020, 2.700% Notes due 2022, 3.200% Notes due 2025, and 4.375% Notes due 2045.	8-K	4.1	5/13/15
+4.8	Officer’s Certificate of the Registrant, dated as of June 10, 2015, including forms of global notes representing the 0.350% Notes due 2020.	8-K	4.1	6/10/15
+
+
+
+Incorporated by Reference
+Exhibit Number	Exhibit Description	Form	Exhibit	Filing Date/Period End Date
+4.9	Officer’s Certificate of the Registrant, dated as of July 31, 2015, including forms of global notes representing the 3.05% Notes due 2029 and 3.60% Notes due 2042.	8-K	4.1	7/31/15
+4.10	Officer’s Certificate of the Registrant, dated as of September 17, 2015, including forms of global notes representing the 1.375% Notes due 2024 and 2.000% Notes due 2027.	8-K	4.1	9/17/15
+4.11	Officer’s Certificate of the Registrant, dated as of February 23, 2016, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes due 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due 2036 and 4.650% Notes due 2046.	8-K	4.1	2/23/16
+4.12	Supplement No. 1 to the Officer’s Certificate of the Registrant, dated as of March 24, 2016.	8-K	4.1	3/24/16
+4.13	Officer’s Certificate of the Registrant, dated as of June 22, 2016, including form of global note representing 4.15% Notes due 2046.	8-K	4.1	6/22/16
+4.14	Officer’s Certificate of the Registrant, dated as of August 4, 2016, including forms of global notes representing the Floating Rate Notes due 2019, 1.100% Notes due 2019, 1.550% Notes due 2021, 2.450% Notes due 2026 and 3.850% Notes due 2046.	8-K	4.1	8/4/16
+4.15	Officer’s Certificate of the Registrant, dated as of February 9, 2017, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2020, Floating Rate Notes due 2022, 1.550% Notes due 2019, 1.900% Notes due 2020, 2.500% Notes due 2022, 3.000% Notes due 2024, 3.350% Notes due 2027 and 4.250% Notes due 2047.	8-K	4.1	2/9/17
+4.16	Officer’s Certificate of the Registrant, dated as of March 3, 2017, including form of global note representing 4.300% Notes due 2047.	8-K	4.1	3/3/17
+4.17	Officer’s Certificate of the Registrant, dated as of May 11, 2017, including forms of global notes representing the Floating Rate Notes due 2020, Floating Rate Notes due 2022, 1.800% Notes due 2020, 2.300% Notes due 2022, 2.850% Notes due 2024 and 3.200% Notes due 2027.	8-K	4.1	5/11/17
+4.18	Officer’s Certificate of the Registrant, dated as of May 24, 2017, including forms of global notes representing the 0.875% Notes due 2025 and 1.375% Notes due 2029.	8-K	4.1	5/24/17
+4.19	Officer’s Certificate of the Registrant, dated as of June 20, 2017, including form of global note representing the 3.000% Notes due 2027.	8-K	4.1	6/20/17
+4.20	Officer’s Certificate of the Registrant, dated as of August 18, 2017, including form of global note representing the 2.513% Notes due 2024.	8-K	4.1	8/18/17
+4.21	Officer’s Certificate of the Registrant, dated as of September 12, 2017, including forms of global notes representing the 1.500% Notes due 2019, 2.100% Notes due 2022, 2.900% Notes due 2027 and 3.750% Notes due 2047.	8-K	4.1	9/12/17
+4.22	Officer’s Certificate of the Registrant, dated as of November 13, 2017, including forms of global notes representing the 1.800% Notes due 2019, 2.000% Notes due 2020, 2.400% Notes due 2023, 2.750% Notes due 2025, 3.000% Notes due 2027 and 3.750% Notes due 2047.	8-K	4.1	11/13/17
+4.23	Indenture, dated as of November 5, 2018, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.	S-3	4.1	11/5/18
+4.24	Officer’s Certificate of the Registrant, dated as of September 11, 2019, including forms of global notes representing the 1.700% Notes due 2022, 1.800% Notes due 2024, 2.050% Notes due 2026, 2.200% Notes due 2029 and 2.950% Notes due 2049.	8-K	4.1	9/11/19
+4.25*	Apple Inc. Deferred Compensation Plan.	S-8	4.1	8/23/18
+10.1*	Employee Stock Purchase Plan, as amended and restated as of March 10, 2015.	8-K	10.1	3/13/15
+10.2*	Form of Indemnification Agreement between the Registrant and each director and executive officer of the Registrant.	10-Q	10.2	6/27/09
+10.3*	Apple Inc. Non-Employee Director Stock Plan, as amended and restated as of February 13, 2018.	8-K	10.1	2/14/18
+10.4*	2003 Employee Stock Plan, as amended through February 25, 2010.	8-K	10.1	3/1/10
+10.5*	Form of Restricted Stock Unit Award Agreement under 2003 Employee Stock Plan effective as of November 16, 2010.	10-Q	10.10	12/25/10
+10.6*	2014 Employee Stock Plan, as amended and restated as of October 1, 2017.	10-K	10.8	9/30/17
+
+
+
+Incorporated by Reference
+Exhibit Number	Exhibit Description	Form	Exhibit	Filing Date/Period End Date
+10.7*	Form of Amendment, effective as of August 26, 2014, to Restricted Stock Unit Award Agreements and Performance Award Agreements outstanding as of August 26, 2014.	10-K	10.13	9/27/14
+10.8*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of October 5, 2015.	10-Q	10.16	3/26/16
+10.9*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of October 14, 2016.	10-K	10.18	9/24/16
+10.10*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of September 26, 2017.	10-K	10.20	9/30/17
+10.11*	Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of September 26, 2017.	10-K	10.21	9/30/17
+10.12*	Form of Restricted Stock Unit Award Agreement under Non-Employee Director Stock Plan effective as of February 13, 2018.	10-Q	10.2	3/31/18
+10.13*	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of August 21, 2018.	10-K	10.17	9/29/18
+10.14*	Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of August 21, 2018.	10-K	10.18	9/29/18
+10.15*, **	Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of September 29, 2019.
+10.16*, **	Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of September 29, 2019.
+21.1**	Subsidiaries of the Registrant.
+23.1**	Consent of Independent Registered Public Accounting Firm.
+24.1**	Power of Attorney (included on the Signatures page of this Annual Report on Form 10-K).
+31.1**	Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.
+31.2**	Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.
+32.1***	Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.
+101**	Inline XBRL Document Set for the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K.
+104**	Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set.
+
+
+*	Indicates management contract or compensatory plan or arrangement.
+
+
+**	Filed herewith.
+
+
+***	Furnished herewith.
+
+
+(1)	Certain instruments defining the rights of holders of long-term debt securities of the Registrant are omitted pursuant to Item 601(b)(4)(iii) of Regulation S-K. The Registrant hereby undertakes to furnish to the SEC, upon request, copies of any such instruments.
+
+
+Item 16.	Form 10-K Summary
+
+
+
+Apple Inc.
+
+By:	/s/  Luca Maestri
+Luca Maestri
+Senior Vice President,Chief Financial Officer
+
+
+
+Name	Title	Date
+
+/s/    Timothy D. Cook	Chief Executive Officer and Director(Principal Executive Officer)	October 30, 2019
+TIMOTHY D. COOK
+
+/s/    Luca Maestri	Senior Vice President, Chief Financial Officer(Principal Financial Officer)	October 30, 2019
+LUCA MAESTRI
+
+/s/    Chris Kondo	Senior Director of Corporate Accounting(Principal Accounting Officer)	October 30, 2019
+CHRIS KONDO
+
+/s/    James A. Bell	Director	October 30, 2019
+JAMES A. BELL
+
+/s/    Al Gore	Director	October 30, 2019
+AL GORE
+
+/s/    Andrea Jung	Director	October 30, 2019
+ANDREA JUNG
+
+/s/    Arthur D. Levinson	Director	October 30, 2019
+ARTHUR D. LEVINSON
+
+/s/    Ronald D. Sugar	Director	October 30, 2019
+RONALD D. SUGAR
+
+/s/    Susan L. Wagner	Director	October 30, 2019
+SUSAN L. WAGNER
+

@@ -1,0 +1,1005 @@
+Text Content:
+
+
+Tables:
+WASHINGTON (STATE OF INCORPORATION)	91-1144442(I.R.S. ID)
+
+Part I
+Item 1.	Business	1
+Item 2.	Properties	8
+Item 3.	Legal Proceedings	8
+Item 4.	Submission of Matters to a Vote of Security Holders	8
+Executive Officers of the Registrant	9
+
+Part II
+Item 5.	Market for Registrants Common Stock and Related Stockholder Matters	11
+Item 6.	Selected Financial Data	11
+Item 7.	Managements Discussion and Analysis of Results of Operations and Financial Condition	12
+Item 7a.	Quantitative and Qualitative Disclosures about Market Risk	18
+Item 8.	Financial Statements and Supplementary Data	19
+Item 9.	Changes in and Disagreements with Accountants on Accounting and Financial Disclosures	39
+
+Part III
+Item 10.	Directors of the Registrant	40
+Item 11.	Executive Compensation	40
+Item 12.	Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters	40
+Item 13.	Certain Relationships and Related Transactions	40
+
+Part IV
+Item 14.	Exhibits, Financial Statement Schedules, and Reports on Form 8-K	41
+Signatures	42
+Certifications	42
+
+1  /  MSFT	2002 FORM 10-K
+
+2  /  MSFT	2002 FORM 10-K
+
+3  /  MSFT	2002 FORM 10-K
+
+4  /  MSFT	2002 FORM 10-K
+
+5  /  MSFT	2002 FORM 10-K
+
+6  /  MSFT	2002 FORM 10-K
+
+7  /  MSFT	2002 FORM 10-K
+
+8  /  MSFT	2002 FORM 10-K
+
+Name	Age	Position with the Company
+
+
+William H. Gates, III	46	Chairman of the Board; Chief Software Architect
+Steven A. Ballmer	46	Chief Executive Officer
+James E. Allchin	50	Group Vice President, Platforms Group
+Orlando Ayala	46	Group Vice President, Worldwide Sales, Marketing, and Services Group
+Robert J. (Robbie) Bach	40	Senior Vice President, Games Division
+Douglas J. Burgum	46	Senior Vice President, Business Solutions
+David W. Cole	40	Senior Vice President, MSN and Personal Services Group
+John G. Connors	43	Senior Vice President; Chief Financial Officer
+Jean-Philippe Courtois	41	Senior Vice President; President, Microsoft Europe, Middle East, and Africa
+Jon Stephan DeVaan	41	Senior Vice President, TV Division
+Richard P. Emerson	40	Senior Vice President, Corporate Development and Strategy
+Paul Flessner	43	Senior Vice President, .NET Enterprise Servers
+Kevin R. Johnson	41	Senior Vice President, Microsoft Americas
+Robert L. Muglia	42	Senior Vice President, Enterprise Storage Division
+Craig J. Mundie	53	Senior Vice President; Chief Technical Officer, Advanced Strategies and Policy
+Jeffrey S. Raikes	44	Group Vice President, Productivity and Business Services
+Richard F. Rashid	50	Senior Vice President, Research
+Eric D. Rudder	35	Senior Vice President, Developer and Platform Evangelism
+Steven J. Sinofsky	36	Senior Vice President, Office
+Bradford L. Smith	43	Senior Vice President and General Counsel
+Brian Valentine	42	Senior Vice President, Windows
+David Vaskevitch	49	Senior Vice President; Chief Technical Officer, Business Platform
+Deborah N. Willingham	46	Senior Vice President, Human Resources
+
+9  /  MSFT	2002 FORM 10-K
+
+10  /  MSFT	2002 FORM 10-K
+
+Quarter Ended	Sept. 30	Dec. 31	Mar. 31	June 30	Year
+
+Fiscal 2001
+Common stock price per share:
+High	$	82.00	$	70.88	$	64.69	$	73.68	$	82.00
+Low	60.31	41.50	43.38	51.94	41.50
+
+
+Fiscal 2002
+Common stock price per share:
+High	$	72.57	$	69.49	$	69.86	$	60.38	$	72.57
+Low	49.71	51.79	57.99	48.62	48.62
+
+
+In millions, except earnings per share
+
+
+Year Ended June 30	1998	1999	2000	2001(1)	2002(2)
+
+Revenue	$	15,262	$	19,747	$	22,956	$	25,296	$	28,365
+Operating income	6,585	10,010	11,006	11,720	11,910
+Income before accounting change	4,490	7,785	9,421	7,721	7,829
+Net income	4,490	7,785	9,421	7,346	7,829
+Diluted earnings per share before accounting change	0.84	1.42	1.70	1.38	1.41
+Diluted earnings per share	0.84	1.42	1.70	1.32	1.41
+Cash and short-term investments	13,927	17,236	23,798	31,600	38,652
+Total assets	22,357	38,321	51,694	58,830	67,646
+Stockholders equity	16,627	28,438	41,368	47,289	52,180
+
+
+(1)	Fiscal year 2001 includes an unfavorable cumulative effect of accounting change of $375 million or $0.06 per diluted share, reflecting the adoption of SFAS No. 133, and
+$4.80 billion (pre-tax) in impairments of certain investments, primarily cable and telecommunication investments.
+
+(2)	Fiscal year 2002 includes $4.32 billion (pre-tax) in impairments of certain investments, primarily related to the Companys AT&T investment and further declines
+in the fair values of European cable and telecommunications holdings, and a $1.25 billion (pre-tax) gain on the sale of Expedia, Inc.
+
+11  /  MSFT	2002 FORM 10-K
+
+12  /  MSFT	2002 FORM 10-K
+
+13  /  MSFT	2002 FORM 10-K
+
+14  /  MSFT	2002 FORM 10-K
+
+In Millions
+
+
+Year Ended June 30	2000	2001	2002
+
+Dividends	$	363	$	377	$	357
+Interest	1,231	1,808	1,762
+Net recognized gains/(losses) on investments:
+Net gains on the sales of investments	1,780	3,175	2,379
+Other-than-temporary impairments	(29	)	(4,804	)	(4,323	)
+Net unrealized losses attributable to derivative instruments	(19	)	(592	)	(480	)
+
+Net recognized gains/(losses) on investments	1,732	(2,221	)	(2,424	)
+
+Investment income/(loss)	$	3,326	$	(36	)	$	(305	)
+
+
+15  /  MSFT	2002 FORM 10-K
+
+16  /  MSFT	2002 FORM 10-K
+
+17  /  MSFT	2002 FORM 10-K
+
+18  /  MSFT	2002 FORM 10-K
+
+In Millions
+
+
+As of June 30,	Year ended June 30, 2002
+
+Risk Categories	2002	2001	Average	High	Low
+
+Interest rates	$	472	$	363	$	435	$	535	$	333
+Currency rates	310	58	162	310	58
+Equity prices	602	520	584	757	488
+
+
+In millions, except earnings per share
+
+
+Year Ended June 30	2000	2001	2002
+
+Revenue	$	22,956	$	25,296	$	28,365
+Operating expenses:
+Cost of revenue	3,002	3,455	5,191
+Research and development	3,772	4,379	4,307
+Sales and marketing	4,126	4,885	5,407
+General and administrative	1,050	857	1,550
+
+Total operating expenses	11,950	13,576	16,455
+
+Operating income	11,006	11,720	11,910
+Losses on equity investees and other	(57	)	(159	)	(92	)
+Investment income/(loss)	3,326	(36	)	(305	)
+
+Income before income taxes	14,275	11,525	11,513
+Provision for income taxes	4,854	3,804	3,684
+
+Income before accounting change	9,421	7,721	7,829
+Cumulative effect of accounting change (net of income taxes of $185)		(375	)	
+
+Net income	$	9,421	$	7,346	$	7,829
+
+
+Basic earnings per share:
+Before accounting change	$	1.81	$	1.45	$	1.45
+Cumulative effect of accounting change		(0.07	)	
+
+$	1.81	$	1.38	$	1.45
+
+
+Diluted earnings per share:
+Before accounting change	$	1.70	$	1.38	$	1.41
+Cumulative effect of accounting change		(0.06	)	
+
+$	1.70	$	1.32	$	1.41
+
+
+Weighted average shares outstanding:
+Basic	5,189	5,341	5,406
+
+Diluted	5,536	5,574	5,553
+
+
+19  /  MSFT	2002 FORM 10-K
+
+In millions
+
+
+June 30	2001	2002
+
+Assets
+Current assets:
+Cash and equivalents	$	3,922	$	3,016
+Short-term investments	27,678	35,636
+
+Total cash and short-term investments	31,600	38,652
+Accounts receivable, net	3,671	5,129
+Inventories	83	673
+Deferred income taxes	1,522	2,112
+Other	2,334	2,010
+
+Total current assets	39,210	48,576
+Property and equipment, net	2,309	2,268
+Equity and other investments	14,361	14,191
+Goodwill	1,511	1,426
+Intangible assets, net	401	243
+Other long-term assets	1,038	942
+
+Total assets	$	58,830	$	67,646
+
+
+Liabilities and stockholders equity
+Current liabilities:
+Accounts payable	$	1,188	$	1,208
+Accrued compensation	742	1,145
+Income taxes	1,468	2,022
+Short-term unearned revenue	4,395	5,920
+Other	1,461	2,449
+
+Total current liabilities	9,254	12,744
+Long-term unearned revenue	1,219	1,823
+Deferred income taxes	409	398
+Other long-term liabilities	659	501
+Commitments and contingencies
+
+Stockholders equity:
+Common stock and paid-in capitalshares authorized 12,000;Shares issued and outstanding 5,383 and 5,359	28,390	31,647
+Retained earnings, including accumulated other comprehensive income of $587 and $583	18,899	20,533
+
+Total stockholders equity	47,289	52,180
+
+Total liabilities and stockholders equity	$	58,830	$	67,646
+
+
+20  /  MSFT	2002 FORM 10-K
+
+In millions
+
+
+Year Ended June 30	2000	2001	2002
+
+Operations
+Net income	$	9,421	$	7,346	$	7,829
+Cumulative effect of accounting change, net of tax		375	
+Depreciation, amortization, and other noncash items	1,250	1,536	1,084
+Net recognized (gains)/losses on investments	(1,732	)	2,221	2,424
+Stock option income tax benefits	5,535	2,066	1,596
+Deferred income taxes	(425	)	(420	)	(416	)
+Unearned revenue	6,177	6,970	11,152
+Recognition of unearned revenue	(5,600	)	(6,369	)	(8,929	)
+Accounts receivable	(944	)	(418	)	(1,623	)
+Other current assets	(775	)	(482	)	(264	)
+Other long-term assets	(864	)	(330	)	(9	)
+Other current liabilities	(992	)	774	1,449
+Other long-term liabilities	375	153	216
+
+Net cash from operations	11,426	13,422	14,509
+
+
+Financing
+Common stock issued	2,245	1,620	1,497
+Common stock repurchased	(4,896	)	(6,074	)	(6,069	)
+Sales/(repurchases) of put warrants	472	(1,367	)	
+Preferred stock dividends	(13	)		
+Other, net		235	
+
+Net cash used for financing	(2,192	)	(5,586	)	(4,572	)
+
+
+Investing
+Additions to property and equipment	(879	)	(1,103	)	(770	)
+Purchases of investments	(42,290	)	(66,346	)	(89,386	)
+Maturities of investments	4,025	5,867	8.654
+Sales of investments	29,752	52,848	70,657
+
+Net cash used for investing	(9,392	)	(8,734	)	(10,845	)
+
+Net change in cash and equivalents	(158	)	(898	)	(908	)
+Effect of exchange rates on cash and equivalents	29	(26	)	2
+Cash and equivalents, beginning of year	4,975	4,846	3,922
+
+Cash and equivalents, end of year	$	4,846	$	3,922	$	3,016
+
+
+21  /  MSFT	2002 FORM 10-K
+
+In millions
+
+
+Year Ended June 30	2000	2001	2002
+
+Convertible preferred stock
+Balance, beginning of year	$	980	$		$	
+Conversion of preferred to common stock	(980	)		
+
+Balance, end of year			
+
+Common stock and paid-in capital
+Balance, beginning of year	13,844	23,195	28,390
+Common stock issued	3,554	5,154	1,801
+Common stock repurchased	(210	)	(394	)	(676	)
+Sales/(repurchases) of put warrants	472	(1,367	)	
+Stock option income tax benefits	5,535	2,066	1,596
+Other, net		(264	)	536
+
+Balance, end of year	23,195	28,390	31,647
+
+Retained earnings
+Balance, beginning of year	13,614	18,173	18,899
+
+Net income	9,421	7,346	7,829
+Other comprehensive income:
+Cumulative effect of accounting change		(75	)	
+Net gains/(losses) on derivative instruments		634	(91	)
+Net unrealized investment gains/(losses)	(283	)	(1,460	)	5
+Translation adjustments and other	23	(39	)	82
+
+Comprehensive income	9,161	6,406	7,825
+Preferred stock dividends	(13	)		
+Immaterial pooling of interests	97		
+Common stock repurchased	(4,686	)	(5,680	)	(6,191	)
+
+Balance, end of year	18,173	18,899	20,533
+
+Total stockholders equity	$	41,368	$	47,289	$	52,180
+
+
+22  /  MSFT	2002 FORM 10-K
+
+23  /  MSFT	2002 FORM 10-K
+
+In Millions
+
+
+Year Ended June 30	Balance at beginning of period	Charged to costs and expenses	Write-offs and other	Balance at end of period
+
+2002	$	174	$	192	$	157	$	209
+2001	186	157	169	174
+2000	204	77	95	186
+
+
+24  /  MSFT	2002 FORM 10-K
+
+In Millions, Except Earnings Per Share
+
+
+Year Ended June 30	2000	2001
+
+Net income:
+Reported net income	$	9,421	$	7,346
+Goodwill amortization	203	252
+Equity method goodwill amortization	1	26
+
+Adjusted net income	$	9,625	$	7,624
+
+
+Basic earnings per share:
+Reported basic earnings per share	$	1.81	$	1.38
+Goodwill amortization	0.04	0.05
+Equity method goodwill amortization		
+
+Adjusted basic earnings per share	$	1.85	$	1.43
+
+
+Diluted earnings per share:
+Reported diluted earnings per share	$	1.70	$	1.32
+Goodwill amortization	0.04	0.05
+Equity method goodwill amortization		
+
+Adjusted diluted earnings per share	$	1.74	$	1.37
+
+
+25  /  MSFT	2002 FORM 10-K
+
+In Millions
+
+
+June 30	2001	2002
+
+Volume licensing programs	$	1,922	$	4,158
+Undelivered elements	2,818	2,830
+Other	874	755
+
+Unearned revenue	$	5,614	$	7,743
+
+
+In Millions
+
+
+June 30	2001	2002
+
+Desktop Applications	$	2,189	$	3,489
+Desktop Platforms	2,586	3,198
+Enterprise Software and Services	391	791
+
+Desktop and Enterprise Software and Services	5,166	7,478
+Consumer Software, Services, and Devices, and Other	448	265
+
+Unearned revenue	$	5,614	$	7,743
+
+
+26  /  MSFT	2002 FORM 10-K
+
+In Millions
+
+
+June 30, 2001	CostBasis	Unrealized Gains	Unrealized Losses	Recorded Basis
+
+Cash and equivalents:
+Cash	$	1,145	$		$		$	1,145
+Commercial paper	894			894
+Certificates of deposit	286			286
+U.S. government and agency securities	400			400
+Corporate notes and bonds	1,130			1,130
+Municipal securities	67			67
+
+Cash and equivalents	3,922			3,922
+
+Short-term investments:
+Commercial paper	635	3		638
+U.S. government and agency securities	7,355	9	(42	)	7,322
+Corporate notes and bonds	17,256	214	(149	)	17,321
+Municipal securities	1,662	41		1,703
+Certificates of deposit	694			694
+
+Short-term investments	27,602	267	(191	)	27,678
+
+Cash and short-term investments	$	31,524	$	267	$	(191	)	$	31,600
+
+
+In Millions
+
+
+June 30, 2002	CostBasis	Unrealized Gains	Unrealized Losses	Recorded Basis
+
+Cash and equivalents:
+Cash	$	1,114	$		$		$	1,114
+Commercial paper	260			260
+Certificates of deposit	31			31
+Money market mutual funds	714			714
+Corporate notes and bonds	560			560
+Municipal securities	337			337
+
+Cash and equivalents	3,016			3,016
+
+Short-term investments:
+Commercial paper	552			552
+U.S. government and agency securities	10,726	114	(13	)	10,827
+Corporate notes and bonds	18,822	255	(241	)	18,836
+Municipal securities	4,462	86		4,548
+Certificates of deposit	873			873
+
+Short-term investments	35,435	455	(254	)	35,636
+
+Cash and short-term investments	$	38,451	$	455	$	(254	)	$	38,652
+
+
+27  /  MSFT	2002 FORM 10-K
+
+In Millions
+
+
+June 30	2001	2002
+
+Finished goods	$	78	$	505
+Raw materials and work in process	5	168
+
+Inventories	$	83	$	673
+
+
+In Millions
+
+
+June 30	2001	2002
+
+Land	$	185	$	197
+Buildings	1,584	1,701
+Computer equipment and software	2,292	2,621
+Other	1,214	1,372
+
+Property and equipment  at cost	5,275	5,891
+Accumulated depreciation	(2,966	)	(3,623	)
+
+Property and equipment  net	$	2,309	$	2,268
+
+
+In Millions
+
+
+June 30, 2001	CostBasis	Unrealized Gains	Unrealized Losses	Recorded Basis
+
+Debt securities recorded at market, maturing:
+Within one year	$	500	$		$		$	500
+Between 2 and 10 years	643	12	(3	)	652
+Between 10 and 15 years	513		(9	)	504
+Beyond 15 years	4,754		(829	)	3,925
+
+Debt securities recorded at market	6,410	12	(841	)	5,581
+
+Common stock and warrants	5,555	2,030	(285	)	7,300
+Preferred stock	881			881
+Other investments	599			599
+
+Equity and other investments	$	13,445	$	2,042	$	(1,126	)	$	14,361
+
+
+28  /  MSFT	2002 FORM 10-K
+
+In Millions
+
+
+June 30, 2002	CostBasis	Unrealized Gains	Unrealized Losses	Recorded Basis
+
+Debt securities recorded at market, maturing:
+Within one year	$	485	$	26	$		$	511
+Between 2 and 10 years	893	46	(4	)	935
+Between 10 and 15 years	541	19	(2	)	558
+Beyond 15 years	3,036			3,036
+
+Debt securities recorded at market	4,955	91	(6	)	5,040
+
+Common stock and warrants	6,930	1,287	(617	)	7,600
+Preferred stock	1,382			1,382
+Other investments	169			169
+
+Equity and other investments	$	13,436	$	1,378	$	(623	)	$	14,191
+
+
+In Millions
+
+
+June 30
+2001	2002
+
+
+Gross Carrying Amount	Accumulated Amortization	Gross Carrying Amount	Accumulated Amortization
+
+Patents and licenses	$	407	$	(177	)	$	421	$	(290	)
+Existing technology	157	(27	)	172	(71	)
+Trademarks, tradenames and other	83	(42	)	15	(4	)
+
+Intangible assets	$	647	$	(246	)	$	608	$	(365	)
+
+
+29  /  MSFT	2002 FORM 10-K
+
+In Millions
+
+
+Year Ended June 30	2000	2001	2002
+
+Dividends	$	363	$	377	$	357
+Interest	1,231	1,808	1,762
+Net recognized gains/(losses) on investments:
+Net gains on the sales of investments	1,780	3,175	2,379
+Other-than-temporary impairments	(29	)	(4,804	)	(4,323	)
+Net unrealized losses attributable to derivative instruments	(19	)	(592	)	(480	)
+
+Net recognized gains/(losses) on investments	1,732	(2,221	)	(2,424	)
+
+Investment income/(loss)	$	3,326	$	(36	)	$	(305	)
+
+
+In Millions
+
+
+Year Ended June 30	2000	2001	2002
+
+Current taxes:
+U.S. and state	$	4,744	$	3,243	$	3,644
+International	535	514	575
+
+Current taxes	5,279	3,757	4,219
+Deferred taxes	(425	)	47	(535	)
+
+Provision for income taxes	$	4,854	$	3,804	$	3,684
+
+
+In Millions
+
+
+Year Ended June 30	2000	2001	2002
+
+U.S.	$	11,860	$	9,189	$	8,920
+International	2,415	2,336	2,593
+
+Income before income taxes	$	14,275	$	11,525	$	11,513
+
+
+30  /  MSFT	2002 FORM 10-K
+
+In Millions
+
+
+June 30	2001	2002
+
+Deferred income tax assets:
+Revenue items	$	1,469	$	2,261
+Expense items	691	945
+Impaired investments	1,070	2,016
+
+Deferred income tax assets	$	3,230	$	5,222
+
+Deferred income tax liabilities:
+Unrealized gain on investments	$	(395	)	$	(887	)
+International earnings	(1,667	)	(1,818	)
+Other	(55	)	(803	)
+
+Deferred income tax liabilities	$	(2,117	)	$	(3,508	)
+
+
+In Millions
+
+
+Year Ended June 30	2000	2001	2002
+
+Balance, beginning of year	5,109	5,283	5,383
+Issued	229	189	104
+Repurchased	(55	)	(89	)	(128	)
+
+Balance, end of year	5,283	5,383	5,359
+
+
+31  /  MSFT	2002 FORM 10-K
+
+In Millions
+
+
+Year Ended June 30	2000	2001	2002
+
+Cumulative effect of accounting change, net of tax effect of $(37)	$		$	(75	)	$	
+
+Net gains/(losses) on derivative instruments:
+Unrealized gains, net of tax effect of $246 in 2001 and $30 in 2002		499	55
+Reclassification adjustment for (gains)/losses included in net income, net of tax effectof $67 in 2001 and $(79) in
+2002		135	(146	)
+
+Net gains/(losses) on derivative instruments		634	(91	)
+
+Net unrealized investment gains/(losses):
+Unrealized holding gains/(losses), net of tax effect of $248 in 2000, $(351) in 2001,and $(955) in 2002	531	(1,200	)	(1,774	)
+Reclassification adjustment for (gains)/losses included in net income, net of tax effectof $(420) in 2000, $(128) in 2001, and
+$958 in 2002	(814	)	(260	)	1,779
+
+Net unrealized investment gains/(losses)	(283	)	(1,460	)	5
+
+Translation adjustments and other	23	(39	)	82
+
+Other comprehensive income/(loss)	$	(260	)	$	(940	)	$	(4	)
+
+
+In Millions
+
+
+June 30	2001	2002
+
+Net gains on derivative instruments	$	177	$	86
+Net unrealized investment gains	598	603
+Translation adjustments and other	(188	)	(106	)
+
+Accumulated other comprehensive income	$	587	$	583
+
+
+32  /  MSFT	2002 FORM 10-K
+
+In Millions, Except Per Share Amounts
+
+
+Price per Share
+
+Shares	Range	Weighted Average
+
+Balance, June 30, 1999	766	$  0.56  $  83.28	$  23.87
+Granted	304	65.56    119.13	79.87
+Exercised	(198	)	0.56      82.94	9.54
+Canceled	(40	)	4.63    116.56	36.50
+
+Balance, June 30, 2000	832	0.56    119.13	41.23
+Granted	224	41.50      80.00	60.84
+Exercised	(123	)	0.59      85.81	11.13
+Canceled	(35	)	13.83    119.13	63.57
+
+Balance, June 30, 2001	898	0.56    119.13	49.54
+Granted	41	48.62      72.57	62.50
+Exercised	(99	)	1.02      69.81	12.82
+Canceled	(38	)	1.15    116.56	68.67
+
+Balance, June 30, 2002	802	0.79    119.13	53.75
+
+
+In Millions, Except Per Share Amounts
+
+
+Outstanding Options	Exercisable Options
+
+Range of Exercise Prices	Shares	Remaining Life (Years)	Weighted Average Price	Shares	Weighted Average Price
+
+$  0.79    $    5.97	36	1.6	$            4.83	35	$            4.82
+5.98        13.62	44	0.5	11.19	42	11.18
+13.63        29.80	90	2.0	15.02	84	14.97
+29.81        43.62	73	2.7	32.19	66	32.09
+43.63        60.00	191	6.9	55.81	41	54.03
+60.01        69.50	146	6.4	66.24	35	66.53
+69.51        83.28	80	5.1	71.17	21	71.84
+83.29      119.13	142	4.2	89.87	47	89.29
+
+
+33  /  MSFT	2002 FORM 10-K
+
+In Millions, Except Per Share Amounts
+
+
+Year Ended June 30	2000	2001	2002
+
+
+Reported	Pro Forma	Reported	Pro Forma	Reported	Pro Forma
+
+Revenue	$	22,956	$	22,956	$	25,296	$	25,296	$	28,365	$	28,365
+Operating expenses:
+Cost of revenue	3,002	3,277	3,455	3,775	5,191	5,699
+Research and development	3,772	4,814	4,379	6,106	4,307	6,299
+Sales and marketing	4,126	4,468	4,885	5,888	5,407	6,252
+General and administrative	1,050	1,284	857	1,184	1,550	1,843
+
+Total operating expenses	11,950	13,843	13,576	16,953	16,455	20,093
+
+Operating income	11,006	9,113	11,720	8,343	11,910	8,272
+Losses on equity investees and other	(57	)	(57	)	(159	)	(159	)	(92	)	(92	)
+Investment income/(loss)	3,326	3,326	(36	)	(36	)	(305	)	(305	)
+
+Income before income taxes	14,275	12,382	11,525	8,148	11,513	7,875
+Provision for income taxes	4,854	4,210	3,804	2,689	3,684	2,520
+
+Income before accounting change	9,421	8,172	7,721	5,459	7,829	5,355
+Cumulative effect of accounting change			(375	)	(375	)		
+
+Net income	$	9,421	$	8,172	$	7,346	$	5,084	$	7,829	$	5,355
+
+Basic earnings per share	$	1.81	$	1.57	$	1.38	$	0.95	$	1.45	$	0.99
+
+Diluted earnings per share	$	1.70	$	1.48	$	1.32	$	0.91	$	1.41	$	0.98
+
+
+34  /  MSFT	2002 FORM 10-K
+
+In Millions, Except Per Share Amounts
+
+
+Year Ended June 30	2000	2001	2002
+
+Income before accounting change	$	9,421	$	7,721	$	7,829
+Preferred stock dividends	13		
+
+Net income available for common shareholders	$	9,408	$	7,721	$	7,829
+
+
+Weighted average outstanding shares of common stock	5,189	5,341	5,406
+Dilutive effect of:
+Put warrants	2	21	
+Preferred stock	7		
+Employee stock options	338	212	147
+
+Common stock and common stock equivalents	5,536	5,574	5,553
+
+
+Earnings per share before accounting change:
+Basic	$	1.81	$	1.45	$	1.45
+
+Diluted	$	1.70	$	1.38	$	1.41
+
+
+35  /  MSFT	2002 FORM 10-K
+
+36  /  MSFT	2002 FORM 10-K
+
+In Millions
+
+
+Year Ended June 30	Desktop and Enterprise Software and Services	ConsumerSoftware, Services, and Devices	Consumer Commerce Investments	Other	Reconciling Amounts	Consolidated
+
+2000
+Revenue	$	20,410	$	1,654	$	182	$	691	$	19	$	22,956
+Operating income/(loss)	13,210	(1,090	)	(60	)	86	(1,140	)	11,006
+
+
+2001
+Revenue	$	22,720	$	1,961	$	522	$	652	$	(559	)	$	25,296
+Operating income/(loss)	14,261	(1,666	)	(222	)	97	(750	)	11,720
+
+
+2002
+Revenue	$	23,786	$	3,531	$	245	$	537	$	266	$	28,365
+Operating income/(loss)	14,671	(1,778	)	23	59	(1,065	)	11,910
+
+
+In Millions
+
+
+Year Ended June 30	2000	2001	2002
+
+Desktop Applications	$	9,013	$	9,580	$	9,327
+Desktop Platforms	7,383	8,265	9,276
+
+Desktop Software	16,396	17,845	18,603
+Enterprise Software and Services	4,014	4,875	5,183
+
+Total Desktop and Enterprise Software and Services	$	20,410	$	22,720	$	23,786
+
+
+37  /  MSFT	2002 FORM 10-K
+
+In millions, except per share amounts (Unaudited)
+
+
+Quarter Ended	Sept. 30	Dec. 31	Mar. 31	June 30	Year
+
+Fiscal 2000
+Revenue	$	5,384	$	6,112	$	5,656	$	5,804	$	22,956
+Gross profit	4,672	5,356	4,904	5,022	19,954
+Net income	2,191	2,436	2,385	2,409	9,421
+Basic earnings per share	0.43	0.47	0.46	0.46	1.81
+Diluted earnings per share	0.40	0.44	0.43	0.44	1.70
+
+
+Fiscal 2001
+Revenue	$	5,766	$	6,550	$	6,403	$	6,577	$	25,296
+Gross profit	4,941	5,686	5,504	5,710	21,841
+Net income	2,206	(1)	2,624	2,451	65	(2)	7,346
+Basic earnings per share	0.42	(1)	0.49	0.46	0.01	1.38
+Diluted earnings per share	0.40	(1)	0.47	0.44	0.01	1.32
+
+
+Fiscal 2002
+Revenue	$	6,126	$	7,741	$	7,245	$	7,253	$	28,365
+Gross profit	5,242	6,197	5,850	5,885	23,174
+Net income	1,283	(3)	2,283	2,738	(4)	1,525	(5)	7,829
+Basic earnings per share	0.24	0.42	0.51	0.28	1.45
+Diluted earnings per share	0.23	0.41	0.49	0.28	1.41
+
+
+(1)	Includes an unfavorable cumulative effect of accounting change of $375 million or $0.07 per basic share and $0.06 per diluted share, reflecting the adoption of SFAS No.
+133.
+
+(2)	Includes $3.92 billion (pre-tax) in impairments of certain investments.
+
+(3)	Includes $1.82 billion (pre-tax) in impairments of certain investments.
+
+(4)	Includes $1.25 billion (pre-tax) gain on the sale of Expedia, Inc. and $1.19 billion (pre-tax) in impairments of certain investments.
+
+(5)	Includes $1.19 billion (pre-tax) in impairments of certain investments.
+
+38  /  MSFT	2002 FORM 10-K
+
+39  /  MSFT	2002 FORM 10-K
+
+In Millions, Except Per Share Amounts
+
+
+June 30, 2002	(a)	(b)	(c)
+Plan category	Number of securities to be issued upon exercise of outstanding options, warrants and rights	Weighted-average exercise price of outstanding options, warrants and rights	Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in
+column (a))
+
+Equity compensation plans approved by security holders	802	$	53.75	600
+
+Equity compensation plans not approved by security holders			
+
+Total	802	$	53.75	600
+
+
+40  /  MSFT	2002 FORM 10-K
+
+ExhibitNumber	Description
+3.1	Restated Articles of Incorporation of Microsoft Corporation (1)
+3.2	Bylaws of Microsoft Corporation
+10.1	Microsoft Corporation 2001 Stock Plan (2)
+10.2	Microsoft Corporation 1991 Stock Option Plan (3)
+10.3	Microsoft Corporation 1981 Stock Option Plan (4)
+10.4	Microsoft Corporation 1999 Stock Option Plan for Non-Employee Directors (5)
+10.5	Microsoft Corporation Stock Option Plan for Consultants and Advisors
+10.6	Microsoft Corporation 1997 Employee Stock Purchase Plan (6)
+10.7	Microsoft Corporation Savings Plus Plan (7)
+10.8	Trust Agreement dated June 1, 1993 between Microsoft Corporation and First Interstate Bank of Washington
+10.9	Form of Indemnification Agreement
+10.10	Resignation Agreement between Richard Belluzzo and Microsoft Corporation
+21.	Subsidiaries of Registrant
+23.	Independent Auditors Consent
+99.1	Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002
+99.2	Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002
+
+(1)	Incorporated by reference to Annual Report on Form 10-K For The Fiscal Year Ended June 30, 1999.
+
+(2)	Incorporated by reference to Registration Statement 333-52-852 on Form S-8.
+
+(3)	Incorporated by reference to Annual Report on Form 10-K For The Fiscal Year Ended June 30, 1997.
+
+(4)	Incorporated by reference to Registration Statement 33-37623 on Form S-8.
+
+(5)	Incorporated by reference to Registration Statement 333-91755 on Form S-8.
+
+(6)	Incorporated by reference to Annual Report on Form 10-K For The Fiscal Year Ended June 30, 2001.
+
+(7)	Incorporated by reference to Annual Report on Form 10-K For The Fiscal Year Ended June 30, 2000.
+
+41  /  MSFT	2002 FORM 10-K
+
+MICROSOFT CORPORATION
+
+By	/S/    JOHN G. CONNORS
+
+John G. Connors
+Senior Vice President; Chief Financial Officer
+
+Signature	Title
+
+/S/    WILLIAM H. GATES,
+III            William H. Gates, III	Chairman of the Board of Directorsand Chief Software Architect
+
+/S/    STEVEN A.
+BALLMER           Steven A. Ballmer	Chief Executive Officer
+
+/S/    JAMES I. CASH,
+JR.           James I. Cash, Jr.	Director
+
+/S/    RAYMOND V.
+GILMARTIN           Raymond V. Gilmartin	Director
+
+/S/    ANN MCLAUGHLIN
+KOROLOGOS         Ann McLaughlin Korologos	Director
+
+/S/    DAVID F.
+MARQUARDT           David F. Marquardt	Director
+
+/S/    WM. G. REED,
+JR.            Wm. G. Reed, Jr.	Director
+
+/S/    JON A.
+SHIRLEY           Jon A. Shirley	Director
+
+/S/    JOHN G.
+CONNORS          John G. Connors	Senior Vice President; Chief Financial Officer(Principal Financial and Accounting Officer)
+
+42  /  MSFT	2002 FORM 10-K
+
+ExhibitNumber	Description
+3.1	Restated Articles of Incorporation of Microsoft Corporation (1)
+3.2	Bylaws of Microsoft Corporation
+10.1	Microsoft Corporation 2001 Stock Plan (2)
+10.2	Microsoft Corporation 1991 Stock Option Plan (3)
+10.3	Microsoft Corporation 1981 Stock Option Plan (4)
+10.4	Microsoft Corporation 1999 Stock Option Plan for Non-Employee Directors (5)
+10.5	Microsoft Corporation Stock Option Plan for Consultants and Advisors
+10.6	Microsoft Corporation 1997 Employee Stock Purchase Plan (6)
+10.7	Microsoft Corporation Savings Plus Plan (7)
+10.8	Trust Agreement dated June 1, 1993 between Microsoft Corporation and First Interstate Bank of Washington
+10.9	Form of Indemnification Agreement
+10.10	Resignation Agreement between Richard Belluzzo and Microsoft Corporation
+21.	Subsidiaries of Registrant
+23.	Independent Auditors Consent
+99.1	Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002
+99.2	Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002
+
+(1)	Incorporated by reference to Annual Report on Form 10-K For The Fiscal Year Ended June 30, 1999.
+
+(2)	Incorporated by reference to Registration Statement 333-52-852 on Form S-8.
+
+(3)	Incorporated by reference to Annual Report on Form 10-K For The Fiscal Year Ended June 30, 1997.
+
+(4)	Incorporated by reference to Registration Statement 33-37623 on Form S-8.
+
+(5)	Incorporated by reference to Registration Statement 333-91755 on Form S-8.
+
+(6)	Incorporated by reference to Annual Report on Form 10-K For The Fiscal Year Ended June 30, 2001.
+
+(7)	Incorporated by reference to Annual Report on Form 10-K For The Fiscal Year Ended June 30, 2000.
+
+2002 FORM 10-K
+

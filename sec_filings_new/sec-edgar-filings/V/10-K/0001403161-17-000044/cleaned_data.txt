@@ -1,0 +1,2179 @@
+Text Content:
+
+
+Tables:
+
+
+þ	ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+¨	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+Delaware	26-0267673
+(State or other jurisdictionof incorporation or organization)	(IRS EmployerIdentification No.)
+
+P.O. Box 8999San Francisco, California	94128-8999
+(Address of principal executive offices)	(Zip Code)
+
+
+
+Class A common stock, par value $0.0001 per share	New York Stock Exchange
+(Title of each Class)	(Name of each exchange on which registered)
+
+
+
+Large accelerated filer   þ	Accelerated filer  o	Smaller reporting company  o
+Non-accelerated filer      o (Do not check if a smaller reporting company)	Emerging growth company  o
+
+
+
+
+Page
+PART I
+Item 1	Business	4
+Item 1A	Risk Factors	18
+Item 1B	Unresolved Staff Comments	28
+Item 2	Properties	29
+Item 3	Legal Proceedings	29
+Item 4	Mine Safety Disclosures	29
+
+PART II
+Item 5	Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities	30
+Item 6	Selected Financial Data	32
+Item 7	Management’s Discussion and Analysis of Financial Condition and Results of Operations	33
+Item 7A	Quantitative and Qualitative Disclosures About Market Risk	50
+Item 8	Financial Statements and Supplementary Data	52
+Item 9	Changes in and Disagreements with Accountants on Accounting and Financial Disclosure	114
+Item 9A	Controls and Procedures	114
+Item 9B	Other Information	114
+
+PART III
+Item 10	Directors, Executive Officers and Corporate Governance	115
+Item 11	Executive Compensation	115
+Item 12	Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters	115
+Item 13	Certain Relationships and Related Transactions, and Director Independence	115
+Item 14	Principal Accounting Fees and Services	115
+
+PART IV
+Item 15	Exhibits, Financial Statement Schedules	116
+
+
+(1)	As of September 30, 2017
+
+
+(2)	As of June 30, 2017
+
+
+(3)	Transacted on our payment products for the 12 months ended June 30, 2017
+
+
+•	Protecting payment data with a payments architecture that complies with industry standards;
+
+
+•	Rendering the use of sensitive payment data useless by deploying technologies such as the EMV chip and tokenization;
+
+
+•	Using predictive analytics, intelligence, and insights to identify and prevent fraud before it happens; and
+
+
+•	Empowering consumers to actively protect their own financial information and transactions.
+
+
+(1)	Figures and period-over-period percentages reflect the inclusion of Visa Europe for the full year of fiscal 2017. We acquired Visa Europe on June 21, 2016.
+
+
+(2)	Please see Item 7—Management's Discussion and Analysis of Financial Condition and Results of Operations for a reconciliation of our adjusted financial results.
+
+
+(3)	For the 12 months ended June 30, 2017, upon which fiscal 2017 service revenues are based.
+
+
+(1)	UnionPay, which operates primarily within the Chinese domestic market, is not included in this table as Visa currently does not compete in that market under local law. Although we are uncertain how UnionPay reports certain volumes, reportedly its numbers could approach or exceed some of those listed in this chart.
+
+
+(2)	The data presented are provided by our financial institution clients, inclusive of Europe for the second half of calendar year 2016. Previously submitted information may be updated and all data are subject to review by Visa.
+
+
+(3)	MasterCard, American Express, JCB and Discover/Diners Club data sourced from The Nilson Report issue 1109 (May 2017). Includes all consumer and commercial credit, debit and prepaid cards. Some figures are estimates and currency figures are in U.S. dollars. MasterCard excludes Maestro and Cirrus figures. American Express includes figures for third-party issuers. Discover figures consist of U.S. data only and include third-party issuers. JCB figures include third-party issuers and other payment-related products.
+
+
+•	competitors, clients and others are developing alternate payment networks or products that could disintermediate us from the transaction processing or the value-added services we provide to support such processing. Examples include initiatives from The Clearing House, an association comprised of large financial institutions that is developing its own faster payments system, and Early Warning Services, which operates Zelle, a bank-offered alternative network that provides another platform for faster funds or real-time payments across a variety of payment types, including P2P, corporate and government disbursement, bill pay and deposit check transactions;
+
+
+•	similarly, multiple countries are developing or promoting real-time payment systems or mandating local networks with clients that also present a risk of disintermediation to our business;
+
+
+•	competition may increase from alternate types of payment services, such as mobile payment services, ecommerce payment services, P2P payment services, faster payment initiatives and payment services that permit ACH or direct debits from consumer checking accounts;
+
+
+•	parties that process our transactions may try to minimize or eliminate our position in the payments value chain;
+
+
+•	parties that access our payment credentials, tokens and technologies, including clients, technology solution providers or others might be able to migrate account holders and other clients to alternate payment methods or use our payment credentials, tokens and technologies to establish or help bolster alternate payment methods and platforms;
+
+
+•	we may need to adjust our local rules and practices to remain competitive amidst evolving regulatory landscapes and competitors’ practices;
+
+
+•	we may be asked to develop or customize certain aspects of our payment services for use by consumers, processors or other third parties, thereby increasing operational costs;
+
+
+•	we may need to agree to business arrangements that may be less protective of Visa’s proprietary technology and interests in order to compete and we may face increasing risk of litigation concerning intellectual property, as more technology companies compete with our offerings;
+
+
+•	participants in the payments industry may merge, form joint ventures or enable or enter into other business combinations that strengthen their existing business propositions or create new, competing payment services;
+
+
+•	as this landscape is quickly evolving, we may not be able to foresee or respond sufficiently to emerging risks associated with new business, products, services and practices; or
+
+
+•	new or revised industry standards related to EMV chip payment technology, cloud-based payments, tokenization or other technologies set by organizations such as the International Organization for Standardization, American National Standards Institute and EMVCo may result in additional costs and expenses for Visa and its clients, or otherwise negatively impact the functionality and competitiveness of our products and services.
+
+
+•	disruption to our ongoing business, including diversion of resources and management’s attention from our existing business;
+
+
+•	greater than expected investment of resources or operating expenses;
+
+
+•	failure to develop the acquired business adequately;
+
+
+•	difficulty implementing controls, procedures, and policies at the acquired company;
+
+
+•	challenges of integrating new employees, business cultures, business systems, and technologies;
+
+
+•	failure to retain employees, clients, or partners of the acquired business;
+
+
+•	in the case of foreign acquisitions, risks related to the integration of operations across different cultures and languages, and the economic, political, and regulatory risks associated with operating in new regions or countries. For more information on regulatory risks, please see Item 1—Business—Government Regulations and Item 1A—Risk Factors—Regulatory Risks above;
+
+
+•	discovery of unidentified issues after the acquisition or investment was made;
+
+
+•	failure to mitigate the liabilities of the acquired business;
+
+
+•	dilutive issuance of equity securities, if new securities are issued;
+
+
+•	the incurrence of debt;
+
+
+•	negative impact on our financial position and/or statement of operations; and
+
+
+•	anticipated benefits, synergies, or value of the investment or acquisition not materializing.
+
+
+•	no person may beneficially own more than 15% of our class A common stock (or 15% of our total outstanding common stock on an as-converted basis), unless our board of directors approves the acquisition of such shares in advance;
+
+
+•	no competitor or an affiliate of a competitor may hold more than 5% of our total outstanding common stock on an as-converted basis;
+
+
+•	the affirmative votes of the class B and C common stock and series B and series C preferred stock are required for certain types of consolidations or mergers;
+
+
+•	our stockholders may only take action during a stockholders’ meeting and may not act by written consent; and
+
+
+•	only the board of directors, Chairman, or CEO may call a special meeting of stockholders.
+
+
+ITEM 1B.	Unresolved Staff Comments
+
+
+ITEM 2.	Properties
+
+
+ITEM 3.	Legal Proceedings
+
+
+ITEM 4.	Mine Safety Disclosures
+
+
+ITEM 5.	Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+
+
+
+Fiscal 2017	High	Low
+First Quarter	$	83.96	$	75.17
+Second Quarter	$	92.05	$	78.49
+Third Quarter	$	96.60	$	88.13
+Fourth Quarter	$	106.84	$	93.19
+
+Fiscal 2016	High	Low
+First Quarter	$	81.01	$	68.36
+Second Quarter	$	77.00	$	66.12
+Third Quarter	$	81.73	$	73.25
+Fourth Quarter	$	83.79	$	73.83
+
+
+
+Fiscal 2017	DividendPer Share
+First Quarter	$	0.165
+Second Quarter	$	0.165
+Third Quarter	$	0.165
+Fourth Quarter	$	0.165
+
+Fiscal 2016	DividendPer Share
+First Quarter	$	0.14
+Second Quarter	$	0.14
+Third Quarter	$	0.14
+Fourth Quarter	$	0.14
+
+
+
+Period	Total Number OfShares Purchased (1)	Average Price PaidPer Share	Total Number OfShares Purchased As Part Of PubliclyAnnounced Plans OrPrograms (2),(3)	Approximate Dollar Value Of Shares ThatMay Yet Be Purchased Under The Plans OrPrograms (2),(3)
+July 1-31, 2017	2,311,218	$	95.02	2,294,983	$	5,310,521,927
+August 1-31, 2017	5,594,044	$	102.11	5,594,044	$	4,739,175,366
+September 1-30, 2017	9,019,355	$	104.72	9,019,355	$	3,794,467,851
+Total	16,924,617	$	102.54	16,908,382
+
+
+(1)	Includes 16,235 shares of class A common stock withheld at an average price of $99.15 per share (per the terms of grants under the Visa 2007 Equity Incentive Compensation Plan) to offset tax withholding obligations that occur upon vesting and release of restricted shares.
+
+
+(2)	The figures in the table reflect transactions according to the trade dates. For purposes of our consolidated financial statements included in this Form 10-K, the impact of these repurchases is recorded according to the settlement dates.
+
+
+(3)	Our board of directors from time to time authorizes the repurchase of shares of our common stock up to a certain monetary limit. In April 2017, our board of directors authorized a share repurchase program for $5.0 billion. This authorization has no expiration date. All share repurchase programs authorized prior to April 2017 have been completed.
+
+
+
+Plan Category	(a)Number Of SharesOf Class A Common Stock Issuable Upon Exercise OfOutstanding Options And Rights	Weighted-Average Exercise Price OfOutstanding Options	Number Of Shares OfClass ACommon StockRemaining Available ForFuture Issuance UnderEquity CompensationPlans (Excluding Shares Reflected In Column (a))
+Equity compensation plans approved by stockholders	13,081,232	(1)	$	50.17	(2)	166,492,598	(3)
+
+
+(1)	The maximum number of shares issuable as of September 30, 2017 consisted of 7,115,876 outstanding options, 4,673,701 outstanding restricted stock units and 937,675 outstanding performance shares under the EIP and 353,980 purchase rights outstanding under the ESPP.
+
+
+(2)	The weighted-average exercise price is calculated based solely on the exercise prices of the outstanding stock options and does not reflect the shares that will be issued upon the vesting of outstanding restricted stock units and performance shares, which have no exercise price. Additionally, it excludes the weighted-average exercise price of the outstanding purchase rights under the ESPP, as the exercise price is based on the future stock price, net of discount, at the end of each monthly purchase over the offering period.
+
+
+(3)	In January 2015, our class A stockholders approved the ESPP which permits eligible employees to purchase shares of Class A common stock at a 15% discount to the stock price on the purchase date, subject to certain restrictions. See Note 15—Share-based Compensation to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report. As of September 30, 2017, 149 million shares and 18 million shares remain available for issuance under the EIP and the ESPP, respectively.
+
+
+ITEM 6.	Selected Financial Data
+
+
+
+Fiscal Year Ended September 30,
+Statement of Operations Data:	2017(1)	2016(1)	2015	2014	2013
+(in millions, except per share data)
+Operating revenues	$	18,358	$	15,082	$	13,880	$	12,702	$	11,778
+Operating expenses	$	6,214	$	7,199	(3)	$	4,816	$	5,005	$	4,539
+Operating income	$	12,144	$	7,883	$	9,064	$	7,697	$	7,239
+Net income	$	6,699	(2)	$	5,991	$	6,328	$	5,438	$	4,980
+Basic earnings per share—class A common stock(4)	$	2.80	$	2.49	$	2.58	$	2.16	$	1.90
+Diluted earnings per share—class A common stock(4)	$	2.80	$	2.48	$	2.58	$	2.16	$	1.90
+
+
+
+At September 30,
+Balance Sheet Data:	2017(1)	2016(1)	2015	2014	2013
+(in millions, except per share data)
+Total assets	$	67,977	$	64,035	$	39,367	$	37,543	$	35,495
+Accrued litigation	$	982	$	981	$	1,024	$	1,456	(5)	$	5	(5)
+Long-term debt	$	16,618	(6)	$	15,882	(6)	$	—	$	—	$	—
+Total equity	$	32,760	$	32,912	$	29,842	$	27,413	$	26,870
+Dividend declared and paid per common share(4)	$	0.66	$	0.56	$	0.48	$	0.40	$	0.33
+
+
+(1)	Our results of operations for fiscal 2017 and the last quarter of fiscal 2016, and the financial position as of September 30, 2017 and 2016, include Visa Europe's financial results.
+
+
+(2)	During fiscal 2017, in connection with our legal entity reorganization, we eliminated deferred tax balances originally recognized upon the acquisition of Visa Europe, resulting in the recognition of a non-recurring, non-cash income tax provision of $1.5 billion.
+
+
+(3)	During 2016, upon consummation of the Visa Europe acquisition, we recorded a non-recurring loss of $1.9 billion, before tax, in operating expense resulting from the effective settlement of the Framework Agreement between us and Visa Europe. Net of related tax benefit of $693 million, determined by applying applicable federal and state tax rates, the adjustment to net income was an increase of $1.2 billion.
+
+
+(4)	The per share amounts for the prior periods presented have been retroactively adjusted to reflect the four-for-one stock split effected in the second quarter of fiscal 2015.
+
+
+(5)	During fiscal 2013, we made payments from the U.S. litigation escrow account totaling $4.4 billion in connection with the U.S. covered litigation. During fiscal 2014, the court entered the final judgment order approving the settlement with the class plaintiffs in the interchange multidistrict litigation proceedings. Certain merchants in the settlement classes objected to the settlement and filed opt-out claims. Takedown payments of approximately $1.1 billion related to the opt-out merchants were received and deposited into the U.S. litigation escrow account, and a related increase in accrued litigation to address the opt-out claims were recorded in the second quarter of fiscal 2014. See Note 3—U.S. and Europe Retrospective Responsibility Plans and Note 19—Legal Matters to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+
+(6)	During fiscal 2017 and fiscal 2016, we issued fixed-rate senior notes in an aggregate principal amount of $2.5 billion and $16.0 billion, respectively. See Note 8—Debt to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+
+ITEM 7.	Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+
+
+Fiscal Year EndedSeptember 30,	% Change(1)
+2017	2016	2015	2017vs.2016	2016vs.2015
+(in millions, except percentages)
+Net income, as reported	$	6,699	$	5,991	$	6,328	12	%	(5	)%
+Diluted earnings per share, as reported(2)	$	2.80	$	2.48	$	2.58	13	%	(4	)%
+
+Net income, as adjusted(3)	$	8,335	$	6,862	$	6,438	21	%	7	%
+Diluted earnings per share, as adjusted(2),(3)	$	3.48	$	2.84	$	2.62	22	%	8	%
+
+
+(1)	Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.
+
+
+(2)	The per share amounts for the prior periods presented have been retroactively adjusted to reflect the four-for-one stock split effected in the second quarter of fiscal 2015.
+
+
+(3)	Adjusted net income and adjusted diluted earnings per share in fiscal 2017, 2016 and 2015 exclude the impact of certain significant items that we believe are not indicative of our operating performance, as they were either non-recurring or had no cash impact. For a full reconciliation of our adjusted financial results, see tables in Adjusted financial results below.
+
+
+•	Elimination of deferred tax balances. During the second quarter of fiscal 2017, in connection with our legal entity reorganization, we eliminated deferred tax balances originally recognized upon the acquisition of Visa Europe, resulting in the recognition of a non-recurring, non-cash income tax provision of $1.5 billion.
+
+
+•	Charitable contribution. During the second quarter of fiscal 2017, associated with our legal entity reorganization, we recognized a non-recurring, non-cash general and administrative expense of $192 million, before tax, related to the charitable donation of Visa Inc. shares that were acquired as part of the Visa Europe acquisition and held as treasury stock. Net of the related cash tax benefit of $71 million, determined by applying applicable tax rates, adjusted net income increased by $121 million.
+
+
+•	Severance cost. In the fourth quarter of fiscal 2016, we recorded a $110 million charge for severance costs related to personnel reductions, including planned reductions at Visa Europe. Although we routinely record severance expenses, these charges are larger than any past quarterly accrual due to the acquisition and integration of Visa Europe. Net of related tax benefit of $38 million, determined by applying applicable tax rates, the adjustment to net income was an increase of $72 million.
+
+
+•	Remeasurement of deferred tax liability. In September 2016, we recorded a non-cash, non-recurring $88 million gain upon the remeasurement of a deferred tax liability, recorded upon the acquisition of  Visa Europe, to reflect a tax rate change in the United Kingdom.
+
+
+•	Acquisition-related costs. During fiscal 2016, we incurred $152 million of non-recurring acquisition costs in operating expense as a result of the Visa Europe transaction. This amount is comprised of $60 million of transaction expenses recorded in professional fees, and $92 million of UK stamp duty recorded in general and administrative expenses. Net of related tax benefit of $56 million, determined by applying applicable federal and state tax rates, the adjustment to net income was an increase of $96 million.
+
+
+•	Visa Europe Framework Agreement loss. Upon consummation of the transaction, on June 21, 2016, we recorded a non-recurring loss of $1.9 billion, before tax, in operating expense resulting from the effective settlement of the Framework Agreement between us and Visa Europe. Net of related tax benefit of $693 million, determined by applying applicable federal and state tax rates, the adjustment to net income was an increase of $1.2 billion.
+
+
+•	Net gains on currency forward contracts. During fiscal 2016, we entered into currency forward contracts to mitigate a portion of our foreign currency exchange rate risk associated with the upfront cash consideration paid in the Visa Europe acquisition. As a result, we recorded non-recurring, net gains of $74 million, before tax, in other non-operating income. Net of related tax expense of $27 million, determined by applying applicable federal and state tax rates, the adjustment to net income was a decrease of $47 million.
+
+
+•	Foreign exchange gain on euro deposits. During fiscal 2016, we recorded a non-recurring foreign exchange gain of $145 million, before tax, in other non-operating income as a result of holding euro-denominated bank balances for a short period in advance of the closing of the Visa Europe acquisition. Net of related tax expense of $54 million, determined by applying applicable federal and state tax rates, the impact to net income was a decrease of $91 million.
+
+
+•	Revaluation of Visa Europe put option. During the first quarter of fiscal 2016 and the third quarter of fiscal 2015, we recorded a decrease of $255 million and an increase of $110 million, respectively, in the fair value of the Visa Europe put option, resulting in the recognition of non-cash income and expense in other non-operating income. These amounts are not subject to income tax and therefore have no impact on our reported income tax provision.
+
+
+
+Fiscal 2017
+(in millions, except percentages and per share data)	Operating Expenses	Operating Margin(1),(2)	Non-operating (Expense)Income	Income Taxes	Net Income	Diluted Earnings Per Share(2)
+As reported	$	6,214	66	%	$	(450	)	$	4,995	$	6,699	$	2.80
+Elimination of deferred tax balances	—	—	%	—	(1,515	)	1,515	0.63
+Charitable contribution	(192	)	1	%	—	71	121	0.05
+As adjusted	$	6,022	67	%	$	(450	)	$	3,551	$	8,335	$	3.48
+
+
+
+Fiscal 2016
+(in millions, except percentages and per share data)	Operating Expenses	Operating Margin(1),(2)	Non-operating (Expense)Income	Income Taxes	Net Income	Diluted Earnings Per Share(2)
+As reported	$	7,199	52	%	$	129	$	2,021	$	5,991	$	2.48
+Severance cost	(110	)	1	%	—	38	72	0.03
+Remeasurement of deferred tax liability	—	—	%	—	88	(88	)	(0.04	)
+Acquisition-related costs	(152	)	1	%	—	56	96	0.04
+Visa Europe Framework Agreement loss	(1,877	)	12	%	—	693	1,184	0.49
+Net gains on currency forward contracts	—	—	%	(74	)	(27	)	(47	)	(0.02	)
+Foreign exchange gain on euro deposits	—	—	%	(145	)	(54	)	(91	)	(0.04	)
+Revaluation of Visa Europe put option	—	—	%	(255	)	—	(255	)	(0.11	)
+As adjusted	$	5,060	66	%	$	(345	)	$	2,815	$	6,862	$	2.84
+
+
+
+Fiscal 2015
+(in millions, except percentages and per share data)	Operating Expenses	Operating Margin(1),(2)	Non-operating (Expense)Income	Income Taxes	Net Income	Diluted Earnings Per Share(2),(3)
+As reported	$	4,816	65	%	$	(69	)	$	2,667	$	6,328	$	2.58
+Revaluation of Visa Europe put option	—	—	%	110	—	110	0.04
+As adjusted	$	4,816	65	%	$	41	$	2,667	$	6,438	$	2.62
+
+
+(1)	Operating margin is calculated as operating income divided by net operating revenues.
+
+
+(2)	Figures in the table may not recalculate exactly due to rounding. Operating margin, diluted earnings per share and their respective totals are calculated based on unrounded numbers.
+
+
+(3)	The per share amounts for the prior periods presented have been retroactively adjusted to reflect the four-for-one stock split effected in the second quarter of fiscal 2015.
+
+
+
+United States	International	Visa Inc.
+12 months ended June 30,(1)	12 monthsended June 30,(1)	12 monthsended June 30,(1)
+2017	2016	%Change	2017	2016	%Change	2017	2016	%Change
+(in billions, except percentages)
+Nominal payments volume
+Consumer credit	$	1,309	$	1,079	21	%	$	2,224	$	1,720	29	%	$	3,533	$	2,799	26	%
+Consumer debit(3)	1,372	1,320	4	%	1,545	454	241	%	2,917	1,774	64	%
+Commercial(4)	506	450	12	%	309	147	110	%	815	598	36	%
+Total nominal payments volume(5)	$	3,187	$	2,849	12	%	$	4,078	$	2,321	76	%	$	7,265	$	5,170	41	%
+Cash volume	543	520	5	%	2,357	1,775	33	%	2,900	2,294	26	%
+Total nominal volume(5),(6)	$	3,730	$	3,369	11	%	$	6,435	$	4,095	57	%	$	10,165	$	7,464	36	%
+
+
+
+United States	International	Visa Inc.
+12 monthsended June 30,(1)	12 monthsended June 30,(1)	12 months ended June 30,(1)
+2016	2015	%Change	2016	2015	%Change	2016	2015	%Change
+(in billions, except percentages)
+Nominal payments volume
+Consumer credit	$	1,079	$	980	10	%	$	1,720	$	1,676	3	%	$	2,799	$	2,656	5	%
+Consumer debit(3)	1,320	1,201	10	%	454	462	(2	)%	1,774	1,663	7	%
+Commercial(4)	450	412	9	%	147	150	(2	)%	598	562	6	%
+Total nominal payments volume(5)	$	2,849	$	2,594	10	%	$	2,321	$	2,288	1	%	$	5,170	$	4,882	6	%
+Cash volume	520	491	6	%	1,775	2,015	(12	)%	2,294	2,506	(8	)%
+Total nominal volume(5),(6)	$	3,369	$	3,085	9	%	$	4,095	$	4,303	(5	)%	$	7,464	$	7,388	1	%
+
+
+
+International	Visa Inc.
+12 months endedJune 30,2017 vs 2016(1)	12 months endedJune 30,2016 vs 2015(1)	12 months endedJune 30,2017 vs 2016(1)	12 months endedJune 30,2016 vs 2015(1)
+Nominal	Constant(7)	Nominal	Constant(7)	Nominal	Constant(7)	Nominal	Constant(7)
+Payments volume growth
+Consumer credit	29	%	30	%	3	%	13	%	26	%	27	%	5	%	12	%
+Consumer debit(3)	241	%	238	%	(2	)%	15	%	64	%	64	%	7	%	11	%
+Commercial(4)	110	%	105	%	(2	)%	12	%	36	%	36	%	6	%	10	%
+Total payments volume growth(5)	76	%	76	%	1	%	13	%	41	%	41	%	6	%	11	%
+Cash volume growth	33	%	33	%	(12	)%	4	%	26	%	26	%	(8	)%	4	%
+Total volume growth(5)	57	%	57	%	(5	)%	9	%	36	%	36	%	1	%	9	%
+
+
+(1)	Service revenues in a given quarter are assessed based on nominal payments volume in the prior quarter. Therefore, service revenues reported for the 12 months ended September 30, 2017, 2016 and 2015, were based on nominal payments volume reported by our financial institution clients for the 12 months ended June 30, 2017, 2016 and 2015, respectively.
+
+
+(2)	Figures in the tables may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.
+
+
+(3)	Includes consumer prepaid volume and interlink volume.
+
+
+(4)	Includes large, middle and small business credit and debit, as well as commercial prepaid volume.
+
+
+(5)	Our nominal payments volume, total payments volume growth and total volume growth for the 12 months ended June 30, 2016 does not reflect the related nominal payments volume of $477 billion and cash volume of $177 billion for Visa Europe for the three months ended June 30, 2016, which impacts our service revenues for the fourth quarter of fiscal 2016.
+
+
+(6)	Total nominal volume is the sum of total nominal payments volume and cash volume. Total nominal payments volume is the total monetary value of transactions for goods and services that are purchased on cards carrying the Visa, Visa Electron, Interlink and V PAY brands. Cash volume generally consists of cash access transactions, balance access transactions, balance transfers and convenience checks. Total nominal volume is provided by our financial institution clients, subject to review by Visa. On occasion, previously presented volume information may be updated. Prior period updates are not material.
+
+
+(7)	Growth on a constant-dollar basis excludes the impact of foreign currency fluctuations against the U.S. dollar.
+
+
+
+2017	2016(3)	2015(3)	2017 vs. 2016% Change	2016 vs. 2015% Change(3)
+(in millions, except percentages)
+Visa processed transactions	111,215	83,159	70,968	34	%	17	%
+
+
+(1)	Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers. On occasion, previously presented information may be updated. Prior period updates are not material. Our operating revenues and related processed transactions for fiscal 2016 do not reflect the financial results or related processed transactions of Visa Europe from the acquisition date, June 21, 2016, through June 30, 2016 as the impact was immaterial. See Note 2—Visa Europe to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+
+(2)	Visa processed transactions in fiscal 2017 and fourth quarter of fiscal 2016 include transactions processed by Visa Europe.
+
+
+(3)	As a result of changes in Russian National Payment System law, we transitioned the processing of Russian domestic transactions to the Russian NSPK during the third quarter of fiscal 2015. The number of transactions processed by the Visa network does not reflect Russian domestic transactions processed after this transition.
+
+
+
+Fiscal Year EndedSeptember 30,	$ Change	% Change(1)
+2017	2016(2)	2015	2017vs.2016	2016vs.2015	2017vs.2016	2016vs.2015
+(in millions, except percentages)
+United States	$	8,704	$	7,851	$	7,406	$	853	$	445	11	%	6	%
+International	9,654	7,040	6,219	2,614	821	37	%	13	%
+Revenues earned under the Framework Agreement(3)	—	191	255	(191	)	(64	)	(100	)%	(25	)%
+Net operating revenues	$	18,358	$	15,082	$	13,880	$	3,276	$	1,202	22	%	9	%
+
+
+(1)	Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.
+
+
+(2)	Our operating revenues for fiscal 2016 do not reflect revenues earned by Visa Europe from the acquisition date, June 21, 2016, through June 30, 2016 as the impact was immaterial.
+
+
+(3)	Reflects revenues earned from Visa Europe prior to the acquisition, in accordance with the Framework Agreement that provided for trademark and technology licenses and bilateral services. The Framework Agreement was effectively settled upon the closing of the acquisition.
+
+
+
+Fiscal Year EndedSeptember 30,	$ Change	% Change(1)
+2017	2016(2)	2015	2017vs.2016	2016vs.2015	2017vs.2016	2016vs.2015
+(in millions, except percentages)
+Service revenues	$	7,975	$	6,747	$	6,302	$	1,228	$	445	18	%	7	%
+Data processing revenues	7,786	6,272	5,552	1,514	720	24	%	13	%
+International transaction revenues	6,321	4,649	4,064	1,672	585	36	%	14	%
+Other revenues	841	823	823	18	—	2	%	—	%
+Client incentives	(4,565	)	(3,409	)	(2,861	)	(1,156	)	(548	)	34	%	19	%
+Net operating revenues	$	18,358	$	15,082	$	13,880	$	3,276	$	1,202	22	%	9	%
+
+
+(1)	Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.
+
+
+(2)	Our operating revenues for fiscal 2016 do not reflect revenues earned by Visa Europe from the acquisition date, June 21, 2016, through June 30, 2016 as the impact was immaterial.
+
+
+•	Service revenues increased in fiscal 2017 and 2016 primarily due to 41% and 6% growth in nominal payments volume, respectively. The growth in service revenues was slower than the growth in payments volume during fiscal 2017, reflecting the inclusion of Visa Europe revenue and the resulting impact on our service revenue yield. Fiscal 2017 and 2016 growth also reflected select pricing modifications.
+
+
+•	Data processing revenues increased in fiscal 2017 and 2016 due to overall growth in processed transactions of 34% and 17%, respectively. The growth in data processing revenues was slower than the growth in processed transactions, reflecting the inclusion of data processing revenues earned by Visa Europe and the resulting impact on our data processing revenue yield.
+
+
+•	International transaction revenues increased in fiscal 2017 and 2016 primarily due to nominal cross-border volume growth of 79% and 37%, respectively, which includes revenues earned by Visa Europe and the resulting impact on our corresponding yield. International transaction revenue growth in fiscal 2017 and 2016 also reflected select pricing modifications, which was partially offset in fiscal 2017 by lower volatility in a broad range of currencies.
+
+
+•	Client incentives increased in fiscal 2017 and 2016, reflecting overall growth in global payments volume, incentives incurred on long-term client contracts that were initiated or renewed during fiscal 2017 and 2016 and the inclusion of Visa Europe's incentives for fiscal 2017 and the fourth quarter of fiscal 2016. The amount of client incentives we record in future periods will vary based on changes in performance expectations, actual client performance, amendments to existing contracts or the execution of new contracts.
+
+
+
+Fiscal Year EndedSeptember 30,	$ Change	% Change(1)
+2017	2016(2)	2015	2017vs.2016	2016vs.2015	2017vs.2016	2016vs.2015
+(in millions, except percentages)
+Personnel	$	2,628	$	2,226	$	2,079	$	402	$	147	18	%	7	%
+Marketing	922	869	872	53	(3	)	6	%	—	%
+Network and processing	620	538	474	82	64	15	%	13	%
+Professional fees	409	389	336	20	53	5	%	16	%
+Depreciation and amortization	556	502	494	54	8	11	%	2	%
+General and administrative	1,060	796	547	264	249	33	%	46	%
+Litigation provision	19	2	14	17	(12	)	NM	(86	)%
+Visa Europe Framework Agreement loss	—	1,877	—	(1,877	)	1,877	(100	)%	NM
+Total operating expenses(3)	$	6,214	$	7,199	$	4,816	$	(985	)	$	2,383	(14	)%	49	%
+
+
+(1)	Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.
+
+
+(2)	Our operating expenses for fiscal 2016 do not reflect the expenses incurred by Visa Europe from the acquisition date, June 21, 2016, through June 30, 2016 as the impact was immaterial.
+
+
+(3)	Operating expenses for fiscal 2017 and 2016 include significant items that we do not believe are indicative of our operating performance as they are related to the charitable donation or the Visa Europe acquisition. See Overview within this Item 7—Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+
+•	Personnel expenses increased in fiscal 2017 driven by higher incentive compensation, combined with continued increase in headcount reflecting our strategy to invest for future growth. The increase in fiscal 2016 was primarily due to a severance charge related to personnel reductions including planned reductions at Visa Europe. This increase was partially offset by a decrease in contractor costs, an increase in personnel costs that were invested in and capitalized as part of technology development projects and lower incentive compensation.
+
+
+•	Network and processing expenses increased in fiscal 2017 and 2016 due to fees associated with the processing of Russian domestic transactions that transitioned to the Russian NSPK during the third quarter of fiscal 2015.
+
+
+•	Professional fees increased in fiscal 2016 primarily due to transaction costs incurred in connection with our acquisition of Visa Europe in 2016.
+
+
+•	Depreciation and amortization expenses increased in fiscal 2017 primarily due to additional depreciation from our ongoing investments in technology assets and infrastructure to support our digital solutions and core business initiatives.
+
+
+•	General and administrative expenses increased in fiscal 2017 primarily due to $192 million of expense related to the Visa Inc. shares held by Visa Europe that were received by the newly-formed Visa Foundation, as well as an increase in expense to provide product benefits to our account holders as a result of business growth. The increase in 2016 was mainly due to costs incurred related to our acquisition of Visa Europe in 2016 as well as net foreign exchange losses incurred as a result of changes in the U.S. dollar exchange rate against other currencies in which we transact.
+
+
+
+Fiscal Year EndedSeptember 30,	$ Change	% Change(1)
+2017	2016(2)	2015	2017vs.2016	2016vs.2015	2017vs.2016	2016vs.2015
+(in millions, except percentages)
+Interest expense	$	(563	)	$	(427	)	$	(3	)	$	(136	)	$	(424	)	32	%	NM
+Other	113	556	(66	)	(443	)	622	(80	)%	NM
+Total non-operating (expense) income	$	(450	)	$	129	$	(69	)	$	(579	)	$	198	NM	NM
+
+
+(1)	Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.
+
+
+(2)	Fiscal 2016 non-operating (expense) income includes financial results of Visa Europe for the fourth quarter of fiscal 2016, but does not reflect the financial results of Visa Europe from the acquisition date, June 21, 2016, through June 30, 2016 as the impact was immaterial.
+
+
+•	Interest expense increased during fiscal 2017 and 2016 primarily due to the issuance of fixed-rate senior notes in each respective period. See Note 8—Debt to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+
+•	Other non-operating (expense) income in fiscal 2016 and 2015 was primarily comprised of the following:
+
+
+▪	net gains of $74 million in fiscal 2016 related to currency forward contracts entered into to mitigate a portion of our foreign currency exchange rate risk associated with the upfront cash consideration paid in the Visa Europe acquisition;
+
+
+▪	a foreign exchange gain of $145 million in fiscal 2016 on euro deposits as a result of holding euro-denominated bank balances for a short period in advance of the closing of the Visa Europe acquisition;
+
+
+▪	a non-cash adjustment of $255 million in the first quarter of fiscal 2016 to decrease the fair value of the Visa Europe put option, which is not subject to tax, reducing the fair value of the liability to zero; and
+
+
+▪	a non-cash adjustment of $110 million in the third quarter of fiscal 2015 to increase the fair value of the unamended Visa Europe put option, which is not subject to tax.
+
+
+•	the aforementioned $1.5 billion non-recurring, non-cash income tax provision related to the legal entity reorganization recorded in fiscal 2017;
+
+
+•	$71 million tax benefit related to Visa Foundation's receipt of Visa Inc. shares mentioned above, recorded in fiscal 2017;
+
+
+•	$70 million of excess tax benefits related to share-based payments recorded in fiscal 2017, as a result of the early adoption of Accounting Standards Update 2016-09. See Note 1—Summary of Significant Accounting Policies to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report; and
+
+
+•	the absence of:
+
+
+▪	the effect of one-time items related to the Visa Europe acquisition recorded during fiscal 2016, the most significant of which was the $1.9 billion U.S. loss related to the effective settlement of the Framework Agreement between Visa and Visa Europe. These one-time items impacted the geographic mix of our global income, resulting in a reduced effective tax rate in fiscal 2016;
+
+
+▪	an $88 million one-time tax benefit due to the remeasurement of deferred tax liabilities as a result of the reduction in the UK tax rate enacted in fiscal 2016; and
+
+
+▪	the non-taxable $255 million revaluation of the Visa Europe put option recorded in fiscal 2016.
+
+
+•	the effect of one-time items related to the Visa Europe acquisition, as mentioned above, that impacted the geographic mix of global income resulting in a reduced effective tax rate in fiscal 2016;
+
+
+•	an $88 million one-time tax benefit due to the remeasurement of deferred tax liabilities as a result of the reduction in the UK tax rate enacted in fiscal 2016;
+
+
+•	the non-taxable $255 million revaluation of the Visa Europe put option recorded in fiscal 2016; and
+
+
+•	the absence of a $296 million tax benefit recognized in fiscal 2015 resulting from the resolution of uncertain tax positions with taxing authorities. Included in the $296 million was a one-time $239 million tax benefit that related to prior fiscal years.
+
+
+
+Fiscal 2017
+Income Before Income Taxes	Income Tax Provision	Effective Income Tax Rate(1)
+
+As reported	$	11,694	$	4,995	42.7	%
+Elimination of deferred tax balances	—	(1,515	)
+Charitable contribution	192	71
+As adjusted	$	11,886	$	3,551	29.9	%
+
+
+
+Fiscal 2016
+Income Before Income Taxes	Income Tax Provision	Effective Income Tax Rate(1)
+
+As reported	$	8,012	$	2,021	25.2	%
+Severance cost	110	38
+Remeasurement of deferred tax liability	—	88
+Acquisition-related costs	152	56
+Visa Europe Framework Agreement loss	1,877	693
+Net gains on currency forward contracts	(74	)	(27	)
+Foreign exchange gain on euro deposits	(145	)	(54	)
+Revaluation of Visa Europe put option	(255	)	—
+As adjusted	$	9,677	$	2,815	29.1	%
+
+
+(1)	Figures in the table may not recalculate exactly due to rounding. Effective income tax rate changes are calculated based on unrounded numbers.
+
+
+•	provide adequate liquidity to cover operating expenditures and liquidity contingency scenarios;
+
+
+•	ensure timely completion of payments settlement activities;
+
+
+•	ensure payments on required litigation settlements;
+
+
+•	make planned capital investments in our business;
+
+
+•	pay dividends and repurchase our shares at the discretion of our board of directors; and
+
+
+•	invest excess cash in securities that enable us to first meet our working capital and liquidity needs, and earn additional income.
+
+
+
+2017	2016	2015
+(in millions)
+Total cash provided by (used in):
+Operating activities	$	9,208	$	5,574	$	6,584
+Investing activities	735	(10,916	)	(1,435	)
+Financing activities	(5,924	)	7,477	(3,603	)
+Effect of exchange rate changes on cash and cash equivalents	236	(34	)	1
+Increase in cash and cash equivalents	$	4,255	$	2,101	$	1,547
+
+
+•	$1.9 billion of the consideration paid in the Visa Europe acquisition during fiscal 2016 related to the effective settlement of the Framework Agreement between us and Visa Europe;
+
+
+•	payments of $489 million and $244 million of interest on the outstanding senior notes during fiscal 2017 and 2016, respectively; and
+
+
+•	payments of $426 million made from the U.S. litigation escrow account and a related decrease of approximately $157 million of income taxes paid during fiscal 2015.
+
+
+
+Standard and Poor’s	Moody’s
+Debt type	Rating	Outlook	Rating	Outlook
+Short-term unsecured debt	A-1	Stable	P-1	Stable
+Long-term unsecured debt	A+	Stable	A1	Stable
+
+
+
+Payments Due by Period
+Less than1 Year	1-3Years	3-5Years	More than5 Years	Total
+(in millions)
+Long-term debt(1)	$	2,298	$	1,074	$	4,974	$	18,386	$	26,732
+Purchase orders(2)	827	124	26	2	979
+Leases(3)	155	187	121	163	626
+Client incentives(4)	6,306	8,475	6,663	5,344	26,788
+Marketing and sponsorship(5)	124	235	73	—	432
+Dividends(6)	459	—	—	—	459
+Deferred purchase consideration(7)	—	1,331	—	—	1,331
+Total(8),(9)	$	10,169	$	11,426	$	11,857	$	23,895	$	57,347
+
+
+(1)	Amounts presented include payments for both interest and principal. Also see Note 8—Debt to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+
+(2)	Represents agreements to purchase goods and services that specify significant terms, including: fixed or minimum quantities to be purchased, minimum or variable price provisions, and the approximate timing of the transaction.
+
+
+(3)	Includes operating leases for premises, equipment and software licenses, which range in terms from less than one year to twenty years.
+
+
+(4)	Future cash payments for long-term contracts with financial institution clients and other business partners is unknowable due to the inherent unpredictability of payment and transaction volume. These agreements, which range in terms from one to sixteen years, can provide card issuance and/or conversion support, volume/growth targets and marketing and program support based on specific performance requirements. These payment amounts are our best estimates and will likely change materially based on actual client performance, amendments to existing contracts or the execution of new contracts. Related amounts disclosed in Note 16—Commitments and Contingencies to our consolidated financial statements represent the associated expected reduction of revenue related to these agreements, which are also estimates that will likely change materially due to the same factors described above.
+
+
+(5)	Visa is a party to contractual sponsorship agreements ranging from approximately two to sixteen years. These contracts are designed to increase Visa brand recognition, drive Visa product usage, and differentiate Visa against competition. Over the life of these contracts, Visa is required to make payments in exchange for certain advertising and promotional rights. In connection with these contractual commitments, Visa has an obligation to spend certain minimum amounts for advertising and marketing promotion over the life of the contract. For obligations where the individual years of spend are not specified in the contract, we have estimated the timing of when these amounts will be spent.
+
+
+(6)	Includes expected dividend amount of $459 million as dividends were declared in October 2017 and will be paid on December 5, 2017 to all holders of record of Visa's common stock as of November 17, 2017.
+
+
+(7)	On June 21, 2016, we acquired 100% of the share capital of Visa Europe. In connection with the purchase, we will pay an additional €1.0 billion, plus 4% compound annual interest, on the third anniversary of the closing of the Visa Europe acquisition. Amount presented was converted to U.S. dollar at the September 30, 2017 exchange rate. See Note 2—Visa Europe to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+
+(8)	We have liabilities for uncertain tax positions of $1.1 billion. At September 30, 2017, we had also accrued $84 million of interest and $34 million of penalties associated with our uncertain tax positions. We cannot determine the range of cash payments that will be made and the timing of the cash settlements, if any, associated with our uncertain tax positions. Therefore, no amounts related to these obligations have been included in the table.
+
+
+(9)	We evaluate the need to make contributions to our pension plan after considering the funded status of the pension plan, movements in the discount rate, performance of the plan assets and related tax consequences. Expected contributions to our pension plan have not been included in the table as such amounts are dependent upon the considerations discussed above, and may result in a wide range of amounts. See Note 9—Pension, Postretirement and Other Benefits to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report and the Liquidity and Capital Resources section of this Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+
+ITEM 7A.	Quantitative and Qualitative Disclosures about Market Risk
+
+
+ITEM 8.	Financial Statements and Supplementary Data
+
+
+
+
+Page
+As of September 30, 2017 and 2016 and for the years ended September 30, 2017, 2016 and 2015
+
+Report of Independent Registered Public Accounting Firm	53
+Consolidated Balance Sheets	54
+Consolidated Statements of Operations	55
+Consolidated Statements of Comprehensive Income	56
+Consolidated Statements of Changes in Equity	57
+Consolidated Statements of Cash Flows	60
+Notes to the Consolidated Financial Statements	61
+
+
+
+September 30, 2017	September 30, 2016
+(in millions, except par value data)
+Assets
+Cash and cash equivalents	$	9,874	$	5,619
+Restricted cash—U.S. litigation escrow (Note 3)	1,031	1,027
+Investment securities (Note 4):
+Trading	82	71
+Available-for-sale	3,482	3,248
+Settlement receivable	1,422	1,467
+Accounts receivable	1,132	1,041
+Customer collateral (Note 10)	1,106	1,001
+Current portion of client incentives	344	284
+Prepaid expenses and other current assets	550	555
+Total current assets	19,023	14,313
+Investment securities, available-for-sale (Note 4)	1,926	3,931
+Client incentives	591	448
+Property, equipment and technology, net (Note 5)	2,253	2,150
+Other assets	1,226	893
+Intangible assets, net (Note 2 and Note 6)	27,848	27,234
+Goodwill (Note 2 and Note 6)	15,110	15,066
+Total assets	$	67,977	$	64,035
+Liabilities
+Accounts payable	$	179	$	203
+Settlement payable	2,003	2,084
+Customer collateral (Note 10)	1,106	1,001
+Accrued compensation and benefits	757	673
+Client incentives	2,089	1,976
+Accrued liabilities (Note 7)	1,129	1,128
+Current maturities of long-term debt (Note 8)	1,749	—
+Accrued litigation (Note 19)	982	981
+Total current liabilities	9,994	8,046
+Long-term debt (Note 8)	16,618	15,882
+Deferred tax liabilities (Note 18)	5,980	4,808
+Deferred purchase consideration	1,304	1,225
+Other liabilities (Note 7)	1,321	1,162
+Total liabilities	35,217	31,123
+Commitments and contingencies (Note 16)
+
+Equity
+Preferred stock, $0.0001 par value, 25 shares authorized and 5 shares issued and outstanding as follows:
+Series A convertible participating preferred stock, none issued (Note 2 and Note 13)	—	—
+Series B convertible participating preferred stock, 2 shares issued and outstanding at September 30, 2017 and 2016 (Note 2 and Note 13)	2,326	2,516
+Series C convertible participating preferred stock, 3 shares issued and outstanding at September 30, 2017and 2016 (Note 2 and Note 13)	3,200	3,201
+Class A common stock, $0.0001 par value, 2,001,622 shares authorized, 1,818 and 1,871 shares issued and outstanding at September 30, 2017 and 2016, respectively (Note 13)	—	—
+Class B common stock, $0.0001 par value, 622 shares authorized, 245 shares issued and outstanding at September 30, 2017 and 2016 (Note 13)	—	—
+Class C common stock, $0.0001 par value, 1,097 shares authorized, 13 and 17 shares issued and outstanding at September 30, 2017 and 2016, respectively (Note 13)	—	—
+Treasury stock (Note 13)	—	(170	)
+Right to recover for covered losses (Note 3)	(52	)	(34	)
+Additional paid-in capital	16,900	17,395
+Accumulated income	9,508	10,462
+Accumulated other comprehensive income (loss), net:
+Investment securities, available-for-sale	73	36
+Defined benefit pension and other postretirement plans	(76	)	(225	)
+Derivative instruments classified as cash flow hedges	(36	)	(50	)
+Foreign currency translation adjustments	917	(219	)
+Total accumulated other comprehensive income (loss), net	878	(458	)
+Total equity	32,760	32,912
+Total liabilities and equity	$	67,977	$	64,035
+
+
+
+For the Years EndedSeptember 30,
+2017	2016 (1)	2015
+(in millions, except per share data)
+Operating Revenues
+Service revenues	$	7,975	$	6,747	$	6,302
+Data processing revenues	7,786	6,272	5,552
+International transaction revenues	6,321	4,649	4,064
+Other revenues	841	823	823
+Client incentives	(4,565	)	(3,409	)	(2,861	)
+Net operating revenues	18,358	15,082	13,880
+
+Operating Expenses
+Personnel	2,628	2,226	2,079
+Marketing	922	869	872
+Network and processing	620	538	474
+Professional fees	409	389	336
+Depreciation and amortization	556	502	494
+General and administrative	1,060	796	547
+Litigation provision (Note 19)	19	2	14
+Visa Europe Framework Agreement loss	—	1,877	—
+Total operating expenses	6,214	7,199	4,816
+Operating income	12,144	7,883	9,064
+
+Non-operating (Expense) Income
+Interest expense	(563	)	(427	)	(3	)
+Other (Note 4 and Note 11)	113	556	(66	)
+Total non-operating (expense) income	(450	)	129	(69	)
+Income before income taxes	11,694	8,012	8,995
+Income tax provision (Note 18)	4,995	2,021	2,667
+Net income	$	6,699	$	5,991	$	6,328
+
+Basic earnings per share (Note 14)
+Class A common stock	$	2.80	$	2.49	$	2.58
+Class B common stock	$	4.62	$	4.10	$	4.26
+Class C common stock	$	11.21	$	9.94	$	10.33
+
+Basic weighted-average shares outstanding (Note 14)
+Class A common stock	1,845	1,906	1,954
+Class B common stock	245	245	245
+Class C common stock	14	19	22
+
+Diluted earnings per share (Note 14)
+Class A common stock	$	2.80	$	2.48	$	2.58
+Class B common stock	$	4.61	$	4.09	$	4.25
+Class C common stock	$	11.19	$	9.93	$	10.30
+
+Diluted weighted-average shares outstanding (Note 14)
+Class A common stock	2,395	2,414	2,457
+Class B common stock	245	245	245
+Class C common stock	14	19	22
+
+
+(1)	The Company did not include Visa Europe's financial results in the Company's consolidated statements of operations from the acquisition date, June 21, 2016, through June 30, 2016 as the impact was immaterial. The Company's consolidated statement of operations for the year ended September 30, 2016 includes Visa Europe's financial results for the three months ended September 30, 2016. See Note 2—Visa Europe.
+
+
+
+For the Years EndedSeptember 30,
+2017	2016	2015
+(in millions)
+Net income	$	6,699	$	5,991	$	6,328
+Other comprehensive income (loss), net of tax:
+Investment securities, available-for-sale:
+Net unrealized gain (loss)	60	51	(21	)
+Income tax effect	(24	)	(18	)	8
+Reclassification adjustment for net loss (gain) realized in net income	1	(3	)	(21	)
+Income tax effect	—	1	8
+Defined benefit pension and other postretirement plans:
+Net unrealized actuarial gain (loss) and prior service credit	183	(106	)	(122	)
+Income tax effect	(54	)	36	45
+Amortization of actuarial loss (gain) and prior service credit realized in net income	32	10	(1	)
+Income tax effect	(12	)	(4	)	1
+Derivative instruments classified as cash flow hedges:
+Net unrealized (loss) gain	(22	)	(74	)	172
+Income tax effect	15	9	(51	)
+Reclassification adjustment for net loss (gain) realized in net income	33	(103	)	(102	)
+Income tax effect	(12	)	35	26
+Foreign currency translation adjustments	1,136	(218	)	1
+Other comprehensive income (loss), net of tax	1,336	(384	)	(57	)
+Comprehensive income	$	8,035	$	5,607	$	6,271
+
+
+
+Common Stock	AdditionalPaid-In Capital	AccumulatedIncome	AccumulatedOtherComprehensive Loss	TotalEquity
+Class A	Class B	Class C
+(in millions, except per share data)
+Balance as of September 30, 2014	1,978	245	22	$	18,299	$	9,131	$	(17	)	$	27,413
+Net income	6,328	6,328
+Other comprehensive loss, net of tax	(57	)	(57	)
+Comprehensive income	6,271
+Conversion of class C common stock upon sale into public market	11	(2	)	—
+Issuance and vesting of restricted stock and performance-based shares	4	—
+Share-based compensation, net of forfeitures (Note 15)	(1	)	(1)	187	187
+Restricted stock and performance-based shares settled in cash for taxes	(1	)	(108	)	(108	)
+Excess tax benefit for share-based compensation	84	84
+Cash proceeds from issuance of common stock under employee equity plans	3	82	82
+Cash dividends declared and paid, at a quarterly amount of $0.12 per as-converted share	(1,177	)	(1,177	)
+Repurchase of class A common stock	(44	)	(471	)	(2,439	)	(2,910	)
+Balance as of September 30, 2015	1,950	245	20	$	18,073	$	11,843	$	(74	)	$	29,842
+
+
+(1)	Decrease in Class A common stock related to forfeitures of restricted stock awards.
+
+
+
+Preferred Stock(1)	Common Stock	Preferred Stock	Treasury Stock	Right to Recover for Covered Losses	AdditionalPaid-In Capital	AccumulatedIncome	AccumulatedOtherComprehensive Loss	TotalEquity
+Series B	Series C	Class A	Class B	Class C
+(in millions, except per share data)
+Balance as of September 30, 2015	—	—	1,950	245	20	$	—	$	—	$	—	$	18,073	$	11,843	$	(74	)	$	29,842
+Net income	5,991	5,991
+Other comprehensive loss, net of tax	(384	)	(384	)
+Comprehensive income	5,607
+Issuance of preferred stock (Note 2 and Note 13)	2	3	5,717	5,717
+VE territory covered losses incurred (Note 3)	(34	)	(34	)
+Class C common stock held by Visa Europe, a wholly-owned subsidiary of Visa Inc. (Note 13)	(1	)	(170	)	(170	)
+Conversion of class C common stock upon sale into public market	8	(2	)	—
+Issuance and vesting of restricted stock and performance-based shares	2	—
+Share-based compensation, net of forfeitures (Note 15)	—	(2)	221	221
+Restricted stock and performance-based shares settled in cash for taxes	(1	)	(92	)	(92	)
+Excess tax benefit for share-based compensation	63	63
+Cash proceeds from issuance of common stock under employee equity plans	3	95	95
+Cash dividends declared and paid, at a quarterly amount of $0.14 per as-converted share	(1,350	)	(1,350	)
+Repurchase of class A common stock (Note 13)	(91	)	(965	)	(6,022	)	(6,987	)
+Balance as of September 30, 2016	2	3	1,871	245	17	$	5,717	$	(170	)	$	(34	)	$	17,395	$	10,462	$	(458	)	$	32,912
+
+
+(1)	Series B and C preferred stock are alternatively referred to as UK&I and Europe preferred stock, respectively.
+
+
+(2)	Decrease in Class A common stock related to forfeitures of restricted stock awards is less than one million shares.
+
+
+
+Preferred Stock(1)	Common Stock	Preferred Stock	Treasury Stock	Right to Recover for Covered Losses	AdditionalPaid-In Capital	AccumulatedIncome	AccumulatedOtherComprehensive Loss	TotalEquity
+Series B	Series C	Class A	Class B	Class C
+(in millions, except per share data)
+Balance as of September 30, 2016	2	3	1,871	245	17	$	5,717	$	(170	)	$	(34	)	$	17,395	$	10,462	$	(458	)	$	32,912
+Net income	6,699	6,699
+Other comprehensive income, net of tax	1,336	1,336
+Comprehensive income	8,035
+VE territory covered losses incurred (Note 3)	(209	)	(209	)
+Recovery through conversion rate adjustment (Note 3 and Note 13)	(191	)	191	—
+Charitable contribution of Visa Inc. shares (Note 13 and Note 18)	2	170	170
+Treasury stock appreciation, net of tax	14	14
+Conversion of class C common stock upon sales into public market	17	(4	)	—
+Issuance and vesting of restricted stock and performance-based shares	2	—
+Share-based compensation, net of forfeitures (Note 15)	—	(2)	235	235
+Restricted stock and performance-based shares settled in cash for taxes	(1	)	(76	)	(76	)
+Cash proceeds from issuance of common stock under employee equity plans	4	149	149
+Cash dividends declared and paid, at a quarterly amount of $0.165 per as-converted share (Note 13)	(1,579	)	(1,579	)
+Repurchase of class A common stock (Note 13)	(77	)	(817	)	(6,074	)	(6,891	)
+Balance as of September 30, 2017	2	3	1,818	245	13	$	5,526	$	—	$	(52	)	$	16,900	$	9,508	$	878	$	32,760
+
+
+(1)	Series B and C preferred stock are alternatively referred to as UK&I and Europe preferred stock, respectively.
+
+
+(2)	Decrease in Class A common stock related to forfeitures of restricted stock awards is less than one million shares.
+
+
+
+For the Years EndedSeptember 30,
+2017	2016	2015
+(in millions, except noted otherwise)
+Operating Activities
+Net income	$	6,699	$	5,991	$	6,328
+Adjustments to reconcile net income to net cash provided by operating activities:
+Client incentives	4,565	3,409	2,861
+Fair value adjustment for the Visa Europe put option	—	(255	)	110
+Share-based compensation (Note 15)	235	221	187
+Excess tax benefit for share-based compensation	—	(63	)	(84	)
+Depreciation and amortization of property, equipment, technology and intangible assets	556	502	494
+Deferred income taxes	1,700	(764	)	195
+Right to recover for covered losses recorded in equity (Note 3)	(209	)	(9	)	—
+Charitable contribution of Visa Inc. shares (Note 13 and Note 18)	192	—	—
+Other	50	64	24
+Change in operating assets and liabilities:
+Settlement receivable	94	391	378
+Accounts receivable	(54	)	(65	)	(19	)
+Client incentives	(4,628	)	(3,508	)	(2,970	)
+Other assets	(252	)	(315	)	(41	)
+Accounts payable	(30	)	43	(13	)
+Settlement payable	(176	)	(302	)	(552	)
+Accrued and other liabilities	465	277	118
+Accrued litigation (Note 19)	1	(43	)	(432	)
+Net cash provided by operating activities	9,208	5,574	6,584
+Investing Activities
+Purchases of property, equipment, technology and intangible assets	(707	)	(523	)	(414	)
+Proceeds from sales of property, equipment and technology	12	—	10
+Investment securities, available-for-sale:
+Purchases	(3,238	)	(10,426	)	(2,850	)
+Proceeds from maturities and sales	5,012	9,119	1,925
+Acquisitions, net of $2.8 billion cash received from Visa Europe (Note 2)	(302	)	(9,082	)	(93	)
+Purchases of / contributions to other investments	(46	)	(10	)	(25	)
+Proceeds / distributions from other investments	4	6	12
+Net cash provided by (used in) investing activities	735	(10,916	)	(1,435	)
+Financing Activities
+Repurchase of class A common stock (Note 13)	(6,891	)	(6,987	)	(2,910	)
+Treasury stock—class C common stock (Note 13)	—	(170	)	—
+Dividends paid (Note 13)	(1,579	)	(1,350	)	(1,177	)
+Proceeds from issuance of senior notes (Note 8)	2,488	15,971	—
+Debt issuance costs (Note 8)	(15	)	(98	)	—
+Payments from U.S. litigation escrow account—U.S. retrospective responsibility plan (Note 3 and Note 19)	—	45	426
+Cash proceeds from issuance of common stock under employee equity plans	149	95	82
+Restricted stock and performance-based shares settled in cash for taxes	(76	)	(92	)	(108	)
+Excess tax benefit for share-based compensation	—	63	84
+Net cash (used in) provided by financing activities	(5,924	)	7,477	(3,603	)
+Effect of exchange rate changes on cash and cash equivalents	236	(34	)	1
+Increase in cash and cash equivalents	4,255	2,101	1,547
+Cash and cash equivalents at beginning of year	5,619	3,518	1,971
+Cash and cash equivalents at end of year	$	9,874	$	5,619	$	3,518
+Supplemental Disclosure
+Series B and C convertible participating preferred stock issued in Visa Europe acquisition (Note 3)	$	—	$	5,717	$	—
+Deferred purchase consideration recorded for Visa Europe acquisition (Note 2)	$	—	$	1,236	$	—
+Income taxes paid, net of refunds	$	3,038	$	2,842	$	2,486
+Interest payments on debt	$	489	$	244	$	—
+Accruals related to purchases of property, equipment, technology and intangible assets	$	50	$	42	$	81
+
+
+•	The Company recorded excess tax benefits of $70 million in its provision for income taxes rather than as an increase to additional paid-in capital for the year ended September 30, 2017 on a prospective basis. Therefore, the prior period presented has not been adjusted.
+
+
+•	The Company excluded the excess tax benefits from the assumed proceeds available to repurchase shares in the computation of diluted earnings per share, which did not have a material impact on the Company's diluted earnings per share for the year ended September 30, 2017.
+
+
+•	The Company elected to apply the presentation requirement for cash flows related to excess tax benefits prospectively, and thus, the prior period presented has not been adjusted. This adoption resulted in an increase to both net cash provided by operating activities and net cash used in financing of $70 million for the year ended September 30, 2017.
+
+
+•	issued preferred stock of the Company convertible upon certain conditions into approximately 79 million shares of class A common stock of the Company, as described below, equivalent to a value of €5.3 billion ($6.1 billion) at the closing stock price of $77.33 on June 21, 2016; and
+
+
+•	agreed to pay an additional €1.0 billion, plus 4% compound annual interest, on the third anniversary of the Closing.
+
+
+•	series A convertible participating preferred stock, par value $0.0001 per share, which is generally designed to be economically equivalent to the Company’s class A common stock (the “class A equivalent preferred stock”);
+
+
+•	series B convertible participating preferred stock, par value $0.0001 per share (the “UK&I preferred stock”); and
+
+
+•	series C convertible participating preferred stock, par value $0.0001 per share (the “Europe preferred stock”).
+
+
+
+Preliminary Purchase Price Allocation	Measurement Period Adjustments	Final Purchase Price Allocation
+(in millions)
+Current assets(1)	$	4,457	$	—	$	4,457
+Non-current assets(2)	258	(46	)	212
+Current liabilities(3)	(2,731	)	(36	)	(2,767	)
+Non-current liabilities(2)	(2,605	)	607	(1,998	)
+Tangible assets and liabilities	(621	)	525	(96	)
+Intangible assets — customer relationships and reacquired rights(2)	16,137	(232	)	15,905
+Goodwill(4)	3,268	(293	)	2,975
+Fair value of net assets acquired	$	18,784	$	—	$	18,784
+
+
+(1)	Current assets are largely comprised of cash and cash equivalents and settlement receivable.
+
+
+(2)	Intangible assets consist of customer relationships and reacquired rights, which have been valued as a single composite intangible asset as they are inextricably linked. These intangibles are considered indefinite-lived assets as the associated customer relationships have historically not experienced significant attrition, and the reacquired rights are based on the Framework Agreement, which has a perpetual term. Non-current assets and liabilities include deferred tax assets and liabilities that result in net deferred tax liabilities of $1.7 billion, which are primarily related to these indefinite-lived intangible assets, based on the final valuation. In February 2017, the Company completed a legal entity reorganization, resulting in the elimination of most of these deferred tax assets and liabilities. See Note 18—Income Taxes.
+
+
+(3)	Current liabilities assumed mainly include settlement payable, client incentives liabilities and accrued liabilities.
+
+
+(4)	The excess of purchase consideration over net assets acquired was recorded as goodwill, which represents the value that is expected from increased scale and synergies as a result of the integration of both businesses.
+
+
+•	the Interchange Multidistrict Litigation. In re Payment Card Interchange Fee and Merchant Discount Antitrust Litigation, 1:05-md-01720-JG-JO (E.D.N.Y.) or MDL 1720, including all cases currently included in MDL 1720, any other case that includes claims for damages relating to the period prior to the Company's IPO that has been or is transferred for coordinated or consolidated pre-trial proceedings at any time to MDL 1720 by the Judicial Panel on Multidistrict Litigation or otherwise included at any time in MDL 1720 by order of any court of competent jurisdiction;
+
+
+•	any claim that challenges the reorganization or the consummation thereof; provided that such claim is transferred for coordinated or consolidated pre-trial proceedings at any time to MDL 1720 by the Judicial Panel on Multidistrict Litigation or otherwise included at any time in MDL 1720 by order of any court of competent jurisdiction; and
+
+
+•	any case brought after October 22, 2015, by a merchant that opted out of the Rule 23(b)(3) settlement class pursuant to the 2012 Settlement Agreement in MDL 1720 that arises out of facts or circumstances substantially similar to those alleged in MDL 1720 and that is not transferred to or otherwise included in MDL 1720. See Note 19—Legal Matters.
+
+
+
+Fiscal 2017	Fiscal 2016
+(in millions)
+Balance at October 1	$	1,027	$	1,072
+Payments to opt-out merchants and interest earned on escrow funds(1)	4	(45	)
+Balance at September 30	$	1,031	$	1,027
+
+
+(1)	These payments are associated with the interchange multidistrict litigation. See Note 19—Legal Matters.
+
+
+
+Preferred Stock	Right to Recover for Covered Losses
+UK&I	Europe
+(in millions)
+Balance as of September 30, 2016	$	2,516	$	3,201	$	(34	)
+VE territory covered losses incurred	—	—	(209	)
+Recovery through conversion rate adjustment	(190	)	(1	)	191
+Balance as of September 30, 2017	$	2,326	$	3,200	$	(52	)
+
+
+
+September 30, 2017	September 30, 2016
+As-Converted Value of Preferred Stock(2)	Book Value of Preferred Stock	As-Converted Value of Preferred Stock(3)	Book Value of Preferred Stock
+(in millions)
+UK&I preferred stock	$	3,414	$	2,326	$	2,862	$	2,516
+Europe preferred stock	4,634	3,200	3,642	3,201
+Total	8,048	5,526	6,504	5,717
+Less: right to recover for covered losses	(52	)	(52	)	(34	)	(34	)
+Total recovery for covered losses available	$	7,996	$	5,474	$	6,470	$	5,683
+
+
+(1)	Figures in the table may not recalculate exactly due to rounding. As-converted and book values of preferred stock are based on unrounded numbers.
+
+
+(2)	The as-converted value of preferred stock is calculated as the product of: (a) 2 million and 3 million shares of the UK&I and Europe preferred stock outstanding, respectively, as of September 30, 2017; (b) 13.077 and 13.948, the class A common stock conversion rate applicable to the UK&I and Europe preferred stock outstanding, respectively, as of September 30, 2017; and (c) $105.24, Visa's class A common stock closing stock price as of September 30, 2017. Earnings per share is calculated based on unrounded numbers.
+
+
+(3)	The as-converted value of preferred stock is calculated as the product of: (a) 2 million and 3 million shares of the UK&I and Europe preferred stock outstanding, respectively, as of September 30, 2016; (b) the 13.952 class A common stock conversion rate applicable to both the UK&I and Europe preferred stock as of September 30, 2016; and (c) $82.70, Visa's class A common stock closing stock price as of September 30, 2016. Earnings per share is calculated based on unrounded numbers.
+
+
+
+Fair Value Measurements at September 30Using Inputs Considered as
+Level 1	Level 2
+September 30, 2017	September 30, 2016	September 30, 2017	September 30, 2016
+(in millions)
+Assets
+Cash equivalents and restricted cash:
+Money market funds	$	5,935	$	4,537
+U.S. government-sponsored debt securities	$	2,870	$	196
+Investment securities, trading:
+Equity securities	$	82	$	71
+Investment securities, available-for-sale:
+U.S. government-sponsored debt securities	3,663	4,699
+U.S. Treasury securities	1,621	2,178
+Equity securities	124	53
+Corporate debt securities	—	249
+Prepaid and other current assets:
+Foreign exchange derivative instruments	18	50
+Other Assets:
+Foreign exchange derivative instruments	6
+Total	$	7,762	$	6,839	$	6,551	$	5,200
+Liabilities
+Accrued liabilities:
+Foreign exchange derivative instruments	$	98	$	116
+Other liabilities:
+Foreign exchange derivative instruments	—	20
+Total	$	—	$	—	$	98	$	136
+
+
+
+September 30, 2017	September 30, 2016
+Carrying Amount	Estimated Fair Value	Carrying Amount	Estimated Fair Value
+(in millions)
+1.20% Senior Notes due December 2017	$	1,749	$	1,751	$	1,746	$	1,754
+2.20% Senior Notes due December 2020	2,990	3,031	2,988	3,077
+2.15% Senior Notes due September 2022	993	997	—	—
+2.80% Senior Notes due December 2022	2,240	2,301	2,238	2,359
+3.15% Senior Notes due December 2025	3,967	4,098	3,964	4,225
+2.75% Senior Notes due September 2027	740	737	—	—
+4.15% Senior Notes due December 2035	1,485	1,637	1,485	1,698
+4.30% Senior Notes due December 2045	3,463	3,873	3,461	4,045
+3.65% Senior Notes due September 2047	740	746	—	—
+Total	$	18,367	$	19,171	$	15,882	$	17,158
+
+
+
+September 30, 2017	September 30, 2016
+AmortizedCost	Gross Unrealized	FairValue	AmortizedCost	Gross Unrealized	FairValue
+Gains	Losses	Gains	Losses
+(in millions)
+U.S. government-sponsored debt securities	$	3,664	$	1	$	(2	)	$	3,663	$	4,693	$	6	$	—	$	4,699
+U.S. Treasury securities	1,623	—	(2	)	1,621	2,176	3	—	2,179
+Equity securities	5	119	—	124	7	46	—	53
+Corporate debt securities	—	—	—	—	248	—	—	248
+Auction rate securities	—	—	—	—	—	—	—	—
+Total	$	5,292	$	120	$	(4	)	$	5,408	$	7,124	$	55	$	—	$	7,179
+Less: current portion of available-for-sale investment securities	$	(3,482	)	$	(3,248	)
+Long-term available-for-sale investment securities	$	1,926	$	3,931
+
+
+
+Amortized Cost	Fair Value
+(in millions)
+September 30, 2017:
+Due within one year	$	3,360	$	3,358
+Due after 1 year through 5 years	1,927	1,926
+Due after 5 years through 10 years	—	—
+Due after 10 years	—	—
+Total	$	5,287	$	5,284
+
+
+
+For the Years EndedSeptember 30,
+2017	2016	2015
+(in millions)
+Interest and dividend income on cash and investments	$	92	$	75	$	31
+Gain on other investments	6	5	3
+Investment securities, trading:
+Unrealized gains (losses), net	6	3	(6	)
+Realized gains, net	2	—	2
+Investment securities, available-for-sale:
+Realized (losses) gains, net	(1	)	3	21
+Other-than-temporary impairment on investments	—	(4	)	(5	)
+Investment income	$	105	$	82	$	46
+
+
+
+September 30, 2017	September 30, 2016
+(in millions)
+Land	$	72	$	74
+Buildings and building improvements	865	839
+Furniture, equipment and leasehold improvements	1,534	1,382
+Construction-in-progress	139	125
+Technology	2,533	2,378
+Total property, equipment and technology	5,143	4,798
+Accumulated depreciation and amortization	(2,890	)	(2,648	)
+Property, equipment and technology, net	$	2,253	$	2,150
+
+
+
+Fiscal:	2018	2019	2020	2021	2022 and thereafter	Total
+(in millions)
+Estimated future amortization expense	$	265	$	222	$	159	$	107	$	76	$	829
+
+
+
+September 30, 2017	September 30, 2016
+Gross	AccumulatedAmortization	Net	Gross	AccumulatedAmortization	Net
+(in millions)
+Finite-lived intangible assets:
+Customer relationships	$	438	$	(237	)	$	201	$	351	$	(220	)	$	131
+Trade names	195	(93	)	102	192	(80	)	112
+Reseller relationships	95	(79	)	16	95	(70	)	25
+Other	17	(9	)	8	18	(9	)	9
+Total finite-lived intangible assets	745	(418	)	327	656	(379	)	277
+Indefinite-lived intangible assets:
+Customer relationships and reacquired rights	23,437	—	23,437	22,873	—	22,873
+Visa trade name	4,084	—	4,084	4,084	—	4,084
+Total indefinite-lived intangible assets	27,521	—	27,521	26,957	—	26,957
+Total intangible assets	$	28,266	$	(418	)	$	27,848	$	27,613	$	(379	)	$	27,234
+
+
+
+Fiscal:	2018	2019	2020	2021	2022 andthereafter	Total
+(in millions)
+Estimated future amortization expense	$	40	$	40	$	40	$	40	$	71	$	231
+
+
+
+September 30, 2017	September 30, 2016
+(in millions)
+Accrued operating expenses	$	434	$	347
+Accrued interest expenses	149	145
+Accrued income taxes (See Note 18—Income Taxes)	243	153
+Other	303	483
+Total	$	1,129	$	1,128
+
+
+
+September 30, 2017	September 30, 2016
+(in millions)
+Accrued income taxes (See Note 18—Income Taxes)	$	1,092	$	911
+Employee benefits	62	137
+Other	167	114
+Total	$	1,321	$	1,162
+
+
+
+September 30, 2017	September 30, 2016
+Principal Amount	Unamortized Discounts and Debt Issuance Costs	Carrying Amount	Principal Amount	Unamortized Discounts and Debt Issuance Costs	Carrying Amount	Effective Interest Rate
+(in millions, except percentages)
+1.20% Senior Notes due 2017 (the "2017 Notes")	$	1,750	$	(1	)	$	1,749	$	—	$	—	$	—	1.37	%
+Total current maturities of long-term debt	1,750	(1	)	1,749	—	—	—
+
+1.20% Senior Notes due 2017 (the "2017 Notes")	—	—	—	1,750	(4	)	1,746	1.37	%
+2.20% Senior Notes due 2020 (the "2020 Notes")	3,000	(10	)	2,990	3,000	(12	)	2,988	2.30	%
+2.15% Senior Notes due September 2022 (the "September 2022 Notes")	1,000	(7	)	993	—	—	—	2.30	%
+2.80% Senior Notes due December 2022 (the "December 2022 Notes")	2,250	(10	)	2,240	2,250	(12	)	2,238	2.89	%
+3.15% Senior Notes due 2025 (the "2025 Notes")	4,000	(33	)	3,967	4,000	(36	)	3,964	3.26	%
+2.75% Senior Notes due 2027 (the "2027 Notes")	750	(10	)	740	—	—	—	2.91	%
+4.15% Senior Notes due 2035 (the "2035 Notes")	1,500	(15	)	1,485	1,500	(15	)	1,485	4.23	%
+4.30% Senior Notes due 2045 (the "2045 Notes")	3,500	(37	)	3,463	3,500	(39	)	3,461	4.37	%
+3.65% Senior Notes due 2047 (the "2047 Notes")	750	(10	)	740	—	—	—	3.73	%
+Total long-term debt	16,750	(132	)	16,618	16,000	(118	)	15,882
+Total debt	$	18,500	$	(133	)	$	18,367	$	16,000	$	(118	)	$	15,882
+
+
+•	100% of the principal amount of such Notes; and
+
+
+•	the sum of the present value of the remaining scheduled payments of principal and interest through the maturity or par call date for each of the Notes below at the treasury rate defined under the terms of the Notes, plus the applicable spread for such Notes (as set forth in the table below),
+
+
+
+Series	Maturity/Par Call Date	Spread
+2020 Notes	November 14, 2020	10 bps
+September 2022 Notes	August 15, 2022	10 bps
+December 2022 Notes	October 14, 2022	12.5 bps
+2025 Notes	September 14, 2025	15 bps
+2027 Notes	June 15, 2027	12.5 bps
+2035 Notes	June 14, 2035	20 bps
+2045 Notes	June 14, 2045	20 bps
+2047 Notes	March 15, 2047	15 bps
+
+
+
+Fiscal Year	2018	2019	2020	2021	2022	Thereafter	Total
+(in millions)	$	1,750	$	—	$	—	$	3,000	$	1,000	$	12,750	$	18,500
+
+
+•	a financial covenant which requires the Company to maintain a Consolidated Indebtedness to Consolidated EBITDA Ratio (as defined in the Credit Facility) of not greater than 3.75 to 1.00;
+
+
+•	customary restrictive covenants, which limit the Borrowers' ability to, among other things, create certain liens, effect fundamental changes to their business, or merge or dispose substantially all of their assets, subject in each case to customary exceptions and amounts;
+
+
+•	customary events of default, upon the occurrence of which, after any applicable grace period, the requisite lenders will have the ability to accelerate all outstanding loans thereunder and terminate the commitments; and
+
+
+•	other customary and standard terms and conditions.
+
+
+
+U.S. Plans	Non-U.S. Plans
+Pension Benefits	OtherPostretirement Benefits	Pension Benefits
+September 30,	September 30,	September 30,
+2017	2016	2017	2016	2017	2016
+(in millions)
+Benefit obligation—beginning of fiscal year	$	1,072	$	1,005	$	14	$	18	$	474	$	—
+Visa Europe acquisition	—	—	—	—	—	381
+Service cost	—	13	—	—	6	1
+Interest cost	36	40	1	1	11	3
+Actuarial loss (gain)	(58	)	86	(1	)	(2	)	(52	)	86
+Benefit payments	(137	)	(64	)	(3	)	(3	)	(14	)	(1	)
+Plan amendment	—	(8	)	—	—	—	—
+Foreign currency exchange rate changes	—	—	—	—	8	4
+Benefit obligation—end of fiscal year	$	913	$	1,072	$	11	$	14	$	433	$	474
+Accumulated benefit obligation	$	913	$	1,072	NA	NA	$	433	$	474
+Change in Plan Assets:
+Fair value of plan assets—beginning of fiscal year	$	1,077	$	1,022	$	—	$	—	$	415	$	—
+Visa Europe acquisition	—	—	—	—	—	287
+Actual return on plan assets	125	118	—	—	17	25
+Company contribution	9	1	3	3	5	102
+Benefit payments	(137	)	(64	)	(3	)	(3	)	(14	)	(1	)
+Foreign currency exchange rate changes	—	—	—	—	10	2
+Fair value of plan assets—end of fiscal year	$	1,074	$	1,077	$	—	$	—	$	433	$	415
+Funded status at end of fiscal year	$	161	$	5	$	(11	)	$	(14	)	$	—	$	(59	)
+Recognized in Consolidated Balance Sheets:
+Non-current asset	$	168	$	22	$	—	$	—	$	—	$	—
+Current liability	(1	)	(9	)	(2	)	(3	)	(5	)	(6	)
+Non-current liability	(6	)	(8	)	(9	)	(11	)	5	(53	)
+Funded status at end of fiscal year	$	161	$	5	$	(11	)	$	(14	)	$	—	$	(59	)
+
+
+
+U.S. Plans	Non-U.S. Plans
+Pension Benefits	OtherPostretirement Benefits	Pension Benefits
+September 30,	September 30,	September 30,
+2017	2016	2017	2016	2017	2016
+(in millions)
+Net actuarial loss (gain)	$	97	$	241	$	(4	)	$	(5	)	$	9	$	66
+Prior service credit	—	—	—	(2	)	—	—
+Total	$	97	$	241	$	(4	)	$	(7	)	$	9	$	66
+
+
+
+U.S. Plans	Non-U.S. Plans
+Pension Benefits	OtherPostretirement Benefits	Pension Benefits
+(in millions)
+Actuarial loss (gain)	$	—	$	(1	)	$	—
+Prior service credit	—	—	—
+Total	$	—	$	(1	)	$	—
+
+
+
+U.S. Plans	Non-U.S. Plans(1)
+September 30,	September 30,
+2017	2016	2017	2016
+(in millions)
+Accumulated benefit obligation in excess of plan assets
+Accumulated benefit obligation—end of year	$	(7	)	$	(16	)	$	(5	)	$	(474	)
+Fair value of plan assets—end of year	$	—	$	—	$	—	$	415
+Projected benefit obligation in excess of plan assets
+Benefit obligation—end of year	$	(7	)	$	(16	)	$	(5	)	$	(474	)
+Fair value of plan assets—end of year	$	—	$	—	$	—	$	415
+
+
+(1)	For fiscal 2017, the non-U.S. non-qualified pension plan had benefit obligations in excess of plan assets. For fiscal 2016, both non-U.S. pension plans had benefit obligations in excess of plan assets.
+
+
+
+U.S. Plans	Non-U.S. Plans(1)
+Pension Benefits	OtherPostretirement Benefits	Pension Benefits
+Fiscal
+2017	2016	2015	2017	2016	2015	2017	2016
+(in millions)
+Service cost	$	—	$	13	$	47	$	—	$	—	$	—	$	6	$	1
+Interest cost	36	40	40	1	1	1	11	3
+Expected return on assets	(70	)	(69	)	(72	)	—	—	—	(16	)	(4	)
+Amortization of:
+Prior service credit	—	(1	)	(7	)	(2	)	(3	)	(3	)	—	—
+Actuarial loss (gain)	15	7	1	(2	)	(2	)	(2	)	2	—
+Net benefit cost	$	(19	)	$	(10	)	$	9	$	(3	)	$	(4	)	$	(4	)	$	3	$	—
+Curtailment gain	—	(8	)	—	—	—	—	—	—
+Settlement loss	15	13	7	—	—	—	—	—
+Total net periodic benefit cost	$	(4	)	$	(5	)	$	16	$	(3	)	$	(4	)	$	(4	)	$	3	$	—
+
+
+(1)	For fiscal 2016, it represents Visa Europe's UK pension plans' net pension benefit cost recognized from the Closing through September 30, 2016.
+
+
+
+U.S. Plans	Non-U.S. Plans
+Pension Benefits	Other Postretirement Benefits	Pension Benefits
+2017	2016	2017	2016	2017	2016
+(in millions)
+Current year actuarial loss (gain)	$	(113	)	$	30	$	—	$	(2	)	$	(53	)	$	66
+Amortization of actuarial (loss) gain	(30	)	(20	)	2	2	(2	)	—
+Current year prior service credit	—	—	—	—	—	—
+Amortization of prior service credit	—	9	2	3	—	—
+Total recognized in other comprehensive income	$	(143	)	$	19	$	4	$	3	$	(55	)	$	66
+Total recognized in net periodic benefit cost and other comprehensive income	$	(147	)	$	14	$	1	$	(1	)	$	(52	)	$	66
+
+
+
+U.S. Plans	Non-U.S. Plans
+Fiscal
+2017	2016	2015	2017	2016
+Discount rate for benefit obligation:(1)
+Pension	3.84	%	3.62	%	4.33	%	2.70	%	2.40	%
+Postretirement	2.44	%	1.91	%	2.43	%	NA	NA
+Discount rate for net periodic benefit cost:
+Pension	3.62	%	4.33	%	4.27	%	2.40	%	3.10	%
+Postretirement	1.91	%	2.43	%	2.59	%	NA	NA
+Expected long-term rate of return on plan assets(2)	7.00	%	7.00	%	7.00	%	4.50	%	3.92	%
+Rate of increase in compensation levels for:(3)
+Benefit obligation	NA	NA	4.00	%	3.20	%	3.20	%
+Net periodic benefit cost	NA	NA	4.00	%	3.20	%	3.00	%
+
+
+(1)	Represents a single weighted-average discount rate derived based on a cash flow matching analysis, with the projected benefit payments matching spot rates from a yield curve developed from high-quality corporate bonds.
+
+
+(2)	Primarily based on the targeted allocation, and evaluated for reasonableness by considering such factors as: (i) actual return on plan assets; (ii) historical rates of return on various asset classes in the portfolio; (iii) projections of returns on various asset classes; and (iv) current and prospective capital market conditions and economic forecasts.
+
+
+(3)	This assumption is not applicable for the U.S. plans in fiscal 2017 and 2016 due to the amendment of the U.S. qualified defined benefit pension plan in October 2015, which discontinued the employer provided credits effective after December 31, 2015.
+
+
+
+U.S. Plans
+Fair Value Measurements at September 30,
+Level 1	Level 2	Level 3	Total
+2017	2016	2017	2016	2017	2016	2017	2016
+(in millions)
+Cash equivalents	$	31	$	39	$	31	$	39
+Collective investment funds	$	540	$	—	540	—
+Corporate debt securities	197	185	197	185
+U.S. government-sponsored debt securities	47	30	47	30
+U.S. Treasury securities	75	100	75	100
+Asset-backed securities	$	39	$	51	39	51
+Equity securities	145	672	145	672
+Total	$	251	$	811	$	784	$	215	$	39	$	51	$	1,074	$	1,077
+
+
+
+Non-U.S. Plans
+Fair Value Measurements at September 30,
+Level 1	Level 2	Level 3	Total
+2017	2016	2017	2016	2017	2016	2017	2016
+(in millions)
+Cash equivalents	$	1	$	105	$	1	$	105
+Corporate debt securities	$	39	$	39	39	39
+UK Treasury securities	150	52	150	52
+Asset-backed securities	$	32	$	29	32	29
+Equity securities	134	116	134	116
+Multi-asset securities (1)	77	74	77	74
+Total	$	285	$	273	$	116	$	113	$	32	$	29	$	433	$	415
+
+
+(1)	Multi-asset securities represent pension plan assets that are invested in funds comprised of broad ranges of assets.
+
+
+
+U.S. Plans	Non-U.S. Plans
+PensionBenefits	OtherPostretirementBenefits	Pension Benefits
+Actual employer contributions	(in millions)
+2017	$	9	$	3	$	5
+2016	$	1	$	3	$	102
+Expected employer contributions
+2018	$	1	$	2	$	5
+Expected benefit payments
+2018	$	161	$	2	$	5
+2019	$	83	$	2	$	5
+2020	$	82	$	2	$	5
+2021	$	80	$	1	$	5
+2022	$	75	$	1	$	5
+2023-2027	$	323	$	1	$	29
+
+
+
+September 30, 2017	September 30, 2016
+(in millions)
+Cash equivalents(1)	$	1,490	$	1,295
+Pledged securities at market value	167	170
+Letters of credit	1,316	1,311
+Guarantees	941	1,418
+Total	$	3,914	$	4,194
+
+
+(1)	Cash collateral held by Visa Europe is not included on the Company's consolidated balance sheet as its clients retain beneficial ownership and the cash is only accessible to the Company in the event of default by the client on its settlement obligations.
+
+
+
+September 30, 2017	September 30, 2016
+(in millions)
+United States	$	2,003	$	1,827
+International	250	323
+Total	$	2,253	$	2,150
+
+
+
+(in millions, except conversion rate)	SharesOutstanding	Conversion Rate Into Class A Common Stock	As-converted Class A Common Stock (1)
+UK&I preferred stock	2	13.0770	32
+Europe preferred stock	3	13.9480	44
+Class A common stock (2)	1,818	—	1,818
+Class B common stock	245	1.6483	(3)	405
+Class C common stock	13	4.0000	51
+Total	2,350
+
+
+(1)	Figures in the table may not recalculate exactly due to rounding. As-converted class A common stock is calculated based on unrounded numbers.
+
+
+(2)	Class A common stock shares outstanding reflect repurchases settled on or before September 30, 2017.
+
+
+(3)	The class B to class A common stock conversion rate is presented on a rounded basis. Conversion calculations for dividend payments are based on a conversion rate rounded to the tenth decimal.
+
+
+
+(in millions, except per share data)	2017	2016
+Shares repurchased in the open market(2)	77	91
+Average repurchase price per share(3)	$	89.98	$	77.05
+Total cost	$	6,891	$	6,987
+
+
+(1)	Shares repurchased in the open market reflect repurchases settled during fiscal 2017. These amounts include repurchases traded but not yet settled on or before September 30, 2016 for fiscal 2017 or September 30, 2015 for fiscal 2016 and exclude repurchases traded but not yet settled on or before September 30, 2017 for fiscal 2017 or September 30, 2016 for fiscal 2016.
+
+
+(2)	All shares repurchased in the open market have been retired and constitute authorized but unissued shares.
+
+
+(3)	Figures in the table may not recalculate exactly due to rounding. Average repurchase price per share is calculated based on unrounded numbers.
+
+
+
+UK&I Preferred Stock	Europe Preferred Stock
+(in millions, except per share and conversion rate data)	2017	2017
+Reduction in equivalent number of shares of class A common stock	2	—	(1)
+Effective price per share (2)	$	88.70	$	85.01
+Recovery through conversion rate adjustment	$	190	$	1
+
+
+(1)	The reduction in equivalent number of shares of class A common stock was less than one million shares.
+
+
+(2)	Effective price per share is calculated using the volume-weighted average price of the Company's class A common stock over a pricing period in accordance with the Company's current certificates of designations for its series B and C convertible participating preferred stock.
+
+
+
+Basic Earnings Per Share	Diluted Earnings Per Share
+(in millions, except per share data)
+IncomeAllocation(A) (2)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)	IncomeAllocation(A) (2)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)
+Class A common stock	$	5,170	1,845	$	2.80	$	6,699	2,395	(3)	$	2.80
+Class B common stock	1,134	245	$	4.62	$	1,132	245	$	4.61
+Class C common stock	163	14	$	11.21	$	162	14	$	11.19
+Participating securities(4)	232	Not presented	Not presented	$	232	Not presented	Not presented
+Net income	$	6,699
+
+
+
+Basic Earnings Per Share	Diluted Earnings Per Share
+(in millions, except per share data)
+IncomeAllocation(A) (2)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)	IncomeAllocation(A) (2)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)
+Class A common stock	$	4,738	1,906	$	2.49	$	5,991	2,414	(3)	$	2.48
+Class B common stock	1,006	245	$	4.10	$	1,004	245	$	4.09
+Class C common stock	185	19	$	9.94	$	185	19	$	9.93
+Participating securities(4)	62	Not presented	Not presented	$	61	Not presented	Not presented
+Net income	$	5,991
+
+
+
+Basic Earnings Per Share	Diluted Earnings Per Share
+(in millions, except per share data)
+IncomeAllocation(A) (2)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)	IncomeAllocation(A) (2)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)
+Class A common stock	$	5,044	1,954	$	2.58	$	6,328	2,457	(3)	$	2.58
+Class B common stock	1,045	245	$	4.26	$	1,042	245	$	4.25
+Class C common stock	224	22	$	10.33	$	223	22	$	10.30
+Participating securities(4)	15	Not presented	Not presented	$	15	Not presented	Not presented
+Net income	$	6,328
+
+
+(1)	Figures in the table may not recalculate exactly due to rounding. Earnings per share is calculated based on unrounded numbers. The number of shares and per share amounts for the prior periods presented have been retroactively adjusted to reflect the four-for-one stock split effected in the second quarter of fiscal 2015. See Note 13—Stockholders' Equity.
+
+
+(2)	Net income is allocated based on proportional ownership on an as-converted basis. The weighted-average number of shares of as-converted class B common stock used in the income allocation was 405 million for fiscal 2017, 2016 and 2015. The weighted-average number of shares of as-converted class C common stock used in the income allocation was 58 million, 75 million and 87 million for fiscal 2017, 2016 and 2015, respectively. The weighted-average number of shares of preferred stock, included within participating securities, was 33 million of as-converted UK&I preferred stock, and 44 million of as-converted Europe preferred stock for fiscal 2017.
+
+
+(3)	Weighted-average diluted shares outstanding are calculated on an as-converted basis, and include incremental common stock equivalents, as calculated under the treasury stock method. The computation includes 5 million common stock equivalents for fiscal 2017 and 2016 and 6 million common stock equivalents for fiscal 2015, because their effect would have been dilutive. The computation excludes 2 million of common stock equivalents for fiscal 2017, 2016 and 2015, because their effect would have been anti-dilutive.
+
+
+(4)	Participating securities include preferred stock outstanding and unvested share-based payment awards that contain non-forfeitable rights to dividends or dividend equivalents, such as the Company's UK&I and Europe preferred stock, restricted stock awards, restricted stock units and earned performance-based shares. UK&I and Europe preferred stock were issued as part of the purchase price consideration in connection
+
+
+
+2017	2016	2015
+Expected term (in years)(1)	4.23	4.35	4.55
+Risk-free rate of return(2)	1.6	%	1.5	%	1.5	%
+Expected volatility(3)	20.2	%	21.7	%	22.0	%
+Expected dividend yield(4)	0.8	%	0.7	%	0.8	%
+Fair value per option granted	$	13.90	$	15.01	$	12.04
+
+
+(1)	This assumption is based on the Company's historical option exercises and those of a set of peer companies that management believes is generally comparable to Visa. The Company's data is weighted based on the number of years between the measurement date and Visa's initial public offering as a percentage of the options' contractual term. The relative weighting placed on Visa's data and peer data in fiscal 2017 was approximately 87% and 13%, respectively, and 77% and 23% in fiscal 2016, respectively and 67% and 33% in fiscal 2015, respectively.
+
+
+(2)	Based upon the zero coupon U.S. treasury bond rate over the expected term of the awards.
+
+
+(3)	Based on the Company’s implied and historical volatility. The expected volatility was 20% in fiscal 2017 and ranged from 20% to 23% in fiscal 2016 and 21% to 23% in fiscal 2015.
+
+
+(4)	Based on the Company’s annual dividend rate on the date of grant.
+
+
+
+Options	Weighted-AverageExercise PricePer Share	Weighted-AverageRemainingContractualTerm(in years)	AggregateIntrinsicValue (1)(in millions)
+Outstanding at October 1, 2016	8,876,484	$	38.42
+Granted	1,671,344	$	80.82
+Forfeited	(386,136	)	$	75.01
+Exercised	(3,045,816	)	$	29.62
+Outstanding at September 30, 2017	7,115,876	$	50.17	5.4	$392
+Options exercisable at September 30, 2017	4,463,008	$	33.39	3.6	$321
+Options exercisable and expected to vest at September 30, 2017(2)	6,773,571	$	48.73	5.3	$383
+
+
+(1)	Calculated using the closing stock price on the last trading day of fiscal 2017 of $105.24, less the option exercise price, multiplied by the number of instruments.
+
+
+(2)	Applies a forfeiture rate to unvested options outstanding at September 30, 2017 to estimate the options expected to vest in the future.
+
+
+
+Restricted Stock	Weighted-AverageGrant DateFair Value	Weighted-AverageRemainingContractualTerm(in years)	AggregateIntrinsicValue (1)(in millions)
+Awards	Units	RSA	RSU	RSA	RSU	RSA	RSU
+Outstanding at October 1, 2016	1,766,582	3,146,954	$	59.26	$	75.48
+Granted	—	3,268,327	$	—	$	81.67
+Vested	(1,210,176	)	(1,299,187	)	$	57.37	$	72.20
+Forfeited	(90,399	)	(442,393	)	$	61.90	$	79.34
+Outstanding at September 30, 2017	466,007	4,673,701	$	63.37	$	80.37	0.2	1.6	$49	$492
+
+
+(1)	Calculated by multiplying the closing stock price on the last trading day of fiscal 2017 of $105.24 by the number of instruments.
+
+
+
+Shares	Weighted-AverageGrant DateFair Value	Weighted-AverageRemainingContractualTerm(in years)	AggregateIntrinsicValue (1)(in millions)
+Outstanding at October 1, 2016	1,042,012	$	78.24
+Granted(2)	634,651	$	86.37
+Vested and earned	(345,797	)	$	72.50
+Unearned	(97,531	)	$	72.50
+Forfeited	(295,660	)	$	85.13
+Outstanding at September 30, 2017	937,675	$	84.20	1.0	$98
+
+
+(1)	Calculated by multiplying the closing stock price on the last trading day of fiscal 2017 of $105.24 by the number of instruments.
+
+
+(2)	Represents the maximum number of performance-based shares which could be earned.
+
+
+
+2018	2019	2020	2021	2022	Thereafter	Total
+(in millions)
+Operating leases	$	155	$	119	$	68	$	64	$	57	$	163	$	626
+Marketing and sponsorships	124	123	112	40	33	—	432
+Total	$	279	$	242	$	180	$	104	$	90	$	163	$	1,058
+
+
+
+(in millions)	2018	2019	2020	2021	2022	Thereafter	Total
+Client incentives	$	5,049	$	4,654	$	4,117	$	3,658	$	3,102	$	5,080	$	25,660
+
+
+
+2017	2016	2015
+(in millions)
+U.S.	$	8,440	$	5,839	$	7,214
+Non-U.S.	3,254	2,173	1,781
+Total income before taxes	$	11,694	$	8,012	$	8,995
+
+
+
+2017	2016	2015
+(in millions)
+Current:
+U.S. federal	$	2,377	$	2,250	$	1,991
+State and local	291	181	168
+Non-U.S.	629	368	300
+Total current taxes	3,297	2,799	2,459
+Deferred:
+U.S. federal	1,607	(508	)	181
+State and local	66	(63	)	1
+Non-U.S.	25	(207	)	26
+Total deferred taxes	1,698	(778	)	208
+Total income tax provision	$	4,995	$	2,021	$	2,667
+
+
+
+2017	2016
+(in millions)
+Deferred Tax Assets:
+Accrued compensation and benefits	$	194	$	277
+Comprehensive loss	29	106
+Accrued litigation obligation	373	373
+Client incentives	272	266
+Net operating loss carryforwards	45	32
+Federal benefit of state taxes	236	195
+Federal benefit of foreign taxes	—	1,214
+Other	193	280
+Valuation allowance	(35	)	(31	)
+Deferred tax assets	1,307	2,712
+Deferred Tax Liabilities:
+Property, equipment and technology, net	(391	)	(278	)
+Intangible assets	(6,756	)	(7,013	)
+Foreign taxes	(59	)	(106	)
+Other	—	(101	)
+Deferred tax liabilities	(7,206	)	(7,498	)
+Net deferred tax liabilities	$	(5,899	)	$	(4,786	)
+
+
+
+For the Years Ended September 30,
+2017	2016	2015
+Dollars	Percent	Dollars	Percent	Dollars	Percent
+(in millions, except percentages)
+U.S. federal income tax at statutory rate	$	4,093	35	%	$	2,804	35	%	$	3,148	35	%
+State income taxes, net of federal benefit	200	2	%	135	2	%	194	2	%
+Non-U.S. tax effect, net of federal benefit	(641	)	(5	)%	(553	)	(7	)%	(327	)	(4	)%
+Reorganization of Visa Europe and other legal entities	1,515	13	%	—	—	%	—	—	%
+Remeasurement of deferred tax liability	—	—	%	(88	)	(1	)%	—	—	%
+Reversal of prior years tax reserves related to the resolution of uncertain tax positions	—	—	%	—	—	%	(239	)	(2	)%
+Revaluation of Visa Europe put option	—	—	%	(89	)	(1	)%	—	—	%
+Other, net	(172	)	(2	)%	(188	)	(3	)%	(109	)	(1	)%
+Income tax provision	$	4,995	43	%	$	2,021	25	%	$	2,667	30	%
+
+
+•	the aforementioned $1.5 billion non-recurring, non-cash income tax provision related to the legal entity reorganization recorded in fiscal 2017;
+
+
+•	$71 million tax benefit related to Visa Foundation's receipt of Visa Inc. shares mentioned above, recorded in fiscal 2017;
+
+
+•	$70 million of excess tax benefits related to share-based payments recorded in fiscal 2017, as a result of the early adoption of Accounting Standards Update 2016-09. See Note 1—Summary of Significant Accounting Policies; and
+
+
+•	the absence of:
+
+
+▪	the effect of one-time items related to the Visa Europe acquisition recorded during fiscal 2016, the most significant of which was the $1.9 billion U.S. loss related to the effective settlement of the Framework Agreement between Visa and Visa Europe. These one-time items impacted the geographic mix of global income, resulting in a reduced effective tax rate in fiscal 2016;
+
+
+▪	an $88 million one-time tax benefit due to the remeasurement of deferred tax liabilities as a result of the reduction in the UK tax rate enacted in fiscal 2016; and
+
+
+▪	the non-taxable $255 million revaluation of the Visa Europe put option recorded in fiscal 2016.
+
+
+•	the effect of one-time items related to the Visa Europe acquisition, as mentioned above, that impacted the geographic mix of global income resulting in a reduced effective tax rate in fiscal 2016;
+
+
+•	an $88 million one-time tax benefit due to the remeasurement of deferred tax liabilities as a result of the reduction in the UK tax rate enacted in fiscal 2016;
+
+
+•	the non-taxable $255 million revaluation of the Visa Europe put option recorded in fiscal 2016; and
+
+
+•	the absence of a $296 million tax benefit recognized in fiscal 2015 resulting from the resolution of uncertain tax positions with taxing authorities. Included in the $296 million was a one-time $239 million tax benefit that related to prior fiscal years.
+
+
+
+2017	2016
+(in millions)
+Beginning balance at October 1	$	1,160	$	1,051
+Increases of unrecognized tax benefits related to prior years	56	153
+Decreases of unrecognized tax benefits related to prior years	(59	)	(180	)
+Increases of unrecognized tax benefits related to current year	197	138
+Reductions related to lapsing statute of limitations	(1	)	(2	)
+Ending balance at September 30	$	1,353	$	1,160
+
+
+
+Fiscal 2017	Fiscal 2016
+(in millions)
+Balance at October 1	$	981	$	1,024
+Provision for uncovered legal matters	19	2
+Accrual for VE territory covered litigation	186	2
+Payments on legal matters	(204	)	(47	)
+Balance at September 30	$	982	$	981
+
+
+
+Fiscal 2017	Fiscal 2016
+(in millions)
+Balance at October 1	$	978	$	1,023
+Payments on U.S. covered litigation	—	(45	)
+Balance at September 30	$	978	$	978
+
+
+
+Fiscal 2017	Fiscal 2016
+(in millions)
+Balance at October 1	$	2	$	—
+Accrual for VE territory covered litigation	186	2
+Payments on VE territory covered litigation	(187	)	—
+Balance at September 30	$	1	$	2
+
+
+
+Quarter Ended (unaudited)	Fiscal Year
+Visa Inc.	September 30,2017	June 30,2017	March 31,2017 (1)	December 31,2016	2017 Total
+(in millions, except per share data)
+Operating revenues	$	4,855	$	4,565	$	4,477	$	4,461	$	18,358
+Operating income	$	3,212	$	3,024	$	2,808	$	3,100	$	12,144
+Net income	$	2,140	$	2,059	$	430	$	2,070	$	6,699
+Basic earnings per share
+Class A common stock	$	0.91	$	0.87	$	0.18	$	0.86	$	2.80
+Class B common stock	$	1.49	$	1.43	$	0.30	$	1.41	$	4.62
+Class C common stock	$	3.62	$	3.46	$	0.72	$	3.43	$	11.21
+Diluted earnings per share
+Class A common stock	$	0.90	$	0.86	$	0.18	$	0.86	$	2.80
+Class B common stock	$	1.49	$	1.42	$	0.29	$	1.41	$	4.61
+Class C common stock	$	3.61	$	3.45	$	0.72	$	3.42	$	11.19
+
+
+
+Quarter Ended (unaudited)	Fiscal Year
+Visa Inc.	September 30,2016 (1)	June 30,2016 (1),(2)	March 31,2016 (1)	December 31,2015 (1)	2016 Total
+(in millions, except per share data)
+Operating revenues	$	4,261	$	3,630	$	3,626	$	3,565	$	15,082
+Operating income	$	2,625	$	428	$	2,434	$	2,396	$	7,883
+Net income	$	1,931	$	412	$	1,707	$	1,941	$	5,991
+Basic earnings per share
+Class A common stock	$	0.79	$	0.17	$	0.71	$	0.80	$	2.49
+Class B common stock	$	1.31	$	0.29	$	1.17	$	1.32	$	4.10
+Class C common stock	$	3.17	$	0.69	$	2.85	$	3.20	$	9.94
+Diluted earnings per share
+Class A common stock	$	0.79	$	0.17	$	0.71	$	0.80	$	2.48
+Class B common stock	$	1.30	$	0.28	$	1.17	$	1.32	$	4.09
+Class C common stock	$	3.16	$	0.69	$	2.84	$	3.20	$	9.93
+
+
+(1)	The Company's unaudited consolidated statement of operations include the impact of several significant one-time items. See Overview within Item 7—Management's Discussion and Analysis of Financial Condition and Results of Operations of this report.
+
+
+(2)	The Company did not include Visa Europe's financial results in the Company's unaudited consolidated financial statements of operations from the acquisition date, June 21, 2016, through June 30, 2016 as the impact was immaterial. The dilutive impact of the outstanding shares of series B and C convertible participating preferred stock from June 21, 2016 through June 30, 2016 was also not included in the calculation of basic or diluted earnings per share as the effect was immaterial. See Note 2—Visa Europe and Note 14—Earnings Per Share to the consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this report.
+
+
+ITEM 9.	Changes in and Disagreements with Accountants on Accounting and Financial Disclosures
+
+
+ITEM 9A.	Controls and Procedures
+
+
+ITEM 9B.	Other Information
+
+
+ITEM 10.	Directors, Executive Officers and Corporate Governance
+
+
+ITEM 11.	Executive Compensation
+
+
+ITEM 12.	Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+
+ITEM 13.	Certain Relationships and Related Transactions, and Director Independence
+
+
+ITEM 14.	Principal Accountant Fees and Services
+
+
+ITEM 15.	Exhibits and Financial Statement Schedules
+
+
+1.	Consolidated Financial Statements
+
+
+2.	Consolidated Financial Statement Schedules
+
+
+3.	The following exhibits are filed as part of this report or, where indicated, were previously filed and are hereby incorporated by reference:
+
+
+
+VISA INC.
+
+By:	/s/ Alfred F. Kelly,Jr.
+Name:	Alfred F. Kelly, Jr.
+Title:	Chief Executive Officer
+Date:	November 16, 2017
+
+
+
+Signature	Title	Date
+
+/s/ Alfred F. Kelly, Jr.	Chief Executive Officer and Director	November 16, 2017
+Alfred F. Kelly, Jr.	(Principal Executive Officer)
+
+/s/ Vasant M. Prabhu	Chief Financial Officer	November 16, 2017
+Vasant M. Prabhu	(Principal Financial Officer)
+
+/s/ James H. Hoffmeister	Global Corporate Controller and	November 16, 2017
+James H. Hoffmeister	Chief Accounting Officer
+(Principal Accounting Officer)
+
+/s/ Robert W. Matschullat	Independent Chair	November 16, 2017
+Robert W. Matschullat
+
+/s/ Lloyd A. Carney	Director	November 16, 2017
+Lloyd A. Carney
+
+/s/ Mary B. Cranston	Director	November 16, 2017
+Mary B. Cranston
+
+/s/ Francisco Javier Fernández-Carbajal	Director	November 16, 2017
+Francisco Javier Fernández-Carbajal
+
+/s/ Gary A. Hoffman	Director	November 16, 2017
+Gary A. Hoffman
+
+/s/ John F. Lundgren	Director	November 16, 2017
+John F. Lundgren
+
+/s/ Suzanne Nora Johnson	Director	November 16, 2017
+Suzanne Nora Johnson
+
+/s/ John A. C. Swainson	Director	November 16, 2017
+John A. C. Swainson
+
+/s/ Maynard G. Webb, Jr.	Director	November 16, 2017
+Maynard G. Webb, Jr.
+
+
+
+Incorporated by Reference
+Exhibit	Exhibit	File	Exhibit	Filing
+Number	Description	Form	Number	Number	Date
+
+2.1	Amended and Restated Transaction Agreement, dated as of May 10, 2016, between Visa Inc. and Visa Europe Limited #	8-K	001-33977	2.1	5/10/2016
+
+3.1	Sixth Amended and Restated Certificate of Incorporation of Visa Inc.	8-K	001-33977	3.2	1/29/2015
+
+3.2	Certificate of Correction of the Certificate of Incorporation of Visa Inc.	8-K	001-33977	3.1	2/27/2015
+
+3.3	Amended and Restated Bylaws of Visa Inc.	10-K	001-33977	3.3	11/20/2015
+
+4.1	Form of stock certificate of Visa Inc.	S-4/A	333-143966	4.1	9/13/2007
+
+4.2	Form of specimen certificate for class B common stock of Visa Inc.	8-A	000-53572	4.1	1/28/2009
+
+4.3	Form of specimen certificate for class C common stock of Visa Inc.	8-A	000-53572	4.2	1/28/2009
+
+4.5	Indenture dated December 14, 2015 between Visa Inc. and U.S. Bank National Association	8-K	001-33977	4.1	12/14/2015
+
+4.6	Form of 2.200% Senior Note due 2020	8-K	001-33977	4.3	12/14/2015
+
+4.7	Form of 2.150% Senior Note due 2022	8-K	001-33977	4.1	9/11/2017
+
+4.8	Form of 2.800% Senior Note due 2022	8-K	001-33977	4.4	12/14/2015
+
+4.9	Form of 3.150% Senior Note due 2025	8-K	001-33977	4.5	12/14/2015
+
+4.1	Form of 2.750% Senior Note due 2027	8-K	001-33977	4.2	9/11/2017
+
+4.11	Form of 4.150% Senior Note due 2035	8-K	001-33977	4.6	12/14/2015
+
+4.12	Form of 4.300% Senior Note due 2045	8-K	001-33977	4.7	12/14/2015
+
+4.13	Form of 3.650% Senior Note due 2047	8-K	001-33977	4.3	9/11/2017
+
+4.14	Certificate of Designations of Series A Convertible Participating Preferred Stock of Visa Inc.	8-K	001-33977	3.1	6/21/2016
+
+4.15	Certificate of Designations of Series B Convertible Participating Preferred Stock of Visa Inc.	8-K	001-33977	3.2	6/21/2016
+
+4.16	Certificate of Designations of Series C Convertible Participating Preferred Stock of Visa Inc.	8-K	001-33977	3.3	6/21/2016
+
+10.1	Form of Indemnity Agreement	8-K	001-33977	10.1	10/25/2012
+
+
+
+
+10.2	Amended and Restated Global Restructuring Agreement, dated August 24, 2007, by and among Visa Inc., Visa International Service Association, Visa U.S.A. Inc., Visa Europe Limited, Visa Canada Association, Inovant LLC, Inovant, Inc., Visa Europe Services, Inc., Visa International Transition LLC, VI Merger Sub, Inc., Visa USA Merger Sub Inc. and 1734313 Ontario Inc.	S-4/A	333-143966	Annex A	9/13/2007
+
+10.3	Form of Escrow Agreement by and among Visa Inc., Visa U.S.A. Inc. and the escrow agent	S-4	333-143966	10.15	6/22/2007
+
+10.4	Form of Framework Agreement by and among Visa Inc., Visa Europe Limited, Inovant LLC, Visa International Services Association and Visa U.S.A. Inc. †	S-4/A	333-143966	10.17	7/24/2007
+
+10.5	Five Year Revolving Credit Agreement, amended and restated as of January 27, 2017, by and among Visa Inc., Visa International Service Association, Visa U.S.A. Inc., as borrowers, Bank of America, N.A., as administrative agent, JPMorgan Chase Bank N.A., as syndication agent, and the lenders referred to therein #	10-Q	001-33977	10.1	4/21/2017
+
+10.6	Form of Interchange Judgment Sharing Agreement by and among Visa International Service Association and Visa U.S.A. Inc., and the other parties thereto †	S-4/A	333-143966	10.13	7/24/2007
+
+10.7	Interchange Judgment Sharing Agreement Schedule	8-K	001-33977	10.2	2/8/2011
+
+10.8	Amendment of Interchange Judgment Sharing Agreement	10-K	001-33977	10.10	11/20/2015
+
+10.9	Form of Loss Sharing Agreement by and among Visa U.S.A. Inc., Visa International Service Association, Visa Inc. and various financial institutions	S-4/A	333-143966	10.14	7/24/2007
+
+10.10	Loss Sharing Agreement Schedule	8-K	001-33977	10.1	2/8/2011
+
+10.11	Amendment of Loss Sharing Agreement	10-K	001-33977	10.13	11/20/2015
+
+10.12	Form of Litigation Management Agreement by and among Visa Inc., Visa International Service Association, Visa U.S.A. Inc. and the other parties thereto	S-4/A	333-143966	10.18	8/22/2007
+
+10.13	Omnibus Agreement, dated February 7, 2011, regarding Interchange Litigation Judgment Sharing and Settlement Sharing by and among Visa Inc., Visa U.S.A. Inc., Visa International Service Association, MasterCard Incorporated, MasterCard International Incorporated and the parties thereto	8-K	001-33977	10.2	7/16/2012
+
+
+
+
+10.14	Amendment, dated August 26, 2014, to the Omnibus Agreement regarding Interchange Litigation Judgment Sharing and Settlement Sharing by and among Visa Inc., Visa U.S.A. Inc., Visa International Service Association, MasterCard Incorporated, MasterCard International Incorporated and the parties thereto	10-K	001-33977	10.14	11/21/2014
+
+10.15	Second Amendment, dated October 22, 2015, to Omnibus Agreement regarding Interchange Litigation Judgment Sharing and Settlement Sharing	10-K	001-33977	10.17	11/20/2015
+
+10.16	Settlement Agreement, dated October 19, 2012, by and among Visa Inc., Visa U.S.A. Inc., Visa International Service Association, MasterCard Incorporated, MasterCard International Incorporated, various U.S. financial institution defendants, and the class plaintiffs to resolve the class plaintiffs' claims in the matter styled In re Payment Card Interchange Fee and Merchant Discount Antitrust Litigation, No. 05-MD-1720	10-Q	001-33977	10.3	2/6/2013
+
+10.17	Loss Sharing Agreement, dated as of November 2, 2015, among the UK Members listed on Schedule 1 thereto, Visa Inc. and Visa Europe Limited	8-K	001-33977	10.1	11/2/2015
+
+10.18	Litigation Management Deed, dated as of June 21, 2016, by and among the VE Member Representative, Visa Inc., the LMC Appointing Members, the UK&I DCC Appointing Members, the Europe DCC Appointing Members and the UK&I DCC Interested Members	8-K	001-33977	10.1	6/21/2016
+
+10.19*	Visa 2005 Deferred Compensation Plan, effective as of August 12, 2015	10-K	001-33977	10.21	11/20/2015
+
+10.20*	Visa Directors Deferred Compensation Plan, as amended and restated as of July 22, 2014	10-K	001-33977	10.17	11/21/2014
+
+10.21*	Visa Inc. 2007 Equity Incentive Compensation Plan, as amended and restated as of February 3, 2016	DEFA 14A	001-33977	Annex A	1/12/2016
+
+10.22*	Visa Inc. Incentive Plan, as amended and restated as of February 3, 2016	DEF 14A	001-33977	Annex B	12/11/2015
+
+10.23*	Visa Excess Thrift Plan, as amended and restated as of January 1, 2008	10-K	001-33977	10.31	11/21/2008
+
+10.24*	Visa Excess Retirement Benefit Plan, as amended and restated as of January 1, 2008	10-K	001-33977	10.32	11/21/2008
+
+10.25*	First Amendment, effective January 1, 2011, of the Visa Excess Retirement Benefit Plan, as amended and restated as of January 1, 2008	10-K	001-33977	10.34	11/18/2011
+
+10.26*	Visa Inc. Executive Severance Plan, effective as of November 3, 2010	8-K	001-33977	10.1	11/9/2010
+
+
+
+
+10.27*	Visa Inc. 2015 Employee Stock Purchase Plan	DEF 14A	001-33977	Appendix B	12/12/2014
+
+10.28*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for awards granted after November 18, 2013	10-Q	001-33977	10.1	1/30/2014
+
+10.29*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Award Agreement for awards granted after November 18, 2013	10-Q	001-33977	10.2	1/30/2014
+
+10.30*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Unit Award Agreement for awards granted after November 18, 2013	10-Q	001-33977	10.3	1/30/2014
+
+10.31*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Performance Share Award Agreement for awards granted after November 18, 2013	10-Q	001-33977	10.4	1/30/2014
+
+10.32*	Form of Alternate Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for awards granted after November 18, 2013	10-Q	001-33977	10.5	1/30/2014
+
+10.33*	Form of Alternate Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Award Agreement for awards granted after November 18, 2013	10-Q	001-33977	10.6	1/30/2014
+
+10.34*	Form of Alternate Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Unit Award Agreement for awards granted after November 18, 2013	10-Q	001-33977	10.7	1/30/2014
+
+10.35*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Director Restricted Stock Unit Award Agreement for awards granted after November 18, 2013	10-Q	001-33977	10.8	1/30/2014
+
+10.36*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Director Restricted Stock Unit Award Agreement for awards granted after November 1, 2014	10-K	001-33977	10.40	11/21/2014
+
+10.37*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for awards granted after November 1, 2014	10-K	001-33977	10.41	11/21/2014
+
+10.38*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Award Agreement for awards granted after November 1, 2014	10-K	001-33977	10.42	11/21/2014
+
+10.39*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Unit Award Agreement for awards granted after November 1, 2014	10-K	001-33977	10.43	11/21/2014
+
+
+
+
+10.40*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Performance Share Award Agreement for awards granted after November 1, 2014	10-K	001-33977	10.44	11/21/2014
+
+10.41*	Form of Alternate Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for awards granted after November 1, 2014	10-K	001-33977	10.45	11/21/2014
+
+10.42*	Form of Alternate Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Award Agreement for awards granted after November 1, 2014	10-K	001-33977	10.46	11/21/2014
+
+10.43*	Form of Alternate Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Unit Award Agreement for awards granted after November 1, 2014	10-K	001-33977	10.47	11/21/2014
+
+10.44*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for awards granted after November 1, 2015	10-Q	001-33977	10.1	1/28/2016
+
+10.45*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Unit Award Agreement for awards granted after November 1, 2015	10-Q	001-33977	10.2	1/28/2016
+
+10.46*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Performance Share Award Agreement for awards granted after November 1, 2015	10-Q	001-33977	10.3	1/28/2016
+
+10.47*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Unit Award Agreement for the CEO, for the Make-Whole Award.	10-K	001-33977	10.52	11/15/2016
+
+10.48*	Form of Letter Agreement relating to Visa Inc. Executive Severance Plan	8-K	001-33977	10.2	11/9/2010
+
+10.49*	Aircraft Time Sharing Agreement, dated November 7, 2012, between Visa Inc. and Charles W. Scharf	8-K	001-33977	10.1	11/9/2012
+
+10.50*	Amendment No. 1 to the Aircraft Time Sharing Agreement, effective December 13, 2013, between Visa Inc. and Charles W. Scharf	10-K	001-33977	10.51	11/21/2014
+
+10.51*	Offer Letter, dated October 17, 2016, between Visa Inc. and Alfred F. Kelly, Jr.	8-K	001-33977	99.1	10/21/2016
+
+10.52*	Aircraft Time Sharing Agreement, dated November 9, 2016, between Visa Inc. and Alfred F. Kelly, Jr.	10-K	001-33977	10.59	11/15/2016
+
+10.53*	Offer Letter and One-Time Cash AwardAgreement, dated January 27, 2015, betweenVisa Inc. and Vasant M. Prabhu	8-K	001-33977	99.2	2/2/2015
+
+
+
+
+12.1+	Statement of Computation of Ratio of Earnings to Fixed Charges
+
+21.1+	List of Significant Subsidiaries of Visa Inc.
+
+23.1+	Consent of KPMG LLP, Independent Registered Public Accounting Firm
+
+31.1+	Certification of the Chief Executive Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+31.2+	Certification of the Chief Financial Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+32.1+	Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+32.2+	Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+101.INS	XBRL Instance Document
+
+101.SCH	XBRL Taxonomy Extension Schema Document
+
+101.CAL	XBRL Taxonomy Extension Calculation Linkbase Document
+
+101.DEF	XBRL Taxonomy Extension Definition Linkbase Document
+
+101.LAB	XBRL Taxonomy Extension Label Linkbase Document
+
+101.PRE	XBRL Taxonomy Extension Presentation Linkbase Document
+
+
+
+†	Confidential treatment has been requested for portions of this agreement. A completed copy of the agreement, including the redacted portions, has been filed separately with the SEC.
+
+
+*	Management contract, compensatory plan or arrangement.
+
+
++	Filed or furnished herewith.
+
+
+#	Schedules have been omitted pursuant to Item 601(b)(2) of Regulation S-K. A copy of any omitted schedule will be furnished supplementally to the SEC upon request; provided, however, that the parties may request confidential treatment pursuant to Rule 24b-2 of the Exchange Act for any document so furnished.
+

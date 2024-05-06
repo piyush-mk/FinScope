@@ -1,0 +1,1433 @@
+Text Content:
+
+
+Tables:
+
+☑	ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+☐	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+Delaware	26-0267673
+(State or other jurisdictionof incorporation or organization)	(IRS EmployerIdentification No.)
+
+P.O. Box 8999	94128-8999
+San Francisco,	California
+(Address of principal executive offices)	(Zip Code)
+
+
+Title of each class	Trading Symbol	Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share	V	New York Stock Exchange
+
+
+
+Large accelerated filer	☑	Accelerated filer	☐
+Non-accelerated filer	☐	Smaller reporting company	☐
+Emerging growth company	☐
+
+
+
+Page
+PART I
+Item 1	Business	4
+Item 1A	Risk Factors	19
+Item 1B	Unresolved Staff Comments	33
+Item 2	Properties	33
+Item 3	Legal Proceedings	33
+Item 4	Mine Safety Disclosures	33
+
+PART II
+Item 5	Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities	34
+Item 6	Selected Financial Data	36
+Item 7	Management’s Discussion and Analysis of Financial Condition and Results of Operations	37
+Item 7A	Quantitative and Qualitative Disclosures About Market Risk	52
+Item 8	Financial Statements and Supplementary Data	54
+Item 9	Changes in and Disagreements with Accountants on Accounting and Financial Disclosure	112
+Item 9A	Controls and Procedures	112
+Item 9B	Other Information	112
+
+PART III
+Item 10	Directors, Executive Officers and Corporate Governance	113
+Item 11	Executive Compensation	113
+Item 12	Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters	113
+Item 13	Certain Relationships and Related Transactions, and Director Independence	113
+Item 14	Principal Accounting Fees and Services	113
+
+PART IV
+Item 15	Exhibits, Financial Statement Schedules	114
+
+
+
+(1) The SRC payment icon is available for use in connection with implementations of the EMV® Secure Remote Commerce Specification.
+
+
+
+(2) Actual fund availability varies by receiving financial institution, receiving account type, region and whether the transaction is domestic or cross-border.
+
+
+Visa	Mastercard	American Express	JCB	Diners Club
+Payments Volume ($B)	8,941	4,767	1,225	313	179
+Total Volume ($B)	11,757	6,468	1,241	320	194
+Total Transactions (B)	207	122	9	4	3
+Cards (M)	3,454	2,172	114	140	66
+
+
+Period	Total Number ofShares Purchased	Average Purchase Priceper Share	Total Number ofShares Purchased As Part of PubliclyAnnounced Plans orPrograms(1),(2)	Approximate Dollar Value of Shares ThatMay Yet Be Purchased Under The Plans orPrograms(1),(2)
+(in millions, except per share data)
+July 1-31, 2020	2	$	192.83	2	$	6,646
+August 1-31, 2020	2	$	195.97	2	$	6,153
+September 1-30, 2020	4	$	201.33	4	$	5,389
+Total	8	$	197.73	8
+
+
+Plan Category	(a)Number Of Sharesof Class A Common Stock Issuable Upon Exercise ofOutstanding Options And Rights	Weighted-Average Exercise Price ofOutstanding Options	Number of Shares ofClass ACommon StockRemaining Available forFuture Issuance UnderEquity CompensationPlans (Excluding Shares Reflected In Column (a))
+(in millions, except per weighted-average exercise price)
+Equity compensation plans approved by stockholders	12	(1)	$	114.61	(2)	155	(3)
+
+
+For the Years Ended September 30,
+2020	2019	2018	2017	2016
+(in millions, except per share data)
+Statement of Operations:
+Net revenues	$	21,846	$	22,977	$	20,609	$	18,358	$	15,082
+Operating expenses	$	7,765	$	7,976	$	7,655	$	6,214	$	7,199	(1)
+Operating income	$	14,081	$	15,001	$	12,954	$	12,144	$	7,883
+Net income	$	10,866	(2)	$	12,080	$	10,301	(3)	$	6,699	(4)	$	5,991
+Basic earnings per share—class A common stock	$	4.90	$	5.32	$	4.43	$	2.80	$	2.49
+Diluted earnings per share—class A common stock	$	4.89	$	5.32	$	4.42	$	2.80	$	2.48
+
+
+September 30,
+2020	2019	2018	2017	2016
+(in millions, except per share data)
+Balance Sheet:
+Total assets	$	80,919	$	72,574	$	69,225	$	67,977	$	64,035
+Accrued litigation	$	914	$	1,203	(5)	$	1,434	(5)	$	982	$	981
+Long-term debt	$	21,071	(6)	$	16,729	$	16,630	$	16,618	(6)	$	15,882	(6)
+Total equity	$	36,210	$	34,684	$	34,006	$	32,760	$	32,912
+Dividend declared and paid per common share	$	1.200	$	1.000	$	0.825	$	0.660	$	0.560
+
+
+For the Years EndedSeptember 30,	% Change(1)
+2020	2019	2018	2020vs.2019	2019vs.2018
+(in millions, except percentages and per share data)
+Net income, as reported	$	10,866	$	12,080	$	10,301	(10)	%	17	%
+Diluted earnings per share, as reported	$	4.89	$	5.32	$	4.42	(8)	%	20	%
+
+Non-GAAP net income(2)	$	11,193	$	12,274	$	10,656	(9)	%	15	%
+Non-GAAP diluted earnings per share(2)	$	5.04	$	5.40	$	4.58	(7)	%	18	%
+
+
+For the Year Ended September 30, 2020
+Operating Expenses	Non-operating Income (Expense)	Income Tax Provision	Effective Income Tax Rate(1)	Net Income	Diluted Earnings Per Share(1)
+(in millions, except percentages and per share data)
+As reported	$	7,765	$	(291)	$	2,924	21.2	%	$	10,866	$	4.89
+(Gains) Losses on equity investments, net	—	(101)	(23)	(78)	(0.04)
+Amortization of acquired intangible assets	(46)	—	11	35	0.02
+Acquisition-related costs	(17)	—	4	13	0.01
+Remeasurement of deferred tax balances	—	—	(329)	329	0.15
+Resolution of a tax item	—	—	(28)	28	0.01
+Non-GAAP	$	7,702	$	(392)	$	2,559	18.6	%	$	11,193	$	5.04
+
+
+
+For the Year Ended September 30, 2019
+Operating Expenses	Non-operating Income (Expense)	Income Tax Provision	Effective Income Tax Rate(1)	Net Income	Diluted Earnings Per Share(1)
+(in millions, except percentages and per share data)
+As reported	$	7,976	$	(117)	$	2,804	18.8	%	$	12,080	$	5.32
+(Gains) Losses on equity investments, net	—	(131)	(30)	(101)	(0.04)
+Amortization of acquired intangible assets	(6)	—	1	5	—
+Acquisition-related costs	(4)	—	1	3	—
+Litigation provision	(370)	—	83	287	0.13
+Non-GAAP	$	7,596	$	(248)	$	2,859	18.9	%	$	12,274	$	5.40
+
+
+
+For the Year EndedSeptember 30, 2018
+Operating Expenses	Non-operating Income (Expense)	Income Tax Provision	Effective Income Tax Rate(1)	Net Income	Diluted Earnings Per Share(1)
+(in millions, except percentages and per share data)
+As reported	$	7,655	$	(148)	$	2,505	19.6	%	$	10,301	$	4.42
+(Gains) Losses on equity investments, net	—	(98)	(25)	(73)	(0.03)
+Charitable contribution	(195)	(193)	51	(49)	(0.02)
+Litigation provision	(600)	—	137	463	0.20
+Remeasurement of deferred tax balances	—	—	1,133	(1,133)	(0.49)
+Transition tax on foreign earnings	—	—	(1,147)	1,147	0.49
+Non-GAAP	$	6,860	$	(439)	$	2,654	20.3	%	$	10,656	$	4.58
+
+
+
+U.S.	International	Visa Inc.
+12 months ended June 30,(1)	12 monthsended June 30,(1)	12 monthsended June 30,(1)
+2020	2019	%Change(2)	2020	2019	%Change(2)	2020	2019	%Change(2)
+(in billions, except percentages)
+Nominal payments volume
+Consumer credit	$	1,518	$	1,540	(1)	%	$	2,361	$	2,484	(5)	%	$	3,879	$	4,025	(4)	%
+Consumer debit(3)	1,851	1,699	9	%	1,974	1,877	5	%	3,824	3,576	7	%
+Commercial(4)	641	634	1	%	369	381	(3)	%	1,010	1,015	—	%
+Total nominal payments volume(2)	$	4,009	$	3,873	4	%	$	4,704	$	4,742	(1)	%	$	8,713	$	8,615	1	%
+Cash volume	573	573	—	%	2,046	2,261	(9)	%	2,620	2,834	(8)	%
+Total nominal volume(2),(5)	$	4,583	$	4,447	3	%	$	6,750	$	7,003	(4)	%	$	11,333	$	11,450	(1)	%
+
+
+U.S.	International	Visa Inc.
+12 monthsended June 30,(1)	12 monthsended June 30,(1)	12 months ended June 30,(1)
+2019	2018	%Change(2)	2019	2018	%Change(2)	2019	2018	%Change(2)
+(in billions, except percentages)
+Nominal payments volume
+Consumer credit	$	1,540	$	1,441	7	%	$	2,484	$	2,455	1	%	$	4,025	$	3,897	3	%
+Consumer debit(3)	1,699	1,521	12	%	1,877	1,792	5	%	3,576	3,313	8	%
+Commercial(4)	634	564	12	%	381	364	5	%	1,015	927	9	%
+Total nominal payments volume(2)	$	3,873	$	3,526	10	%	$	4,742	$	4,611	3	%	$	8,615	$	8,137	6	%
+Cash volume	573	563	2	%	2,261	2,437	(7)	%	2,834	3,000	(6)	%
+Total nominal volume(2),(5)	$	4,447	$	4,089	9	%	$	7,003	$	7,048	(1)	%	$	11,450	$	11,137	3	%
+
+
+International	Visa Inc.
+12 months endedJune 30,2020 vs 2019(1)	12 months endedJune 30,2019 vs 2018(1)	12 months endedJune 30,2020 vs 2019(1)	12 months endedJune 30,2019 vs 2018(1)
+Nominal	Constant(6)	Nominal	Constant(6)	Nominal	Constant(6)	Nominal	Constant(6)
+Payments volume growth
+Consumer credit growth	(5)	%	(2)	%	1	%	8	%	(4)	%	(2)	%	3	%	7	%
+Consumer debit growth(3)	5	%	9	%	5	%	11	%	7	%	9	%	8	%	11	%
+Commercial growth(4)	(3)	%	—	%	5	%	13	%	—	%	1	%	9	%	12	%
+Total payments volume growth(2)	(1)	%	2	%	3	%	9	%	1	%	3	%	6	%	10	%
+Cash volume growth	(9)	%	(6)	%	(7)	%	—	%	(8)	%	(5)	%	(6)	%	—	%
+Total volume growth(2)	(4)	%	(1)	%	(1)	%	6	%	(1)	%	1	%	3	%	7	%
+
+
+For the Years EndedSeptember 30,	% Change(1)
+2020	2019	2018	2020 vs. 2019	2019 vs. 2018
+(in millions, except percentages)
+Visa processed transactions	140,839	138,329	124,320	2	%	11	%
+
+
+For the Years EndedSeptember 30,	$ Change	% Change(1)
+2020	2019	2018	2020vs.2019	2019vs.2018	2020vs.2019	2019vs.2018
+(in millions, except percentages)
+U.S.	$	10,125	$	10,279	$	9,332	$	(154)	$	947	(1)	%	10	%
+International	11,721	12,698	11,277	(977)	1,421	(8)	%	13	%
+Net revenues	$	21,846	$	22,977	$	20,609	$	(1,131)	$	2,368	(5)	%	11	%
+
+
+For the Years EndedSeptember 30,	$ Change	% Change(1)
+2020	2019	2018	2020vs.2019	2019vs.2018	2020vs.2019	2019vs.2018
+(in millions, except percentages)
+Service revenues	$	9,804	$	9,700	$	8,918	$	104	$	782	1	%	9	%
+Data processing revenues	10,975	10,333	9,027	642	1,306	6	%	14	%
+International transaction revenues	6,299	7,804	7,211	(1,505)	593	(19)	%	8	%
+Other revenues	1,432	1,313	944	119	369	9	%	39	%
+Client incentives	(6,664)	(6,173)	(5,491)	(491)	(682)	8	%	12	%
+Net revenues	$	21,846	$	22,977	$	20,609	$	(1,131)	$	2,368	(5)	%	11	%
+
+
+For the Years EndedSeptember 30,	$ Change	% Change(1)
+2020	2019	2018	2020vs.2019	2019vs.2018	2020vs.2019	2019vs.2018
+(in millions, except percentages)
+Personnel	$	3,785	$	3,444	$	3,170	$	341	$	274	10	%	9	%
+Marketing	971	1,105	988	(134)	117	(12)	%	12	%
+Network and processing	727	721	686	6	35	1	%	5	%
+Professional fees	408	454	446	(46)	8	(10)	%	2	%
+Depreciation and amortization	767	656	613	111	43	17	%	7	%
+General and administrative	1,096	1,196	1,145	(100)	51	(8)	%	4	%
+Litigation provision	11	400	607	(389)	(207)	(97)	%	(34)	%
+Total operating expenses(2)	$	7,765	$	7,976	$	7,655	$	(211)	$	321	(3)	%	4	%
+
+
+For the Years EndedSeptember 30,	$ Change	% Change(1)
+2020	2019	2018	2020vs.2019	2019vs.2018	2020vs.2019	2019vs.2018
+(in millions, except percentages)
+Interest expense, net	$	(516)	$	(533)	$	(612)	$	17	$	79	(3)	%	(13)	%
+Investment income and other	225	416	464	(191)	(48)	(46)	%	(10)	%
+Total non-operating income (expense)	$	(291)	$	(117)	$	(148)	$	(174)	$	31	148	%	(20)	%
+
+
+For the Years EndedSeptember 30,	Change
+2020	2019	2018	2020vs.2019	2019vs.2018
+Effective income tax rate	21	%	19	%	20	%	2	%	(1)	%
+
+
+For the Years EndedSeptember 30,
+2020	2019	2018
+(in millions)
+Total cash provided by (used in):
+Operating activities	$	10,440	$	12,784	$	12,941
+Investing activities	1,427	(591)	(3,084)
+Financing activities	(3,968)	(12,061)	(10,790)
+Effect of exchange rate changes on cash, cash equivalents, restricted cash and restricted cash equivalents	440	(277)	(101)
+Increase (decrease) in cash, cash equivalents, restricted cash and restricted cash equivalents	$	8,339	$	(145)	$	(1,034)
+
+
+Standard and Poor’s	Moody’s
+Debt type	Rating	Outlook	Rating	Outlook
+Short-term unsecured debt	A-1+	Stable	P-1	Stable
+Long-term unsecured debt	AA-	Stable	Aa3	Stable
+
+
+Payments Due by Period
+Less than1 Year	1-3Years	3-5Years	More than5 Years	Total
+(in millions)
+Debt(1)	$	3,643	$	4,411	$	1,046	$	23,754	$	32,854
+Purchase obligations(2)	1,541	746	413	712	3,412
+Leases(3)	108	216	209	554	1,087
+
+Transition tax(4)	86	162	369	264	881
+Dividends(5)	703	—	—	—	703
+
+Total(6),(7),(8)	$	6,081	$	5,535	$	2,037	$	25,284	$	38,937
+
+
+
+Page
+As of September 30, 2020 and 2019 and for the years ended September 30, 2020, 2019 and 2018
+
+Report of Independent Registered Public Accounting Firm	55
+Consolidated Balance Sheets	58
+Consolidated Statements of Operations	59
+Consolidated Statements of Comprehensive Income	60
+Consolidated Statements of Changes in Equity	61
+Consolidated Statements of Cash Flows	64
+Notes to the Consolidated Financial Statements	65
+
+
+September 30,
+2020	2019
+(in millions, except par value data)
+Assets
+Cash and cash equivalents	$	16,289	$	7,838
+Restricted cash equivalents—U.S. litigation escrow	901	1,205
+Investment securities	3,752	4,236
+
+
+Settlement receivable	1,264	3,048
+Accounts receivable	1,618	1,542
+Customer collateral	1,850	1,648
+Current portion of client incentives	1,214	741
+Prepaid expenses and other current assets	757	712
+Total current assets	27,645	20,970
+Investment securities	231	2,157
+Client incentives	3,175	2,084
+Property, equipment and technology, net	2,737	2,695
+Goodwill	15,910	15,656
+Intangible assets, net	27,808	26,780
+Other assets	3,413	2,232
+Total assets	$	80,919	$	72,574
+Liabilities
+Accounts payable	$	174	$	156
+Settlement payable	1,736	3,990
+Customer collateral	1,850	1,648
+Accrued compensation and benefits	821	796
+Client incentives	4,176	3,997
+Accrued liabilities	1,840	1,625
+
+Current maturities of debt	2,999	—
+Accrued litigation	914	1,203
+Total current liabilities	14,510	13,415
+Long-term debt	21,071	16,729
+Deferred tax liabilities	5,237	4,807
+
+Other liabilities	3,891	2,939
+Total liabilities	44,709	37,890
+Commitments and contingencies (Note 18)
+Equity
+Preferred stock, $0.0001 par value, 25 shares authorized and 5 shares issued and outstanding as follows:
+Series A convertible participating preferred stock, less than one and no shares issued and outstanding at September 30, 2020 and 2019 (the “series A preferred stock”), respectively	2,437	—
+Series B convertible participating preferred stock, 2 shares issued and outstanding at September 30, 2020 and 2019 (the “UK&I preferred stock”)	1,106	2,285
+Series C convertible participating preferred stock, 3 shares issued and outstanding at September 30, 2020 and 2019 (the “Europe preferred stock”)	1,543	3,177
+Class A common stock, $0.0001 par value, 2,001,622 shares authorized, 1,683 and 1,718 shares issued and outstanding at September 30, 2020 and 2019, respectively	—	—
+Class B common stock, $0.0001 par value, 622 shares authorized, 245 shares issued and outstanding at September 30, 2020 and 2019	—	—
+Class C common stock, $0.0001 par value, 1,097 shares authorized, 11 shares issued and outstanding at September 30, 2020 and 2019	—	—
+
+Right to recover for covered losses	(39)	(171)
+Additional paid-in capital	16,721	16,541
+Accumulated income	14,088	13,502
+Accumulated other comprehensive income (loss), net:
+Investment securities	3	6
+Defined benefit pension and other postretirement plans	(196)	(192)
+Derivative instruments	(291)	199
+Foreign currency translation adjustments	838	(663)
+Total accumulated other comprehensive income (loss), net	354	(650)
+Total equity	36,210	34,684
+Total liabilities and equity	$	80,919	$	72,574
+
+
+For the Years EndedSeptember 30,
+2020	2019	2018
+(in millions, except per share data)
+
+
+
+
+
+
+Net revenues	$	21,846	$	22,977	$	20,609
+
+Operating Expenses
+Personnel	3,785	3,444	3,170
+Marketing	971	1,105	988
+Network and processing	727	721	686
+Professional fees	408	454	446
+Depreciation and amortization	767	656	613
+General and administrative	1,096	1,196	1,145
+Litigation provision	11	400	607
+
+Total operating expenses	7,765	7,976	7,655
+Operating income	14,081	15,001	12,954
+
+Non-operating Income (Expense)
+Interest expense, net	(516)	(533)	(612)
+Investment income and other	225	416	464
+Total non-operating income (expense)	(291)	(117)	(148)
+Income before income taxes	13,790	14,884	12,806
+Income tax provision	2,924	2,804	2,505
+Net income	$	10,866	$	12,080	$	10,301
+
+Basic Earnings Per Share
+Class A common stock	$	4.90	$	5.32	$	4.43
+Class B common stock	$	7.94	$	8.68	$	7.28
+Class C common stock	$	19.58	$	21.30	$	17.72
+
+Basic Weighted-average Shares Outstanding
+Class A common stock	1,697	1,742	1,792
+Class B common stock	245	245	245
+Class C common stock	11	12	12
+
+Diluted Earnings Per Share
+Class A common stock	$	4.89	$	5.32	$	4.42
+Class B common stock	$	7.93	$	8.66	$	7.27
+Class C common stock	$	19.56	$	21.26	$	17.69
+
+Diluted Weighted-average Shares Outstanding
+Class A common stock	2,223	2,272	2,329
+Class B common stock	245	245	245
+Class C common stock	11	12	12
+
+
+For the Years EndedSeptember 30,
+2020	2019	2018
+(in millions)
+Net income	$	10,866	$	12,080	$	10,301
+Other comprehensive income (loss), net of tax:
+Investment securities:
+Net unrealized gain (loss)	1	20	94
+Income tax effect	—	(5)	(19)
+Reclassification adjustments	(3)	1	(215)
+Income tax effect	1	—	50
+Defined benefit pension and other postretirement plans:
+Net unrealized actuarial gain (loss) and prior service credit (cost)	(7)	(174)	16
+Income tax effect	1	36	(5)
+Reclassification adjustments	18	9	5
+Income tax effect	(3)	(2)	(1)
+Derivative instruments:
+Net unrealized gain (loss)	(547)	233	90
+Income tax effect	119	(25)	(24)
+Reclassification adjustments	(81)	(85)	32
+Income tax effect	19	16	(2)
+Foreign currency translation adjustments	1,511	(1,228)	(352)
+Other comprehensive income (loss), net of tax	1,029	(1,204)	(331)
+Comprehensive income	$	11,895	$	10,876	$	9,970
+
+
+Preferred Stock	Common Stock	Preferred Stock	Right to Recover for Covered Losses	AdditionalPaid-In Capital	AccumulatedIncome	AccumulatedOtherComprehensiveIncome (Loss), Net	TotalEquity
+Series B	Series C	Class A	Class B	Class C
+(in millions, except per share data)
+Balance as of September 30, 2017	2	3	1,818	245	13	$	5,526	$	(52)	$	16,900	$	9,508	$	878	$	32,760
+Net income	10,301	10,301
+Other comprehensive income (loss), net of tax	(331)	(331)
+Comprehensive income	9,970
+VE territory covered losses incurred	(11)	(11)
+Recovery through conversion rate adjustment	(56)	56	—
+Conversion of class C common stock upon sales into public market	4	(1)	—
+
+
+Vesting of restricted stock and performance-based shares	2	—
+Share-based compensation, net of forfeitures	—	(1)	327	327
+Restricted stock and performance-based shares settled in cash for taxes	(1)	(94)	(94)
+Cash proceeds from issuance of common stock under employee equity plans	3	164	164
+Cash dividends declared and paid, at a quarterly amount of $0.195 per class A common stock in the first quarter and $0.210 per class A common stock for the rest of the fiscal year	(1,918)	(1,918)
+Repurchase of class A common stock	(58)	(619)	(6,573)	(7,192)
+Balance as of September 30, 2018	2	3	1,768	245	12	$	5,470	$	(7)	$	16,678	$	11,318	$	547	$	34,006
+
+
+Preferred Stock	Common Stock	Preferred Stock	Right to Recover for Covered Losses	AdditionalPaid-In Capital	AccumulatedIncome	AccumulatedOtherComprehensive Income (Loss), Net	TotalEquity
+Series B	Series C	Class A	Class B	Class C
+(in millions, except per share data)
+Balance as of September 30, 2018	2	3	1,768	245	12	$	5,470	$	(7)	$	16,678	$	11,318	$	547	$	34,006
+Net income	12,080	12,080
+Other comprehensive income (loss), net of tax	(1,204)	(1,204)
+Comprehensive income	10,876
+Adoption of new accounting standards	385	7	392
+VE territory covered losses incurred	(172)	(172)
+Recovery through conversion rate adjustment	(8)	8	—
+
+
+Conversion of class C common stock upon sales into public market	2	(1)	—
+Vesting of restricted stock and performance-based shares	3	—
+Share-based compensation, net of forfeitures	407	407
+Restricted stock and performance-based shares settled in cash for taxes	(1)	(111)	(111)
+Cash proceeds from issuance of common stock under employee equity plans	2	162	162
+Cash dividends declared and paid, at a quarterly amount of $0.25 per class A common stock	(2,269)	(2,269)
+Repurchase of class A common stock	(56)	(595)	(8,012)	(8,607)
+Balance as of September 30, 2019	2	3	1,718	245	11	$	5,462	$	(171)	$	16,541	$	13,502	$	(650)	$	34,684
+
+
+Preferred Stock	Common Stock	Preferred Stock	Right to Recover for Covered Losses	AdditionalPaid-In Capital	AccumulatedIncome	AccumulatedOtherComprehensive Income (Loss), Net	TotalEquity
+Series A	Series B	Series C	Class A	Class B	Class C
+(in millions, except per share data)
+Balance as of September 30, 2019	—	2	3	1,718	245	11	$	5,462	$	(171)	$	16,541	$	13,502	$	(650)	$	34,684
+Net income	10,866	10,866
+Other comprehensive income (loss), net of tax	1,029	1,029
+Comprehensive income	11,895
+Adoption of new accounting standards	25	(25)	—
+VE territory covered losses incurred	(37)	(37)
+Recovery through conversion rate adjustment	(164)	169	5
+
+Issuance of series A preferred stock	—	(1)	(5)	(5)
+Conversion of series A preferred stock upon sales into public market	—	(1)	3	(207)	207	—
+Conversion of class C common stock upon sales into public market	3	—	(1)	—
+Vesting of restricted stock and performance-based shares	3	—
+Share-based compensation, net of forfeitures	416	416
+Restricted stock and performance-based shares settled in cash for taxes	(1)	(160)	(160)
+Cash proceeds from issuance of common stock under employee equity plans	1	190	190
+Cash dividends declared and paid, at a quarterly amount of $0.30 per class A common stock	(2,664)	(2,664)
+Repurchase of class A common stock	(44)	(473)	(7,641)	(8,114)
+Balance as of September 30, 2020	—	(1)	2	3	1,683	245	11	$	5,086	$	(39)	$	16,721	$	14,088	$	354	$	36,210
+
+
+For the Years EndedSeptember 30,
+2020	2019	2018
+(in millions)
+Operating Activities
+Net income	$	10,866	$	12,080	$	10,301
+Adjustments to reconcile net income to net cash provided by (used in) operating activities:
+Client incentives	6,664	6,173	5,491
+
+Share-based compensation	416	407	327
+
+Depreciation and amortization of property, equipment, technology and intangible assets	767	656	613
+Deferred income taxes	307	214	(1,277)
+VE territory covered losses incurred	(37)	(172)	(11)
+
+Other	(145)	(271)	(64)
+Change in operating assets and liabilities:
+Settlement receivable	1,858	(1,533)	(223)
+Accounts receivable	(43)	(333)	(70)
+Client incentives	(8,081)	(6,430)	(4,682)
+Other assets	(402)	(310)	59
+Accounts payable	21	(24)	3
+Settlement payable	(2,384)	1,931	262
+Accrued and other liabilities	923	627	1,760
+Accrued litigation	(290)	(231)	452
+Net cash provided by (used in) operating activities	10,440	12,784	12,941
+Investing Activities
+Purchases of property, equipment and technology	(736)	(756)	(718)
+
+Investment securities:
+Purchases	(2,075)	(2,653)	(5,772)
+Proceeds from maturities and sales	4,510	3,996	3,636
+Acquisitions, net of cash and restricted cash acquired	(77)	(699)	(196)
+Purchases of / contributions to other investments	(267)	(501)	(50)
+
+Other investing activities	72	22	16
+Net cash provided by (used in) investing activities	1,427	(591)	(3,084)
+Financing Activities
+Repurchase of class A common stock	(8,114)	(8,607)	(7,192)
+Proceeds from issuance of senior notes	7,212	—	—
+Repayments of debt	—	—	(1,750)
+
+Dividends paid	(2,664)	(2,269)	(1,918)
+Payment of deferred purchase consideration related to the Visa Europe acquisition	—	(1,236)	—
+
+
+
+Cash proceeds from issuance of common stock under employee equity plans	190	162	164
+Restricted stock and performance-based shares settled in cash for taxes	(160)	(111)	(94)
+Payments to settle derivative instruments	(333)	—	—
+Other financing activities	(99)	—	—
+Net cash provided by (used in) financing activities	(3,968)	(12,061)	(10,790)
+Effect of exchange rate changes on cash, cash equivalents, restricted cash and restricted cash equivalents	440	(277)	(101)
+Increase (decrease) in cash, cash equivalents, restricted cash and restricted cash equivalents	8,339	(145)	(1,034)
+Cash, cash equivalents, restricted cash and restricted cash equivalents at beginning of year	10,832	10,977	12,011
+Cash, cash equivalents, restricted cash and restricted cash equivalents at end of year	$	19,171	$	10,832	$	10,977
+Supplemental Disclosure
+
+
+Cash paid for income taxes, net	$	2,671	$	2,648	$	2,285
+Interest payments on debt	$	537	$	537	$	545
+Charitable contribution of investment securities to Visa Foundation	$	—	$	—	$	195
+Accruals related to purchases of property, equipment and technology	$	38	$	95	$	77
+
+
+
+Purchase Price Allocation
+(in millions)
+Net tangible assets acquired (liabilities assumed)	$	23
+Intangible assets	319
+Goodwill	647
+Total(1)	$	989
+
+
+Acquisition Date Fair Value	Weighted-Average Useful Life
+(in millions)	(in years)
+Developed technologies	$	70	4
+Customer relationships	249	12
+Total	$	319	10
+
+
+For the Years EndedSeptember 30,
+2020	2019	2018
+(in millions)
+Service revenues	$	9,804	$	9,700	$	8,918
+Data processing revenues	10,975	10,333	9,027
+International transaction revenues	6,299	7,804	7,211
+Other revenues	1,432	1,313	944
+Client incentives	(6,664)	(6,173)	(5,491)
+Net revenues	$	21,846	$	22,977	$	20,609
+
+
+For the Years EndedSeptember 30,
+2020	2019	2018
+(in millions)
+U.S.	$	10,125	$	10,279	$	9,332
+International	11,721	12,698	11,277
+Net revenues	$	21,846	$	22,977	$	20,609
+
+
+September 30,
+2020	2019	2018
+(in millions)
+Cash and cash equivalents	$	16,289	$	7,838	$	8,162
+Restricted cash and restricted cash equivalents:
+U.S. litigation escrow	901	1,205	1,491
+Customer collateral	1,850	1,648	1,324
+Prepaid expenses and other current assets	131	141	—
+Cash, cash equivalents, restricted cash and restricted cash equivalents	$	19,171	$	10,832	$	10,977
+
+
+2020	2019
+(in millions)
+Balance at beginning of period	$	1,205	$	1,491
+Return of takedown payment to the litigation escrow account	467	—
+Deposits into the litigation escrow account	—	300
+Payments to class plaintiffs’ settlement fund(1)	—	(600)
+Payments to opt-out merchants(1) and interest earned on escrow funds	(771)	14
+Balance at end of period	$	901	$	1,205
+
+
+Preferred Stock	Right to Recover for Covered Losses
+UK&I	Europe
+(in millions)
+Balance as of September 30, 2019	$	2,285	$	3,177	$	(171)
+VE territory covered losses incurred(1)	—	—	(37)
+Recovery through conversion rate adjustment(2)	(72)	(92)	169
+Fourth anniversary release	(1,107)	(1,542)	—
+Balance as of September 30, 2020	$	1,106	$	1,543	$	(39)
+
+
+September 30,
+2020	2019
+As-converted Value of Preferred Stock(1),(2)	Book Value of Preferred Stock(1)	As-converted Value of Preferred Stock(1),(3)	Book Value of Preferred Stock(1)
+(in millions)
+UK&I preferred stock	$	3,168	$	1,106	$	5,519	$	2,285
+Europe preferred stock	4,331	1,543	7,539	3,177
+Total	7,499	2,649	13,058	5,462
+Less: right to recover for covered losses	(39)	(39)	(171)	(171)
+Total recovery for covered losses available	$	7,460	$	2,610	$	12,887	$	5,291
+
+
+Fair Value Measurements at September 30Using Inputs Considered as
+Level 1	Level 2
+2020	2019	2020	2019
+(in millions)
+Assets
+Cash equivalents and restricted cash equivalents:
+Money market funds	$	12,522	$	6,494	$	—	$	—
+U.S. government-sponsored debt securities	—	—	1,469	150
+U.S. Treasury securities	650	—	—	—
+Investment securities:
+Marketable equity securities	148	126	—	—
+U.S. government-sponsored debt securities	—	—	2,582	5,592
+U.S. Treasury securities	1,253	675	—	—
+
+
+
+Other current and non-current assets:
+Derivative instruments	—	—	512	437
+
+
+Total	$	14,573	$	7,295	$	4,563	$	6,179
+Liabilities
+Accrued compensation and benefits:
+Deferred compensation liability	$	135	$	113	$	—	$	—
+Accrued and other liabilities:
+Derivative instruments	—	—	181	52
+
+
+Total	$	135	$	113	$	181	$	52
+
+
+September 30,
+2020	2019
+AmortizedCost	Gross Unrealized	FairValue	AmortizedCost	Gross Unrealized	FairValue
+Gains	Losses	Gains	Losses
+(in millions)
+U.S. government-sponsored debt securities	$	2,581	$	1	$	—	$	2,582	$	5,590	$	4	$	(2)	$	5,592
+U.S. Treasury securities	1,251	2	—	1,253	672	3	—	675
+Total	$	3,832	$	3	$	—	$	3,835	$	6,262	$	7	$	(2)	$	6,267
+Less: current portion	$	(3,604)	$	(4,110)
+Long-term debt securities	$	231	$	2,157
+
+
+September 30,2020
+(in millions)
+Due within one year	$	3,604
+Due after 1 year through 5 years	231
+Total	$	3,835
+
+
+September 30,2020
+(in millions)
+Initial cost basis	$	841
+Adjustments:
+Upward adjustments	212
+Downward adjustments (including impairment)	(11)
+Carrying amount, end of period	$	1,042
+
+
+For the Years EndedSeptember 30,
+2020	2019	2018
+(in millions)
+Interest and dividend income on cash and investments	$	80	$	247	$	173
+Realized gains (losses), net on debt securities	4	1	—
+Equity securities:
+Unrealized gains (losses), net	115	117	2
+Realized gains (losses), net from donation	—	—	193
+Realized gains (losses), net	1	18	102
+
+Investment income	$	200	$	383	$	470
+
+
+September 30,
+2020	2019
+(in millions)
+Land	$	71	$	71
+Buildings and building improvements	1,007	965
+Furniture, equipment and leasehold improvements	1,997	1,913
+Construction-in-progress	163	180
+Technology	3,923	3,441
+Total property, equipment and technology	7,161	6,570
+Accumulated depreciation and amortization	(4,424)	(3,875)
+Property, equipment and technology, net	$	2,737	$	2,695
+
+
+For the Years Ending September 30,
+2021	2022	2023	2024	2025	Thereafter	Total
+(in millions)
+Estimated future amortization expense	$	419	$	313	$	225	$	142	$	62	$	24	$	1,185
+
+
+September 30,
+2020	2019
+Gross	AccumulatedAmortization	Net	Gross	AccumulatedAmortization	Net
+(in millions)
+Finite-lived intangible assets:
+Customer relationships	$	709	$	(376)	$	333	$	701	$	(314)	$	387
+Trade names	199	(134)	65	199	(120)	79
+Reseller relationships	95	(89)	6	95	(86)	9
+Other	17	(14)	3	17	(13)	4
+Total finite-lived intangible assets	1,020	(613)	407	1,012	(533)	479
+Indefinite-lived intangible assets:
+Customer relationships and reacquired rights	23,317	—	23,317	22,217	—	22,217
+Visa trade name	4,084	—	4,084	4,084	—	4,084
+Total indefinite-lived intangible assets	27,401	—	27,401	26,301	—	26,301
+Total intangible assets	$	28,421	$	(613)	$	27,808	$	27,313	$	(533)	$	26,780
+
+
+For the Years Ending September 30,
+2021	2022	2023	2024	2025	Thereafter	Total
+(in millions)
+Estimated future amortization expense	$	81	$	76	$	52	$	50	$	40	$	108	$	407
+
+
+2020	2019
+(in millions)
+Goodwill, beginning of period	$	15,656	$	15,194
+Goodwill from acquisitions, net of adjustments	48	643
+Foreign currency translation	206	(181)
+Goodwill, end of period	$	15,910	$	15,656
+
+
+September 30,2020
+(in millions)
+2021	$	108
+2022	103
+2023	95
+2024	82
+2025	70
+Thereafter	163
+Total undiscounted lease payments	621
+Less: imputed interest	(51)
+Present value of lease liabilities	$	570
+
+
+September 30,
+2020	2019	Effective Interest Rate(1)
+(in millions, except percentages)
+2.20% Senior Notes due December 2020	$	3,000	$	3,000	2.30	%
+2.15% Senior Notes due September 2022	1,000	1,000	2.30	%
+2.80% Senior Notes due December 2022	2,250	2,250	2.89	%
+3.15% Senior Notes due December 2025	4,000	4,000	3.26	%
+1.90% Senior Notes due April 2027	1,500	—	2.02	%
+0.75% Senior Notes due August 2027	500	—	0.84	%
+2.75% Senior Notes due September 2027	750	750	2.91	%
+2.05% Senior Notes due April 2030	1,500	—	2.13	%
+1.10% Senior Notes due February 2031	1,000	—	1.20	%
+4.15% Senior Notes due December 2035	1,500	1,500	4.23	%
+2.70% Senior Notes due April 2040	1,000	—	2.80	%
+4.30% Senior Notes due December 2045	3,500	3,500	4.37	%
+3.65% Senior Notes due September 2047	750	750	3.73	%
+2.00% Senior Notes due August 2050	1,750	—	2.09	%
+Total debt	24,000	16,750
+Unamortized discounts and debt issuance costs	(178)	(108)
+Hedge accounting fair value adjustments(2)	248	87
+Total carrying value of debt	$	24,070	$	16,729
+
+Reported as:
+Current maturities of debt	$	2,999	$	—
+Long-term debt	21,071	16,729
+Total carrying value of debt	$	24,070	$	16,729
+
+
+For the Years Ending September 30,
+2021	2022	2023	2024	2025	Thereafter	Total
+(in millions)
+Future principal payments	$	3,000	$	1,000	$	2,250	$	—	$	—	$	17,750	$	24,000
+
+
+U.S. Plans	Non-U.S. Plans
+September 30,	September 30,
+2020	2019	2020	2019
+(in millions)
+Change in pension benefit obligation:
+Benefit obligation at beginning of period	$	919	$	844	$	528	$	452
+Service cost	—	—	4	4
+Interest cost	28	32	10	13
+Actuarial loss (gain)	37	95	11	109
+Benefit payments	(64)	(52)	(17)	(22)
+Plan amendment	—	—	—	1
+Foreign currency exchange rate changes	—	—	27	(29)
+Benefit obligation at end of period	$	920	$	919	$	563	$	528
+Accumulated benefit obligation	$	920	$	919	$	563	$	528
+Change in plan assets:
+Fair value of plan assets at beginning of period	$	1,090	$	1,090	$	490	$	436
+Actual return on plan assets	114	52	5	93
+Company contribution	2	—	22	10
+Benefit payments	(64)	(52)	(17)	(22)
+Foreign currency exchange rate changes	—	—	25	(27)
+Fair value of plan assets at end of period	$	1,142	$	1,090	$	525	$	490
+Funded status at end of period	$	222	$	171	$	(38)	$	(38)
+Recognized in consolidated balance sheets:
+Non-current asset	$	229	$	178	$	—	$	—
+Current liability	(1)	(1)	—	—
+Non-current liability	(6)	(6)	(38)	(38)
+Funded status at end of period	$	222	$	171	$	(38)	$	(38)
+
+
+
+U.S. Plans	Non-U.S. Plans
+September 30,	September 30,
+2020	2019	2020	2019
+(in millions)
+Net actuarial loss	$	135	$	154	$	93	$	70
+
+
+
+
+U.S. Plans	Non-U.S. Plans
+September 30,	September 30,
+2020	2019	2020	2019
+(in millions)
+Accumulated benefit obligation in excess of plan assets
+Accumulated benefit obligation at end of period	$	(7)	$	(7)	$	(563)	$	(528)
+Fair value of plan assets at end of period	$	—	$	—	$	525	$	490
+Projected benefit obligation in excess of plan assets
+Benefit obligation at end of period	$	(7)	$	(7)	$	(563)	$	(528)
+Fair value of plan assets at end of period	$	—	$	—	$	525	$	490
+
+
+U.S. Plans	Non-U.S. Plans
+For the Years Ended September 30,
+2020	2019	2018	2020	2019	2018
+(in millions)
+Service cost	$	—	$	—	$	—	$	4	$	4	$	4
+Interest cost	28	32	32	10	13	12
+Expected return on assets	(72)	(71)	(70)	(15)	(18)	(20)
+
+Amortization of actuarial loss	6	—	—	2	—	—
+
+Settlement loss	8	7	3	—	—	—
+Total net periodic benefit cost	$	(30)	$	(32)	$	(35)	$	1	$	(1)	$	(4)
+
+
+U.S. Plans	Non-U.S. Plans
+For the Years Ended September 30,
+2020	2019	2018	2020	2019	2018
+(in millions)
+Current year actuarial loss (gain)	$	(5)	$	114	$	(47)	$	21	$	27	$	30
+Amortization of actuarial (loss) gain	(14)	(7)	(3)	(2)	—	—
+Current year prior service cost	—	—	—	—	1	—
+
+Total recognized in other comprehensive income (loss)	$	(19)	$	107	$	(50)	$	19	$	28	$	30
+Total recognized in net periodic benefit cost and other comprehensive income (loss)	$	(49)	$	75	$	(85)	$	20	$	27	$	26
+
+
+U.S. Plans	Non-U.S. Plans
+For the Years Ended September 30,
+2020	2019	2018	2020	2019	2018
+Discount rate for benefit obligation:
+Pension	2.88	%	3.26	%	4.23	%	1.60	%	1.80	%	2.90	%
+Discount rate for net periodic benefit cost:
+Pension	3.27	%	4.23	%	3.84	%	1.80	%	2.90	%	2.70	%
+Expected long-term rate of return on plan assets	7.00	%	7.00	%	7.00	%	3.00	%	3.00	%	4.25	%
+Rate of increase(1) in compensation levels for:
+Benefit obligation	NA	NA	NA	2.50	%	2.50	%	3.20	%
+Net periodic benefit cost	NA	NA	NA	2.50	%	2.50	%	3.20	%
+
+
+U.S. Plans
+Fair Value Measurements at September 30 Using Inputs Considered as
+Level 1	Level 2	Level 3	Total
+2020	2019	2020	2019	2020	2019	2020	2019
+(in millions)
+Cash equivalents	$	17	$	18	$	—	$	—	$	—	$	—	$	17	$	18
+Collective investment funds	—	—	509	580	—	—	509	580
+Corporate debt securities	—	—	373	188	—	—	373	188
+U.S. government-sponsored debt securities	—	—	30	35	—	—	30	35
+U.S. Treasury securities	84	99	—	—	—	—	84	99
+Asset-backed securities	—	—	—	—	37	37	37	37
+Equity securities	92	133	—	—	—	—	92	133
+Total	$	193	$	250	$	912	$	803	$	37	$	37	$	1,142	$	1,090
+
+
+
+Non-U.S. Plans
+Fair Value Measurements at September 30 Using Inputs Considered as
+Level 1	Level 2	Level 3	Total
+2020	2019	2020	2019	2020	2019	2020	2019
+(in millions)
+Cash and cash equivalents	$	6	$	16	$	—	$	—	$	—	$	—	$	6	$	16
+Equity securities	—	66	—	—	—	—	—	66
+Corporate debt securities	—	—	48	44	—	—	48	44
+Asset-backed securities	—	—	—	—	67	51	67	51
+Equity funds	—	—	65	—	—	—	65	—
+Multi-asset securities(1)	—	—	339	313	—	—	339	313
+Total	$	6	$	82	$	452	$	357	$	67	$	51	$	525	$	490
+
+
+
+U.S. Plans	Non-U.S. Plans
+(in millions)
+Expected employer contributions
+2021	$	1	$	10
+Expected benefit payments
+2021	130	7
+2022	93	7
+2023	89	8
+2024	80	8
+2025	74	8
+2026-2030	289	43
+
+
+September 30,
+2020	2019
+(in millions)
+Restricted cash and restricted cash equivalents	$	1,850	$	1,648
+Pledged securities at market value	228	259
+Letters of credit	1,306	1,293
+Guarantees	717	477
+Total	$	4,101	$	3,677
+
+
+September 30,
+2020	2019(1)
+(in millions)
+U.S.	$	1,350	$	1,186
+International	558	263
+Total	$	1,908	$	1,449
+
+
+September 30,
+2020	2019
+SharesOutstanding	Conversion Rate Into Class A Common Stock	As-converted Class A Common Stock(1)	SharesOutstanding	Conversion Rate Into Class A Common Stock	As-converted Class A Common Stock(1)
+(in millions, except conversion rate)
+Series A preferred stock	—	(2)	100.0000	35	—	—	—
+UK&I preferred stock	2	6.3870	16	2	12.9360	32
+Europe preferred stock	3	6.8610	22	3	13.8840	44
+Class A common stock(3)	1,683	—	1,683	1,718	—	1,718
+Class B common stock	245	1.6228	(4)	398	245	1.6228	(4)	398
+Class C common stock	11	4.0000	43	11	4.0000	45
+Total	2,197	2,237
+
+
+For the Years Ended September 30,
+2020	2019	2018
+UK&I	Europe	UK&I	Europe	UK&I	Europe
+(in millions, except per share data)
+
+Reduction in equivalent number of as-converted shares of class A common stock	16	22	—	(1)	—	(1)	—	(1)	—	(1)
+Effective price per share(2)	$	194.31	$	194.33	$	141.32	$	150.26	$	113.05	$	112.92
+Recovery through conversion rate adjustment	$	72	$	92	$	6	$	2	$	35	$	21
+Fourth anniversary release	$	3,084	$	4,216	$	—	$	—	$	—	$	—
+
+
+For the Years Ended September 30,
+
+2020	2019	2018
+(in millions, except per share data)
+Reduction in equivalent number of as-converted shares of class A common stock	—	2	5
+Effective price per share(1)	$	—	$	174.73	$	132.32
+Deposits under the U.S. retrospective responsibility plan	$	—	$	300	$	600
+
+
+For the Years Ended September 30,
+2020	2019	2018
+(in millions, except per share data)
+Shares repurchased in the open market(1)	44	56	58
+Average repurchase price per share(2)	$	183.00	$	154.01	$	123.76
+Total cost	$	8,114	$	8,607	$	7,192
+
+
+Basic Earnings Per Share	Diluted Earnings Per Share
+IncomeAllocation(A)(1)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)(2)	IncomeAllocation(A)(1)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)(2)
+(in millions, except per share data)
+Class A common stock	$	8,310	1,697	$	4.90	$	10,866	2,223	(3)	$	4.89
+Class B common stock	1,951	245	$	7.94	1,948	245	$	7.93
+Class C common stock	214	11	$	19.58	214	11	$	19.56
+Participating securities(4)	391	Not presented	Not presented	391	Not presented	Not presented
+Net income	$	10,866
+
+
+Basic Earnings Per Share	Diluted Earnings Per Share
+IncomeAllocation(A)(1)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)(2)	IncomeAllocation(A)(1)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)(2)
+(in millions, except per share data)
+Class A common stock	$	9,273	1,742	$	5.32	$	12,080	2,272	(3)	$	5.32
+Class B common stock	2,130	245	$	8.68	2,127	245	$	8.66
+Class C common stock	247	12	$	21.30	246	12	$	21.26
+Participating securities(4)	430	Not presented	Not presented	429	Not presented	Not presented
+Net income	$	12,080
+
+
+Basic Earnings Per Share	Diluted Earnings Per Share
+IncomeAllocation(A)(1)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)(2)	IncomeAllocation(A)(1)	Weighted-AverageSharesOutstanding (B)	Earnings perShare =(A)/(B)(2)
+(in millions, except per share data)
+Class A common stock	$	7,937	1,792	$	4.43	$	10,301	2,329	(3)	$	4.42
+Class B common stock	1,787	245	$	7.28	1,785	245	$	7.27
+Class C common stock	218	12	$	17.72	217	12	$	17.69
+Participating securities(4)	359	Not presented	Not presented	358	Not presented	Not presented
+Net income	$	10,301
+
+
+For the Years Ended September 30,
+2020	2019	2018
+Expected term (in years)(1)	4.03	3.98	4.00
+Risk-free rate of return(2)	1.6	%	2.9	%	2.0	%
+Expected volatility(3)	18.7	%	20.2	%	18.3	%
+Expected dividend yield(4)	0.7	%	0.7	%	0.7	%
+Fair value per option granted	$	29.37	$	25.89	$	18.24
+
+
+Options	Weighted-AverageExercise PricePer Share	Weighted-AverageRemainingContractualTerm(in years)	AggregateIntrinsicValue(1)(in millions)
+Outstanding at September 30, 2019	5,714,658	$	90.18
+Granted	1,247,982	$	182.50
+Forfeited	(67,193)	$	140.17
+Expired	—	$	—
+Exercised	(1,108,898)	$	63.53
+Outstanding at September 30, 2020	5,786,549	$	114.61	6.87	$	494
+Options exercisable at September 30, 2020	3,425,611	$	87.28	5.79	$	386
+Options exercisable and expected to vest at September 30, 2020(2)	5,718,325	$	113.96	6.84	$	492
+
+
+Restricted Stock Units	Weighted-AverageGrant DateFair Value	Weighted-AverageRemainingContractualTerm(in years)	AggregateIntrinsicValue(1)(in millions)
+Outstanding at September 30, 2019	5,166,759	$	118.79
+Granted	2,352,714	$	183.61
+Vested	(2,561,379)	$	110.73
+Forfeited	(267,594)	$	147.70
+Outstanding at September 30, 2020	4,690,500	$	154.06	0.83	$	938
+
+
+Shares	Weighted-AverageGrant DateFair Value	Weighted-AverageRemainingContractualTerm(in years)	AggregateIntrinsicValue(1)(in millions)
+Outstanding at September 30, 2019	1,070,690	$	129.08
+Granted(2)	470,128	$	211.08
+Vested and earned	(546,018)	$	118.18
+Unearned	—	$	—
+Forfeited	—	$	—
+Outstanding at September 30, 2020	994,800	$	171.33	0.73	$	199
+
+
+For the Years Ending September 30,
+2021	2022	2023	2024	2025	Thereafter	Total
+(in millions)
+Software licenses	$	61	$	26	$	5	$	5	$	5	$	—	$	102
+
+
+For the Years Ended September 30,
+2020	2019	2018
+(in millions)
+U.S.	$	9,178	$	9,536	$	8,088
+Non-U.S.	4,612	5,348	4,718
+Total income before taxes	$	13,790	$	14,884	$	12,806
+
+
+For the Years Ended September 30,
+2020	2019	2018
+(in millions)
+Current:
+U.S. federal	$	1,662	$	1,504	$	2,819
+State and local	212	243	219
+Non-U.S.	743	843	754
+Total current taxes	2,617	2,590	3,792
+Deferred:
+U.S. federal	42	184	(1,214)
+State and local	9	28	(96)
+Non-U.S.	256	2	23
+Total deferred taxes	307	214	(1,287)
+Total income tax provision	$	2,924	$	2,804	$	2,505
+
+
+September 30,
+2020	2019
+(in millions)
+Deferred Tax Assets:
+Accrued compensation and benefits	$	114	$	117
+Accrued litigation obligation	204	273
+Client incentives	121	125
+Net operating loss carryforwards	80	65
+Comprehensive loss	148	33
+Federal benefit of state taxes	203	148
+Other	12	6
+Valuation allowance	(84)	(69)
+Deferred tax assets	798	698
+Deferred Tax Liabilities:
+Property, equipment and technology, net	(343)	(314)
+Intangible assets	(5,492)	(4,983)
+Foreign taxes	(137)	(184)
+Deferred tax liabilities	(5,972)	(5,481)
+Net deferred tax liabilities	$	(5,174)	$	(4,783)
+
+
+For the Years Ended September 30,
+2020	2019	2018
+(in millions, except percentages)
+U.S. federal income tax at statutory rate	$	2,896	21	%	$	3,126	21	%	$	3,141	25	%
+State income taxes, net of federal benefit	199	2	%	223	2	%	201	2	%
+Non-U.S. tax effect, net of federal benefit	(483)	(4)	%	(527)	(4)	%	(465)	(4)	%
+Transition tax on foreign earnings	—	—	%	—	—	%	1,147	9	%
+Remeasurement of deferred tax balances	329	2	%	—	—	%	(1,133)	(9)	%
+Other, net	(17)	—	%	(18)	—	%	(386)	(3)	%
+Income tax provision	$	2,924	21	%	$	2,804	19	%	$	2,505	20	%
+
+
+2020	2019	2018
+(in millions)
+Balance at beginning of period	$	2,234	$	1,658	$	1,353
+Increases of unrecognized tax benefits related to prior years	66	216	367
+Decreases of unrecognized tax benefits related to prior years	(83)	(13)	(233)
+Increases of unrecognized tax benefits related to current year	376	384	172
+Decreases related to settlements with taxing authorities	(12)	(9)	—
+Reductions related to lapsing statute of limitations	(2)	(2)	(1)
+Balance at end of period	$	2,579	$	2,234	$	1,658
+
+
+2020	2019
+(in millions)
+Balance at beginning of period	$	1,203	$	1,434
+Provision for uncovered legal matters	10	37
+Provision for covered legal matters	26	535
+Reestablishment of prior accrual related to interchange multidistrict litigation	467	—
+Payments for legal matters	(792)	(803)
+Balance at end of period	$	914	$	1,203
+
+
+2020	2019
+(in millions)
+Balance at beginning of period	$	1,198	$	1,428
+Provision for interchange multidistrict litigation	—	370
+Reestablishment of prior accrual related to interchange multidistrict litigation	467	—
+Payments for U.S. covered litigation	(777)	(600)
+Balance at end of period	$	888	$	1,198
+
+
+2020	2019
+(in millions)
+Balance at beginning of period	$	5	$	—
+Accrual for VE territory covered litigation	26	165
+Payments for VE territory covered litigation	(10)	(160)
+Balance at end of period	$	21	$	5
+
+
+Quarter Ended (unaudited)	Fiscal Year
+September 30,2020(1)	June 30,2020	March 31,2020	December 31,2019	2020
+(in millions, except per share data)
+Net revenues	$	5,101	$	4,837	$	5,854	$	6,054	$	21,846
+Operating income	$	3,142	$	2,999	$	3,924	$	4,016	$	14,081
+Net income	$	2,137	$	2,373	$	3,084	$	3,272	$	10,866
+Basic earnings per share
+Class A common stock	$	0.97	$	1.07	$	1.39	$	1.46	$	4.90
+Class B common stock	$	1.57	$	1.74	$	2.25	$	2.37	$	7.94
+Class C common stock	$	3.88	$	4.29	$	5.54	$	5.85	$	19.58
+Diluted earnings per share
+Class A common stock	$	0.97	$	1.07	$	1.38	$	1.46	$	4.89
+Class B common stock	$	1.57	$	1.74	$	2.25	$	2.37	$	7.93
+Class C common stock	$	3.87	$	4.29	$	5.54	$	5.84	$	19.56
+
+
+Quarter Ended (unaudited)	Fiscal Year
+September 30,2019(1)	June 30,2019	March 31,2019	December 31,2018	2019
+(in millions, except per share data)
+Net revenues	$	6,137	$	5,840	$	5,494	$	5,506	$	22,977
+Operating income	$	3,735	$	3,908	$	3,641	$	3,717	$	15,001
+Net income	$	3,025	$	3,101	$	2,977	$	2,977	$	12,080
+Basic earnings per share
+Class A common stock	$	1.34	$	1.37	$	1.31	$	1.30	$	5.32
+Class B common stock	$	2.19	$	2.23	$	2.13	$	2.12	$	8.68
+Class C common stock	$	5.38	$	5.48	$	5.23	$	5.20	$	21.30
+Diluted earnings per share
+Class A common stock	$	1.34	$	1.37	$	1.31	$	1.30	$	5.32
+Class B common stock	$	2.19	$	2.23	$	2.13	$	2.12	$	8.66
+Class C common stock	$	5.37	$	5.48	$	5.23	$	5.20	$	21.26
+
+
+Incorporated by Reference
+Exhibit	Exhibit	File	Exhibit	Filing
+Number	Description	Form	Number	Number	Date
+
+2.1	Amended and Restated Transaction Agreement, dated as of May 10, 2016, between Visa Inc. and Visa Europe Limited #	8-K	001-33977	2.1	5/10/2016
+
+3.1	Sixth Amended and Restated Certificate of Incorporation of Visa Inc.	8-K	001-33977	3.2	1/29/2015
+
+3.2	Certificate of Correction of the Certificate of Incorporation of Visa Inc.	8-K	001-33977	3.1	2/27/2015
+
+3.3	Amended and Restated Bylaws of Visa Inc.	10-Q	001-33977	3.3	7/31/2020
+
+4.1	Form of stock certificate of Visa Inc.	S-4/A	333-143966	4.1	9/13/2007
+
+4.2	Form of specimen certificate for class B common stock of Visa Inc.	8-A	000-53572	4.1	1/28/2009
+
+4.3	Form of specimen certificate for class C common stock of Visa Inc.	8-A	000-53572	4.2	1/28/2009
+
+4.4	Indenture dated December 14, 2015 between Visa Inc. and U.S. Bank National Association	8-K	001-33977	4.1	12/14/2015
+
+4.5	Form of 2.200% Senior Note due 2020	8-K	001-33977	4.3	12/14/2015
+
+4.6	Form of 2.150% Senior Note due 2022	8-K	001-33977	4.1	9/11/2017
+
+4.7	Form of 2.800% Senior Note due 2022	8-K	001-33977	4.4	12/14/2015
+
+4.8	Form of 3.150% Senior Note due 2025	8-K	001-33977	4.5	12/14/2015
+
+4.9	Form of 0.750% Senior Note due 2027	8-K	001-33977	4.1	8/17/2020
+
+4.10	Form of 1.900% Senior Note due 2027	8-K	001-33977	4.1	4/2/2020
+
+4.11	Form of 2.750% Senior Note due 2027	8-K	001-33977	4.2	9/11/2017
+
+4.12	Form of 2.050% Senior Note due 2030	8-K	001-33977	4.2	4/2/2020
+
+4.13	Form of 1.100% Senior Note due 2031	8-K	001-33977	4.2	8/17/2020
+
+4.14	Form of 4.150% Senior Note due 2035	8-K	001-33977	4.6	12/14/2015
+
+4.15	Form of 2.700% Senior Note due 2040	8-K	001-33977	4.3	4/2/2020
+
+4.16	Form of 4.300% Senior Note due 2045	8-K	001-33977	4.7	12/14/2015
+
+4.17	Form of 3.650% Senior Note due 2047	8-K	001-33977	4.3	9/11/2017
+
+4.18	Form of 2.000% Senior Note due 2050	8-K	001-33977	4.3	8/17/2020
+
+4.19	Certificate of Designations of Series A Convertible Participating Preferred Stock of Visa Inc.	8-K	001-33977	3.1	6/21/2016
+
+4.20	Certificate of Designations of Series B Convertible Participating Preferred Stock of Visa Inc.	8-K	001-33977	3.2	6/21/2016
+
+4.21	Certificate of Designations of Series C Convertible Participating Preferred Stock of Visa Inc.	8-K	001-33977	3.3	6/21/2016
+
+
+
+4.22	Description of Securities	10-K	001-33977	4.16	11/13/2019
+
+10.1	Form of Indemnity Agreement	10-Q	001-33977	10.1	1/31/2020
+
+10.2	Amended and Restated Global Restructuring Agreement, dated August 24, 2007, by and among Visa Inc., Visa International Service Association, Visa U.S.A. Inc., Visa Europe Limited, Visa Canada Association, Inovant LLC, Inovant, Inc., Visa Europe Services, Inc., Visa International Transition LLC, VI Merger Sub, Inc., Visa USA Merger Sub Inc. and 1734313 Ontario Inc.	S-4/A	333-143966	Annex A	9/13/2007
+
+10.3	Form of Escrow Agreement by and among Visa Inc., Visa U.S.A. Inc. and the escrow agent	S-4	333-143966	10.15	6/22/2007
+
+10.4	Form of Framework Agreement by and among Visa Inc., Visa Europe Limited, Inovant LLC, Visa International Services Association and Visa U.S.A. Inc. †	S-4/A	333-143966	10.17	7/24/2007
+
+10.5	Five Year Revolving Credit Agreement, amended and restated as of July 25, 2019, by and among Visa Inc., Visa International Service Association, Visa U.S.A. Inc. and Visa Europe Limited, as borrowers, Bank of America, N.A., as administrative agent, JPMorgan Chase Bank N.A., as syndication agent, and the lenders referred to therein #	10-K	001-33977	10.5	11/13/2019
+
+10.6	Form of Interchange Judgment Sharing Agreement by and among Visa International Service Association and Visa U.S.A. Inc., and the other parties thereto †	S-4/A	333-143966	10.13	7/24/2007
+
+10.7	Interchange Judgment Sharing Agreement Schedule	8-K	001-33977	10.2	2/8/2011
+
+10.8	Amendment of Interchange Judgment Sharing Agreement	10-K	001-33977	10.10	11/20/2015
+
+10.9	Form of Loss Sharing Agreement by and among Visa U.S.A. Inc., Visa International Service Association, Visa Inc. and various financial institutions	S-4/A	333-143966	10.14	7/24/2007
+
+10.10	Loss Sharing Agreement Schedule	8-K	001-33977	10.1	2/8/2011
+
+10.11	Amendment of Loss Sharing Agreement	10-K	001-33977	10.13	11/20/2015
+
+10.12	Form of Litigation Management Agreement by and among Visa Inc., Visa International Service Association, Visa U.S.A. Inc. and the other parties thereto	S-4/A	333-143966	10.18	8/22/2007
+
+10.13	Omnibus Agreement, dated February 7, 2011, regarding Interchange Litigation Judgment Sharing and Settlement Sharing by and among Visa Inc., Visa U.S.A. Inc., Visa International Service Association, Mastercard Incorporated, Mastercard International Incorporated and the parties thereto	8-K	001-33977	10.2	7/16/2012
+
+10.14	Amendment, dated August 26, 2014, to the Omnibus Agreement regarding Interchange Litigation Judgment Sharing and Settlement Sharing by and among Visa Inc., Visa U.S.A. Inc., Visa International Service Association, Mastercard Incorporated, Mastercard International Incorporated and the parties thereto	10-K	001-33977	10.14	11/21/2014
+
+
+
+10.15	Second Amendment, dated October 22, 2015, to Omnibus Agreement regarding Interchange Litigation Judgment Sharing and Settlement Sharing	10-K	001-33977	10.17	11/20/2015
+
+10.16	Settlement Agreement, dated October 19, 2012, by and among Visa Inc., Visa U.S.A. Inc., Visa International Service Association, Mastercard Incorporated, Mastercard International Incorporated, various U.S. financial institution defendants, and the class plaintiffs to resolve the class plaintiffs’ claims in the matter styled In re Payment Card Interchange Fee and Merchant Discount Antitrust Litigation, No. 05-MD-1720	10-Q	001-33977	10.3	2/6/2013
+
+10.17	Superseding and Amended Settlement Agreement, dated September 17, 2018, by and among Visa Inc., Visa U.S.A. Inc., Visa International Service Association, Mastercard Incorporated, Mastercard International Incorporated, various U.S. financial institution defendants, and the damages class plaintiffs to resolve the damages class plaintiffs’ claims in the matter styled In re Payment Card Interchange Fee and Merchant Discount Antitrust Litigation, No. 05-MD-1720	8-K	001-33977	10.1	9/18/2018
+
+10.18	Loss Sharing Agreement, dated as of November 2, 2015, among the UK Members listed on Schedule 1 thereto, Visa Inc. and Visa Europe Limited	8-K	001-33977	10.1	11/2/2015
+
+10.19	Litigation Management Deed, dated as of June 21, 2016, by and among the VE Member Representative, Visa Inc., the LMC Appointing Members, the UK&I DCC Appointing Members, the Europe DCC Appointing Members and the UK&I DCC Interested Members	8-K	001-33977	10.1	6/21/2016
+
+10.20*	Visa 2005 Deferred Compensation Plan, effective as of August 12, 2015	10-K	001-33977	10.21	11/20/2015
+
+10.21*	Visa Directors Deferred Compensation Plan, as amended and restated as of July 22, 2014	10-K	001-33977	10.17	11/21/2014
+
+10.22*	Visa Inc. 2007 Equity Incentive Compensation Plan, as amended and restated as of February 3, 2016	DEFA 14A	001-33977	Annex A	1/12/2016
+
+10.23*	Visa Inc. Incentive Plan, as amended and restated as of February 3, 2016	DEF 14A	001-33977	Annex B	12/11/2015
+
+10.24*	Visa Excess Thrift Plan, as amended and restated as of January 1, 2008	10-K	001-33977	10.31	11/21/2008
+
+10.25*	Visa Excess Retirement Benefit Plan, as amended and restated as of January 1, 2008	10-K	001-33977	10.32	11/21/2008
+
+10.26*	First Amendment, effective January 1, 2011, of the Visa Excess Retirement Benefit Plan, as amended and restated as of January 1, 2008	10-K	001-33977	10.34	11/18/2011
+
+10.27*	Visa Inc. Executive Severance Plan, effective as of November 3, 2010	8-K	001-33977	10.1	11/9/2010
+
+10.28*	Visa Inc. 2015 Employee Stock Purchase Plan	DEF 14A	001-33977	Appendix B	12/12/2014
+
+
+
+10.29*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for awards granted after November 18, 2013	10-Q	001-33977	10.1	1/30/2014
+
+10.30*	Form of Alternate Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for awards granted after November 18, 2013	10-Q	001-33977	10.5	1/30/2014
+
+10.31*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Director Restricted Stock Unit Award Agreement for awards granted after November 1, 2014	10-K	001-33977	10.40	11/21/2014
+
+10.32*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for awards granted after November 1, 2014	10-K	001-33977	10.41	11/21/2014
+
+10.33*	Form of Alternate Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for awards granted after November 1, 2014	10-K	001-33977	10.45	11/21/2014
+
+10.34*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for awards granted after November 1, 2015	10-Q	001-33977	10.1	1/28/2016
+
+10.35*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Unit Award Agreement for awards granted after November 1, 2015	10-Q	001-33977	10.2	1/28/2016
+
+10.36*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Performance Share Award Agreement for awards granted after November 1, 2015	10-Q	001-33977	10.3	1/28/2016
+
+10.37*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Director Restricted Stock Unit Award Agreement for awards granted after November 1, 2018	10-Q	001-33977	10.1	1/31/2019
+
+10.38*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Unit Award Agreement for the CEO for awards granted after November 1, 2018	10-Q	001-33977	10.2	1/31/2019
+
+10.39*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for the CEO for awards granted after November 1, 2018	10-Q	001-33977	10.3	1/31/2019
+
+10.40*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Performance Share Award Agreement for the CEO for awards granted after November 1, 2018	10-Q	001-33977	10.4	1/31/2019
+
+10.41*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Restricted Stock Unit Award Agreement for awards granted after November 1, 2018	10-Q	001-33977	10.5	1/31/2019
+
+10.42*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Stock Option Award Agreement for awards granted after November 1, 2018	10-Q	001-33977	10.6	1/31/2019
+
+
+
+10.43*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Performance Share Award Agreement for awards granted after November 1, 2018	10-Q	001-33977	10.7	1/31/2019
+
+10.44*	Form of Letter Agreement relating to Visa Inc. Executive Severance Plan	8-K	001-33977	10.2	11/9/2010
+
+10.45*	Form of Visa Inc. 2007 Equity Incentive Compensation Plan Director Restricted Stock Unit Award Agreement for awards granted after November 1, 2017	10-Q	001-33977	10.1	2/1/2018
+
+
+
+10.46+	Offer Letter, dated July 18, 2019, between Visa Inc. and Paul D. Fabara
+
+10.47*	Amended and Restated Aircraft Time Sharing Agreement, effective November 1, 2019, between Visa Inc. and Alfred F. Kelly, Jr.	10-K	001-33977	10.48	11/13/2019
+
+21.1+	List of Significant Subsidiaries of Visa Inc.
+
+23.1+	Consent of KPMG LLP, Independent Registered Public Accounting Firm
+
+31.1+	Certification of the Chief Executive Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+31.2+	Certification of the Chief Financial Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+32.1+	Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+32.2+	Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+101.INS	XBRL Instance Document
+
+101.SCH	XBRL Taxonomy Extension Schema Document
+
+101.CAL	XBRL Taxonomy Extension Calculation Linkbase Document
+
+101.DEF	XBRL Taxonomy Extension Definition Linkbase Document
+
+101.LAB	XBRL Taxonomy Extension Label Linkbase Document
+
+101.PRE	XBRL Taxonomy Extension Presentation Linkbase Document
+
+
+
+VISA INC.
+
+By:	/s/ Alfred F. Kelly, Jr.
+Name:	Alfred F. Kelly, Jr.
+Title:	Chairman and Chief Executive Officer
+Date:	November 19, 2020
+
+
+Signature	Title	Date
+
+/s/ Alfred F. Kelly, Jr.	Chairman and Chief Executive Officer, and Director	November 19, 2020
+Alfred F. Kelly, Jr.	(Principal Executive Officer)
+
+/s/ Vasant M. Prabhu	Vice Chairman and Chief Financial Officer	November 19, 2020
+Vasant M. Prabhu	(Principal Financial Officer)
+
+/s/ James H. Hoffmeister	Global Corporate Controller and Chief Accounting Officer	November 19, 2020
+James H. Hoffmeister	(Principal Accounting Officer)
+
+/s/ John F. Lundgren	Lead Independent Director	November 19, 2020
+John F. Lundgren
+
+/s/ Lloyd A. Carney	Director	November 19, 2020
+Lloyd A. Carney
+
+/s/ Mary B. Cranston	Director	November 19, 2020
+Mary B. Cranston
+
+/s/ Francisco Javier Fernández-Carbajal	Director	November 19, 2020
+Francisco Javier Fernández-Carbajal
+
+/s/ Ramon Laguarta	Director	November 19, 2020
+Ramon Laguarta
+
+/s/ Robert W. Matschullat	Director	November 19, 2020
+Robert W. Matschullat
+
+/s/ Denise M. Morrison	Director	November 19, 2020
+Denise M. Morrison
+
+/s/ Suzanne Nora Johnson	Director	November 19, 2020
+Suzanne Nora Johnson
+
+/s/ John A. C. Swainson	Director	November 19, 2020
+John A. C. Swainson
+
+/s/ Maynard G. Webb, Jr.	Director	November 19, 2020
+Maynard G. Webb, Jr.
+
