@@ -4,8 +4,10 @@ import re
 import requests
 import json
 
+# Base directory where the SEC filings are stored
 BASE_DIR = "E:\\Github\\FinScope\\sec_filings_new\\sec-edgar-filings"
 
+# Mapping for company full names
 company_names = {'AAPL': 'Apple', 'MSFT': 'Microsoft', 'V': 'Visa'}
 
 def get_companies():
@@ -21,7 +23,7 @@ def get_years_for_company(company):
             if match:
                 year = "20" + match.group(1) if match.group(1) < '30' else "19" + match.group(1)
                 years.append(year)
-        return sorted(set(years), reverse=True) 
+        return sorted(set(years), reverse=True)
     return []
 
 def get_cleaned_data_path(company, year):
@@ -47,7 +49,8 @@ def extract_relevant_data(file_path, pattern, lines_before, lines_after):
 st.title('SEC 10-K Filings Analysis')
 
 company = st.selectbox('Select Company', get_companies())
-year = st.selectbox('Select Year', get_years_for_company(company))
+years = get_years_for_company(company)
+year = st.selectbox('Select Year', years)
 
 analysis_options = {
     'Apple': ['Sales by Geographic Region', 'Net Sales by Category'],
@@ -56,44 +59,52 @@ analysis_options = {
 }
 
 selected_analysis_options = analysis_options.get(company, [])
-
 analysis_type = st.selectbox('Select Analysis Type', selected_analysis_options)
 
-if st.button('Fetch Data'):
-    file_path = get_cleaned_data_path(company, year)
-    if file_path:
-        if analysis_type == 'Sales by Geographic Region' and company == 'Apple':
-            data = extract_relevant_data(file_path, r'Americas.*\$', 2, 6)
-            prompt_text = """Analyze the regional sales trends for Apple Inc., highlighting significant variations and discussing potential influences from economic and market conditions:\n\n""" + data
-        elif analysis_type == 'Net Sales by Category' and company == 'Apple':
-            data = extract_relevant_data(file_path, r'iPhone \(1\).*\$', 2, 6)
-            prompt_text = """Explore the category-wise sales data for Apple Inc., analyzing trends and projecting future performance based on past data:\n\n""" + data
-        elif analysis_type == 'Net Income from Operations' and company == 'Microsoft':
-            data = extract_relevant_data(file_path, r'Net income.*\$', 2, 20)
-            prompt_text = """Examine the trend in Microsoft's net income from operations, interpreting the operational efficiency and fiscal management over the years:\n\n""" + data
-        elif analysis_type == 'Investing Activities Analysis' and company == 'Microsoft':
-            data = extract_relevant_data(file_path, r'Additions to property and equipment.*\(', 1, 6)
-            prompt_text = """Delve into Microsoft's investment activities, focusing on capital expenditures and their implications on financial strategy and company growth:\n\n""" + data
-        elif analysis_type == 'Consumer Credit Analysis' and company == 'Visa':
-            data = extract_relevant_data(file_path, r'Consumer credit\t\$', 1, 6)
-            prompt_text = """Assess Visa's performance across different payment segments with a focus on consumer credit, discussing the implications for market trends and strategic business decisions:\n\n""" + data
-        else:
-            data = "Analysis type not supported for the selected company"
-            prompt_text = "No analysis prompt available for this selection."
+analysis_mode = st.radio("Select Analysis Mode", ('Single Year Analysis', 'Trend Analysis'))
+range_years = sorted(years)[:5] if analysis_mode == 'Trend Analysis' else [year]
 
-        if data.startswith("Analysis type not supported"):
-            st.error(data)
-        else:
-            # API call configuration
-            response = requests.post(
-                "https://api.awanllm.com/v1/completions",
-                headers={'Content-Type': 'application/json', 'Authorization': 'Bearer api-key'},
-                json={"model": "Meta-Llama-3-8B-Instruct", "prompt": prompt_text}
-            )
-            if response.status_code == 201:
-                text_output = response.json()['choices'][0]['text']
-                st.text_area("Analysis Result", text_output, height=300)
+if st.button('Fetch Data'):
+    combined_data = ""
+    for yr in range_years:
+        file_path = get_cleaned_data_path(company, yr)
+        if file_path:
+            if analysis_type == 'Sales by Geographic Region' and company == 'Apple':
+                data = extract_relevant_data(file_path, r'Americas.*\$', 2, 6)
+                prompt_text = """Analyze the regional sales trends for Apple Inc., highlighting significant variations and discussing potential influences from economic and market conditions:\n\n""" + data
+            elif analysis_type == 'Net Sales by Category' and company == 'Apple':
+                data = extract_relevant_data(file_path, r'iPhone \(1\).*\$', 2, 6)
+                prompt_text = """Explore the category-wise sales data for Apple Inc., analyzing trends and projecting future performance based on past data:\n\n""" + data
+            elif analysis_type == 'Net Income from Operations' and company == 'Microsoft':
+                data = extract_relevant_data(file_path, r'Net income.*\$', 2, 20)
+                prompt_text = """Examine the trend in Microsoft's net income from operations, interpreting the operational efficiency and fiscal management over the years:\n\n""" + data
+            elif analysis_type == 'Investing Activities Analysis' and company == 'Microsoft':
+                data = extract_relevant_data(file_path, r'Additions to property and equipment.*\(', 1, 6)
+                prompt_text = """Delve into Microsoft's investment activities, focusing on capital expenditures and their implications on financial strategy and company growth:\n\n""" + data
+            elif analysis_type == 'Consumer Credit Analysis' and company == 'Visa':
+                data = extract_relevant_data(file_path, r'Consumer credit\t\$', 1, 6)
+                prompt_text = """Assess Visa's performance across different payment segments with a focus on consumer credit, discussing the implications for market trends and strategic business decisions:\n\n""" + data
             else:
-                st.error("API call failed with status code: {}".format(response.status_code))
-    else:
-        st.error("No cleaned data available for the selected company and year.")
+                continue
+            combined_data += f"Data for {yr}:\n{data}\n\n"
+        else:
+            st.error(f"No cleaned data available for {company} in {yr}.")
+            continue
+
+    if combined_data:
+        if analysis_mode == 'Trend Analysis':
+            prompt_text = f"Perform a trend analysis based on the following data for {company} from {range_years[0]} to {range_years[-1]}:\n\n{combined_data}"
+        else:
+            prompt_text = f"Analyze the following data for {company} in {year}:\n\n{combined_data}"
+
+        # API call configuration
+        response = requests.post(
+            "https://api.awanllm.com/v1/completions",
+            headers={'Content-Type': 'application/json', 'Authorization': 'Bearer api_key'},
+            json={"model": "Meta-Llama-3-8B-Instruct", "prompt": prompt_text}
+        )
+        if response.status_code == 201:
+            text_output = response.json()['choices'][0]['text']
+            st.text_area("Analysis Result", text_output, height=300)
+        else:
+            st.error(f"API call failed with status code: {response.status_code}")
