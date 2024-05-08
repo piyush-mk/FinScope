@@ -73,19 +73,19 @@ if st.button('Analyze Data!'):
         if file_path:
             if analysis_type == 'Sales by Geographic Region' and company == 'Apple':
                 data = extract_relevant_data(file_path, r'Americas.*\$', 2, 6)
-                prompt_text = """ Do not include the prompt, refrences or table of Data in the result. Analyze the regional sales trends for Apple Inc., highlighting significant variations and discussing potential influences from economic and market conditions:\n\n""" + data
+                prompt_text = """Analyze the regional sales trends for Apple Inc., highlighting significant variations and discussing potential influences from economic and market conditions:\n\n""" + data
             elif analysis_type == 'Net Sales by Category' and company == 'Apple':
                 data = extract_relevant_data(file_path, r'iPhone \(1\).*\$', 2, 6)
-                prompt_text = """ Do not include the prompt, refrences or table of Data in the result. Explore the category-wise sales data for Apple Inc., analyzing trends and projecting future performance based on past data:\n\n""" + data
+                prompt_text = """Explore the category-wise sales data for Apple Inc., analyzing trends and projecting future performance based on past data:\n\n""" + data
             elif analysis_type == 'Net Income from Operations' and company == 'Microsoft':
                 data = extract_relevant_data(file_path, r'Net income.*\$', 2, 20)
-                prompt_text = """ Do not include the prompt, refrences or table of Data in the result. Examine the trend in Microsoft's net income from operations, interpreting the operational efficiency and fiscal management over the years:\n\n""" + data
+                prompt_text = """Examine the trend in Microsoft's net income from operations, interpreting the operational efficiency and fiscal management over the years:\n\n""" + data
             elif analysis_type == 'Investing Activities Analysis' and company == 'Microsoft':
                 data = extract_relevant_data(file_path, r'Additions to property and equipment.*\(', 1, 6)
-                prompt_text = """ Do not include the prompt, refrences or table of Data in the result. Delve into Microsoft's investment activities, focusing on capital expenditures and their implications on financial strategy and company growth:\n\n""" + data
+                prompt_text = """Delve into Microsoft's investment activities, focusing on capital expenditures and their implications on financial strategy and company growth:\n\n""" + data
             elif analysis_type == 'Consumer Credit Analysis' and company == 'Visa':
                 data = extract_relevant_data(file_path, r'Consumer credit\t\$', 1, 6)
-                prompt_text = """ Do not include the prompt, refrences or table of Data in the result. Assess Visa's performance across different payment segments with a focus on consumer credit, discussing the implications for market trends and strategic business decisions:\n\n""" + data
+                prompt_text = """Assess Visa's performance across different payment segments with a focus on consumer credit, discussing the implications for market trends and strategic business decisions:\n\n""" + data
             else:
                 continue
             combined_data += f"Data for {yr}:\n{data}\n\n"
@@ -95,9 +95,9 @@ if st.button('Analyze Data!'):
 
     if combined_data:
         if analysis_mode == 'Trend Analysis':
-            prompt_text = f"Do not include code or visualizations. Do not include the prompt, refrences or table of Data in the result. Do not include steps, give only the answer, do not mark it as answer. Perform a trend analysis based on the following data for {company} from {range_years[0]} to {range_years[-1]}:\n\n{combined_data}"
+            prompt_text = f"Perform a trend analysis based on the following data for {company} from {range_years[0]} to {range_years[-1]}:\n\n{combined_data}"
         else:
-            prompt_text = f"Do not include code or visualizations. Do not include the prompt, refrences or table of Data in the result. Do not include steps, give only the answer, do not mark it as answer. Analyze the following data for {company} in {year}:\n\n{combined_data}"
+            prompt_text = f"Analyze the following data for {company} in {year}:\n\n{combined_data}"
 
         response = requests.post(
             "https://api.awanllm.com/v1/completions",
