@@ -4,8 +4,6 @@ import re
 import requests
 import json
 
-API_KEY = ""
-
 BASE_DIR = "E:\\Github\\FinScope\\sec_filings_new\\sec-edgar-filings"
 
 company_names = {'AAPL': 'Apple', 'MSFT': 'Microsoft', 'V': 'Visa'}
