@@ -36,9 +36,6 @@ FinScope is a Streamlit-based web application designed to analyze and visualize 
 - Configured the GitHub repository for Streamlit Cloud deployment, including setting up secrets for API keys.
 - Ensured the data directory structure in the GitHub repo matches the expected structure by the application.
 
-## Deployment
-The application is deployed and available for use at [FinScope on Streamlit Cloud](https://finscope.streamlit.app/).
-
 ## Usage
 To use the app, navigate to the deployed Streamlit Cloud application URL, select the desired company, year, and analysis type. The app will fetch the corresponding data, analyze it, and present the results along with visualizations.
 
