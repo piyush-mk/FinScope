@@ -4,10 +4,8 @@ import re
 import requests
 import json
 
-# Base directory where the SEC filings are stored
 BASE_DIR = "E:\\Github\\FinScope\\sec_filings_new\\sec-edgar-filings"
 
-# Mapping for company full names
 company_names = {'AAPL': 'Apple', 'MSFT': 'Microsoft', 'V': 'Visa'}
 
 def get_companies():
@@ -19,12 +17,14 @@ def get_years_for_company(company):
     years = []
     if os.path.exists(company_dir):
         for folder in os.listdir(company_dir):
-            match = re.search(r'-([0-9]{2})-[0-9]+$', folder)
-            if match:
-                year = "20" + match.group(1) if match.group(1) < '30' else "19" + match.group(1)
-                years.append(year)
+            if "cleaned_data.txt" in os.listdir(os.path.join(company_dir, folder)):
+                match = re.search(r'-([0-9]{2})-[0-9]+$', folder)
+                if match:
+                    year = "20" + match.group(1) if match.group(1) < '30' else "19" + match.group(1)
+                    years.append(year)
         return sorted(set(years), reverse=True)
     return []
+
 
 def get_cleaned_data_path(company, year):
     dir_name = {v: k for k, v in company_names.items()}.get(company, company)
@@ -100,7 +100,7 @@ if st.button('Fetch Data'):
         # API call configuration
         response = requests.post(
             "https://api.awanllm.com/v1/completions",
-            headers={'Content-Type': 'application/json', 'Authorization': 'Bearer api_key'},
+            headers={'Content-Type': 'application/json', 'Authorization': 'Bearer API_KEY'},
             json={"model": "Meta-Llama-3-8B-Instruct", "prompt": prompt_text}
         )
         if response.status_code == 201:
