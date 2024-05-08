@@ -4,6 +4,8 @@ import re
 import requests
 import json
 
+API_KEY=st.secrets["API_KEY"]
+
 BASE_DIR = "sec_filings_new/sec-edgar-filings"
 
 company_names = {'AAPL': 'Apple', 'MSFT': 'Microsoft', 'V': 'Visa'}
