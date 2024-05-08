@@ -4,7 +4,7 @@ import re
 import requests
 import json
 
-BASE_DIR = "E:\\Github\\FinScope\\sec_filings_new\\sec-edgar-filings"
+BASE_DIR = "sec_filings_new/sec-edgar-filings"
 
 company_names = {'AAPL': 'Apple', 'MSFT': 'Microsoft', 'V': 'Visa'}
 
