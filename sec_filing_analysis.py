@@ -194,7 +194,7 @@ if st.button('Analyze Data!'):
                 'Content-Type': 'application/json',
                 'Authorization': f'Bearer {API_KEY}'
             },
-            json={"model": "Meta-Llama-3-8B-Instruct", "prompt": prompt_text}
+            json={"model": "Awanllm-Llama-3-8B-Dolfin", "prompt": prompt_text}
         )
         # Checks if the API call was successful.
         if response.status_code == 201:
