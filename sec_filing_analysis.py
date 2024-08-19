@@ -197,11 +197,11 @@ if st.button('Analyze Data!'):
             json={"model": "Meta-Llama-3.1-8B-Instruct", "prompt": prompt_text}
         )
         # Checks if the API call was successful.
-        # if response.status_code == 201:
+        if response.status_code == 200:
         # Extracts the text output from the API response.
-        text_output = response.json()['choices'][0]['text']
-        # Displays the analysis result in a text area widget in the Streamlit app.
-        st.text_area("Analysis Result", text_output, height=500)
-        # else:
-        #     # Displays an error message if the API call fails.
-        #     st.error(f"API call failed with status code: {response.status_code}")
+            text_output = response.json()['choices'][0]['text']
+            # Displays the analysis result in a text area widget in the Streamlit app.
+            st.text_area("Analysis Result", text_output, height=500)
+        else:
+            # Displays an error message if the API call fails.
+            st.error(f"API call failed with status code: {response.status_code}")
